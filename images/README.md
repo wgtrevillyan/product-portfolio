@@ -4,7 +4,7 @@ Store site images in this folder using the following structure:
 
 | Directory | Use for |
 |-----------|---------|
-| `./` | Shared assets (header images, favicon, og:image, etc.) |
+| `./` | Shared assets (logo.svg, headshot.webp variants, favicon, og:image, etc.) |
 | `companies/` | Company logos and hero images for company pages |
 | `products/` | Product thumbnails, detail images, and gallery images |
 | `patents/` | Patent-related images |
