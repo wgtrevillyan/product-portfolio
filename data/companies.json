@@ -1,0 +1,204 @@
+[
+  {
+    "Name": "Clip Automation",
+    "Slug": "clip-automation",
+    "Website": "https://www.clipautomation.com/",
+    "Website Short": "https://www.clipautomation.com/",
+    "Logo (White)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6979443b92d701abc29a197d_Vector%20(10).svg",
+    "Logo (blue)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6979443fbba45f29ccaed123_Vector%20(9).svg",
+    "Start Date": "Jan 08, 2025",
+    "50 Character Description": "The real-time industrial observability platform for manufacturing enterprises",
+    "Detailed Description": "Clip Automation is an early-stage startup that provides a modern real-time industrial data platform for third-party logistics (3PL) and electronics manufacturing services (EMS) enterprises. Unlike traditional SCADA systems or generic analytics platforms, Clip delivers an integrated AI-powered solution that ingests machine telemetry data and transforms it into actionable operational intelligence, enabling manufacturing operators to monitor real-time production operations while empowering leadership with KPI-driven decision-making.",
+    "Highlights": "<p>•\tAcquired $XXXK in ARR from a Fortune 100 corporation by hiring and coordinating an engineering team of 5 to deliver an <strong>industrial observability platform </strong>for manufacturing operations</p>",
+    "Company Type": "Enterprise Saas",
+    "Industry": "Industrial IoT | Electronics Manufacturing and Logistics",
+    "Hero Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/697942e532e6dc088fa6abdc_photo_58%20(1).webp",
+    "Thumbnail": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/697942ed0d6523f413af6592_photo_57%20(1).webp",
+    "Skills": [
+      "product-strategy",
+      "execution",
+      "customer-research",
+      "design",
+      "hardware-engineering",
+      "communication"
+    ],
+    "Products": [
+      "clip360"
+    ]
+  },
+  {
+    "Name": "HomeMetrics",
+    "Slug": "homemetrics",
+    "Website": "https://www.homemetrics.io?src=personal_portfolio",
+    "Website Short": "http://homemetrics.io",
+    "Logo (White)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/65762844c6eb715cea637733_HomeMetrics.svg",
+    "Logo (blue)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6579012c64000c19292c07b7_HomeMetrics%20(1).svg",
+    "Start Date": "Jan 01, 2019",
+    "End Date": "Jan 01, 2021",
+    "50 Character Description": "The Smart Home Water Damage Monitoring Service for Homeowners",
+    "Detailed Description": "HomeMetrics is a proactive home health monitoring solution for predicting and preventing water damage at homeowners' properties. Install our smart home sensor network, and homeowners will receive 24/7 monitoring of their home's plumbing grid, saving them money and time and, most importantly, allowing them to focus on enjoying life.",
+    "Highlights": "<ul id=\"\"><li>Co-founded HomeMetrics during my senior year of college with a roommate</li></ul><ul><li id=\"\">Ran POCs with 5 homeowners, installing HomeMetrics, the smart home water damage monitor, in 5 homes by leading a cross-functional team to design, build and deliver an IoT sensor network with Android/iOS mobile apps</li></ul><ul id=\"\"><li id=\"\">Hired and managed a team of 15 engineering interns for a year</li></ul><ul id=\"\"><li id=\"\">Raised $21,000 from 4 startup pitch competitions for R&amp;D</li></ul><ul id=\"\"><li id=\"\">Obtained 2 patents on water leak sensing technologies</li></ul><ul id=\"\"><li id=\"\">Conducted 50+ customer discovery interviews</li></ul>",
+    "Company Type": "B2C IoT",
+    "Industry": "Smart Home Tech | IoT Tech",
+    "Hero Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704d65eb0df0a696f058158_photo54.webp",
+    "Thumbnail": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704d662156a64ece7cf3137_photo53.webp",
+    "Skills": [
+      "customer-research",
+      "hardware-engineering",
+      "communication",
+      "execution",
+      "prioritization"
+    ],
+    "Products": [
+      "water-monitor"
+    ],
+    "Patents": [
+      "fluid-detection-fabric-part-a",
+      "fluid-detection-fabric-part-b"
+    ]
+  },
+  {
+    "Name": "Incode Technologies",
+    "Slug": "incode-technologies",
+    "Website": "https://incode.com/",
+    "Website Short": "https://incode.com",
+    "Logo (White)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/657628547f832e848aa05aff_Incode%20(1).svg",
+    "Logo (blue)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/65790138a7f6145a39e509ac_Incode%20(2).svg",
+    "Start Date": "Jun 01, 2022",
+    "End Date": "Jan 01, 2023",
+    "50 Character Description": "The Identity Verification and Authentication Platform for Global Enterprises",
+    "Detailed Description": "During my tenure, Incode was a $1.2 billion unicorn after recently raising its Series B of $220 million. They leveraged biometric facial recognition technology alongside document scanning OCR technology to verify a person's identity by comparing their selfie to a government-issued ID document.",
+    "Highlights": "<p id=\"\">As the company's 2nd product manager, I watched this unicorn leverage its Series B of $220 million to grow from 200 to 330 employees. During my tenure, I...</p><ul id=\"\"><li id=\"\">Decreased a bank’s time-to-proven value by 50% (~3 months) by leading a cross-functional team to build and launch Incode Analytics, the fraud and conversion analytics dashboard for banking enterprises, using embedded Tableau dashboards with row-level security</li></ul><ul><li id=\"\">Closed $X million in revenue by coordinating the discovery, design, construction, and prototype demo of Incode Forms, a no-code solution for configuring custom user onboarding journeys to prevent fraud while maximizing conversion</li></ul><ul><li id=\"\">Increased the Product Management Team's job offer rate by 10X from 0.2 to 2 offers per month by reconstructing the Incode Product Hiring process and conducting 50+ interviews</li></ul><ul><li id=\"\">Alleviated data integrity concerns for two crucial clients by proposing and instigating an initiative to fix serious data architecture issues, followed by implementing user event tracking and logging</li></ul><ul><li id=\"\">Successfully aligned the CEO and VPs of engineering, machine learning, and hardware on the product vision and requirements for Incode Concierge, a novel CCTV facial recognition service that enables hospitality enterprises to provide best-in-class concierge services, by writing a 2-page narrative and leading three 30-min. discussions to unblock the engineering team and deliver the product to 2 pre-paid customers</li></ul><ul><li id=\"\">Led a cross-function team to design and develop a new experimental product offering for a U.S government agency (confidential)</li></ul><ul><li id=\"\">Improved access to and discoverability of product knowledge by leading an initiative to evaluate and launch Stack Overflow for Teams across the engineering, customer success, IT, and product teams</li></ul><ul><li id=\"\">Handled cross-functional communication &amp; collaboration concerning product initiatives with our enterprise sales, enterprise customer success, product marketing, security, compliance, legal, and human resources teams</li></ul>",
+    "Company Type": "Enterprise SaaS Unicorn",
+    "Industry": "Identity Tech",
+    "Hero Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704c5b47a0aa2ea21578341_photo46.webp",
+    "Thumbnail": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704cca6be5bdd8a8d291aca_photo45.webp",
+    "Skills": [
+      "communication",
+      "execution",
+      "prioritization",
+      "product-launches-and-marketing",
+      "product-strategy",
+      "data-analysis",
+      "customer-research",
+      "design"
+    ],
+    "Products": [
+      "incode-analytics",
+      "incode-forms",
+      "incode-concierge"
+    ]
+  },
+  {
+    "Name": "NewsNook",
+    "Slug": "newsnook",
+    "Website": "https://www.newsnook.io?utm_source=product_portfolio",
+    "Website Short": "https://newsnook.io",
+    "Logo (White)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/66943ce62a26757d584268d1_NN%20Vector.svg",
+    "Logo (blue)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/66943ce93dc19067eae25efb_NN%20Vector%20(1).svg",
+    "Start Date": "Feb 01, 2024",
+    "End Date": "Dec 31, 2024",
+    "50 Character Description": "The AI newsletter reader for thought leaders and executives",
+    "Detailed Description": "NewsNook.io is a novel application that helps thought leaders and executives streamline the consumption of their daily and weekly newsletters with a separate inbox for newsletters, semantic AI summarization, audio newscasts, note-taking, and more.",
+    "Highlights": "<ul id=\"\"><li id=\"\">Founded NewsNook at the beginning of 2024 as a side-hustle to help pay for rent, and teach myself how to build full stack applications</li></ul><ul id=\"\"><li id=\"\">Acquired 3 paying customers for $XXX in revenue and a beta waitlist consisting of 70+ C-suite executives by building a landing page using Webflow and running digital marketing campaigns</li></ul><ul id=\"\"><li id=\"\">Delivered a beta product to initial customers by building a progressive web app using Dart, Typescript, Javascript, Vercel, NextJS, Supabase DB, Supabase Edge, Trigger.dev, Google APIs, and FlutterFlow</li></ul><ul id=\"\"><li id=\"\">Conducted customer development interviews and user interviews by building multiple low-fidelity and high-fidelity Figma design prototypes</li></ul><ul id=\"\"><li id=\"\">Conducted customer discovery interviews with executives and thought leaders who regularly consume newsletters as their primary source of news</li></ul>",
+    "Company Type": "B2C SaaS",
+    "Industry": "Productivity | News & Media",
+    "Hero Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704d2b2907988625c382dd0_photo52.webp",
+    "Thumbnail": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704d2b57fae78d61ef7b8ea_photo51.webp",
+    "Skills": [
+      "customer-research",
+      "execution",
+      "product-launches-and-marketing",
+      "design",
+      "prioritization",
+      "data-analysis"
+    ],
+    "Products": [
+      "newsnook"
+    ]
+  },
+  {
+    "Name": "Property Meld",
+    "Slug": "property-meld",
+    "Website": "https://propertymeld.com/",
+    "Website Short": "https://propertymeld.com",
+    "Logo (White)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6576286912a776517f5c086a_Property%20Meld%20(3).svg",
+    "Logo (blue)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/65790142c32848fbdfbd331b_Property%20Meld%20(4).svg",
+    "Start Date": "Feb 01, 2020",
+    "End Date": "Jun 01, 2022",
+    "50 Character Description": "The leading maintenance management solution for SFR property managemers",
+    "Detailed Description": "Property Meld is property maintenance management software that automates and streamlines maintenance processes for property management companies, enhancing efficiency and reducing costs. It is like wrapping Calendly, Slack, CRM, and Asana together in a single package for property managers. As the sole product manager at Property Meld for most of my tenure, I watched our company grow from 25 to 50 employees and raise a Series B of $15 million.",
+    "Highlights": "<ul id=\"\"><li id=\"\">Helped achieve 73% growth in Annual Recurring Revenue (ARR) &amp; 112% Net Revenue Retention (NRR) by leading a cross-functional team alongside our CTO to construct our product strategy and roadmap with input from key internal stakeholders, a backlog of feature requests (pain points), 100+ customer discovery interviews, and SQL-driven data analyses</li></ul><ul><li id=\"\">Achieved higher property owner engagement with a 52% increase in owner communication by leading a cross-functional team to design, build, and launch a 0-to-1 product, Owner Hub, the maintenance ops control center for property owners</li></ul><ul><li id=\"\">Forced our largest competitor, who historically refused to integrate with us, to provide a 2-way data sync API integration by leading a cross-functional team to design, build, and launch a primitive 1-way data sync integration leveraging scheduled CSV reports, resulting in overwhelming pressure from their customer base</li></ul><ul><li id=\"\">Led a cross-functional team to design and launch PropertyCare+, a property owner’s self-service e-catalog of premium maintenance services</li></ul><ul><li id=\"\">Achieved a 2X increase in design &amp; development velocity by coordinating the construction of a Design System &amp; Component Library• Achieved a 91% increase in development velocity by coordinating the product team's transition from waterfall to SCRUM Agile Development alongside our VP of Engineering</li></ul><ul><li id=\"\">Successfully taught the customer success, support, and sales teams to think about product development strategically by establishing a Small Feature Enhancement development swimlane and leading a cross-functional team of key stakeholders to stack-rank customer pain points using a modified RICE prioritization method</li></ul>",
+    "Company Type": "B2B SaaS",
+    "Industry": "Property Tech",
+    "Hero Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704d3b7c2110c541ab6c8d1_photo48.webp",
+    "Thumbnail": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704d3bae50db21e9910079c_photo47.webp",
+    "Skills": [
+      "product-strategy",
+      "customer-research",
+      "communication",
+      "execution",
+      "design",
+      "product-launches-and-marketing",
+      "prioritization",
+      "data-analysis"
+    ],
+    "Products": [
+      "owner-hub",
+      "appfolio-sync",
+      "propertycareplus"
+    ]
+  },
+  {
+    "Name": "Trevillyan Labs",
+    "Slug": "trevillyan-labs",
+    "Website": "https://www.trevillyanlabs.io?src=bills_product_porfolio",
+    "Website Short": "http://trevillyanlabs.io",
+    "Logo (White)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/66943f34ca0bdb888a37751d_Vector%20(3).svg",
+    "Logo (blue)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/66943f30404e90e45485e2ca_Vector%20(4).svg",
+    "Start Date": "Aug 01, 2023",
+    "50 Character Description": "The Miscellaneous R&D Company",
+    "Detailed Description": "Trevillyan Labs is a research and development company I founded to maintain intellectual property ownership and limit liability risk. I founded this company after dissolving HomeMetrics. ",
+    "Highlights": "<ul><li>Acquired 2 patents for leak sensing technologies, known as Fluid Detection Fabric</li></ul>",
+    "Company Type": "R&D",
+    "Industry": "Manufacturing",
+    "Hero Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704d6b215a35786671d3b2f_photo56.webp",
+    "Thumbnail": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704d6b7357561adcfbddf07_photo55.webp",
+    "Skills": [
+      "hardware-engineering"
+    ],
+    "Patents": [
+      "fluid-detection-fabric-part-a",
+      "fluid-detection-fabric-part-b"
+    ]
+  },
+  {
+    "Name": "Verbaly",
+    "Slug": "verbaly",
+    "Website": "https://verbaly.ai?utm_source=bills_product_portfolio",
+    "Website Short": "https://verbaly.ai",
+    "Logo (White)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6576283343a2ed2ff49fd6ca_Verbaly.svg",
+    "Logo (blue)": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/65790121e73bef5ab0580d3d_Verbaly%20(1).svg",
+    "Start Date": "Mar 01, 2023",
+    "End Date": "Dec 01, 2023",
+    "50 Character Description": "The AI Speech Coach to Replace Toastmasters",
+    "Detailed Description": "Verbaly is a web application offering a humanized AI speech coach that records, evaluates, and trains its users to verbally communicate more effectively in job interviews, public speeches, sales calls, and workplace conversations.",
+    "Highlights": "<ul id=\"\"><li>Co-founded Verbaly in 2023 with a roommate a month before the release of ChatGPT</li></ul><ul><li id=\"\">Acquired 2300+ users and $XX in weekly recurring revenue by designing and launching a consumer web app known as Verbaly, the AI Speech Coach to replace Toastmasters, that leveraged Large Language Models (LLMs) and a Retrieval Augmented Generation (RAG) System</li></ul><ul id=\"\"><li id=\"\">Delivered an enterprise speech analysis API MVP as part of a 6-month sales conversation with the Bank of America</li></ul><ul id=\"\"><li id=\"\">Raised $25K from Jason Calacanis and LAUNCH as a convertible note by pitching to the LAUNCH investment team</li></ul><ul id=\"\"><li id=\"\">Conducted 70+ customer discovery interviews, competitor analysis, and other key research</li></ul><ul id=\"\"><li id=\"\">Designed and built the front end of Verbaly’s web app (app.verbaly.ai) using Bubble.io and v1 of Verbaly’s sales website using Squarespace</li></ul><ul id=\"\"><li id=\"\">Pursued Product-Market-Fit (PMF) by analyzing user behavior through Logrocket screen recordings, 3rd-party event tracking, and customer interviews, resulting in the release of various experimental features: Speech Analysis Engine, AI Speech Coach Chatbot, AI-conducted Mock Interviews, AI-conducted Investor Pitch with Q&amp;A, Mock Small Talk Conversations with an AI</li></ul><ul id=\"\"><li id=\"\">Acquired 700+ (of 2300+) users by leveraging growth hacking techniques to get unpaid mentions in notable industry newsletters (The Rundown AI, Futurepedia, AI Tools Club, etc.)</li></ul><ul id=\"\"><li id=\"\">Acquired 600+ (of 2300+) users by conducting digital marketing campaigns on Twitter and LinkedIn</li></ul><ul id=\"\"><li id=\"\">Established a partnership with StuPo, a student portal provider for universities in India, and released a white-labeled AI Mock Interview tool on their platform for university students at VNIT</li></ul>",
+    "Company Type": "B2C & B2B SaaS",
+    "Industry": "EdTech | Language Learning",
+    "Hero Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704d18f5c261dc604f998ab_photo50.webp",
+    "Thumbnail": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704d19382d9d369980da5dc_photo49.webp",
+    "Skills": [
+      "customer-research",
+      "design",
+      "execution",
+      "prioritization",
+      "product-launches-and-marketing",
+      "data-analysis"
+    ],
+    "Products": [
+      "verbaly-web-app",
+      "speech-analysis-api"
+    ]
+  }
+]

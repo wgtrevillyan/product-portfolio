@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "Fluid Detection Fabric: Part A",
+    "Slug": "fluid-detection-fabric-part-a",
+    "50 Character Description": "A method and system for detecting a leak via fluid detection fabric.",
+    "Startup Company": "trevillyan-labs",
+    "Application ID": "US 11,788,918 B2",
+    "Google Patent URL": "https://patents.google.com/patent/US11788918B2/en",
+    "Abstract": "A fluid detection system, method, and apparatus are disclosed. A fluid detection fabric includes a top layer, a middle layer, a bottom layer, a fluid detection sensor, and a control hub. The middle layer separates the top layer and bottom layer. The top layer, middle layer, and bottom layer are configured to connect electrically using a liquid pathway when liquid is present.",
+    "Featured": "false",
+    "Summary": "A method and system for detecting a leak for fluid detection fabric.",
+    "Description": "A fluid detection system, method, and apparatus are disclosed. A fluid detection fabric includes a top layer, a middle layer, a bottom layer, a fluid detection sensor, and a control hub. The middle layer separates the top layer and bottom layer. The top layer, middle layer, and bottom layer are configured to connect electrically using a liquid pathway when liquid is present.",
+    "Thumbnai Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/66a85917ff8816b3ba8aa4b3_photo43.webp",
+    "Project Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/66a8591b73e160bc6e7a0be2_photo44.webp",
+    "Start Date": "Apr 15, 2020",
+    "End Date": "Oct 17, 2023",
+    "Patented Date": "Oct 17, 2023",
+    "Services": [
+      "hardware-engineering",
+      "execution",
+      "communication",
+      "technical-writing"
+    ]
+  },
+  {
+    "Name": "Fluid Detection Fabric: Part B",
+    "Slug": "fluid-detection-fabric-part-b",
+    "50 Character Description": "The apparatus of fluid detection fabric.",
+    "Startup Company": "trevillyan-labs",
+    "Application ID": "US 12,123,807 B2",
+    "Google Patent URL": "https://patents.google.com/patent/US20230417621A1/en",
+    "Abstract": "A fluid detection system, method, and apparatus are disclosed. A fluid detection fabric includes a top layer, a middle layer, a bottom layer, a fluid detection sensor, and a control hub. The middle layer separates the top layer and bottom layer. The top layer, middle layer, and bottom layer are configured to connect electrically using a liquid pathway when liquid is present.",
+    "Featured": "false",
+    "Summary": "The apparatus for fluid detection fabric.",
+    "Description": "A fluid detection system, method, and apparatus are disclosed. A fluid detection fabric includes a top layer, a middle layer, a bottom layer, a fluid detection sensor, and a control hub. The middle layer separates the top layer and bottom layer. The top layer, middle layer, and bottom layer are configured to connect electrically using a liquid pathway when liquid is present.",
+    "Thumbnai Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/66a85906cfba7c80d661f004_photo41.webp",
+    "Project Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/66a8590a5d1ff8f73aefd946_photo42.webp",
+    "Start Date": "Sep 12, 2023",
+    "End Date": "Oct 22, 2024",
+    "Patented Date": "Oct 22, 2024",
+    "Services": [
+      "hardware-engineering",
+      "execution",
+      "communication",
+      "technical-writing"
+    ]
+  }
+]

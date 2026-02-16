@@ -1,0 +1,12 @@
+{
+  "name": "product-portfolio",
+  "version": "1.0.0",
+  "description": "William Trevillyan's Product Portfolio",
+  "scripts": {
+    "build:data": "node scripts/convert-csv-to-json.js",
+    "build": "npm run build:data"
+  },
+  "devDependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "Name": "B2B",
+    "Slug": "b2b"
+  },
+  {
+    "Name": "B2C",
+    "Slug": "b2c"
+  },
+  {
+    "Name": "Enterprise",
+    "Slug": "enterprise"
+  },
+  {
+    "Name": "IdentityTech",
+    "Slug": "identity-tech"
+  },
+  {
+    "Name": "IoT",
+    "Slug": "iot"
+  },
+  {
+    "Name": "Large Language Models",
+    "Slug": "llms"
+  },
+  {
+    "Name": "Machine Learning",
+    "Slug": "ml"
+  },
+  {
+    "Name": "Manufacturing",
+    "Slug": "manufacturing"
+  },
+  {
+    "Name": "Mobile App",
+    "Slug": "mobile-app"
+  },
+  {
+    "Name": "PropTech",
+    "Slug": "property-tech"
+  },
+  {
+    "Name": "SaaS",
+    "Slug": "saas"
+  },
+  {
+    "Name": "Smart Home Tech",
+    "Slug": "smart-home-tech"
+  },
+  {
+    "Name": "Web Application",
+    "Slug": "web-application"
+  }
+]
