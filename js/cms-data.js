@@ -35,6 +35,19 @@
     return str;
   }
 
+  function parseDateForSort(str) {
+    if (!str) return 0;
+    const d = new Date(str);
+    return isNaN(d.getTime()) ? 0 : d.getTime();
+  }
+
+  /** Items in progress with no end date sort first (top). getEndDate(item) returns the end date; inProgress(item) returns true to force top. */
+  function sortValueForEndDate(item, getEndDate, inProgress) {
+    const endDate = getEndDate(item);
+    if (inProgress && inProgress(item)) return Number.MAX_SAFE_INTEGER; /* tiebreak: use start date */
+    return parseDateForSort(endDate);
+  }
+
   function setText(el, text) {
     if (el) {
       el.textContent = text || '';
@@ -65,7 +78,10 @@
   async function renderIndex(data) {
     const { products, companies, skills } = data;
 
-    const featuredProducts = products.filter(p => p.Featured === 'true').slice(0, 6);
+    const featuredProducts = products
+      .filter(p => p.Featured === 'true')
+      .sort((a, b) => (a['Sort Order'] || 999) - (b['Sort Order'] || 999))
+      .slice(0, 6);
     const companiesMap = Object.fromEntries(companies.map(c => [c.Slug, c]));
     const skillsMap = Object.fromEntries(skills.map(s => [s.Slug, s]));
 
@@ -104,10 +120,12 @@
           const detailUrl = `detail_products.html?slug=${p.Slug}`;
           clone.querySelectorAll('a.portfolio-image-link, a[id*="view-project"]').forEach(a => { a.href = detailUrl; });
           setImgSrc(clone.querySelector('.portfolio-image'), p['Thumbnai Image'] || p['Project Image']);
+          const overlay = clone.querySelector('.image-overlay');
+          if (overlay) overlay.style.transform = 'translate3d(0, 100%, 0)';
           const company = companies.find(c => c.Slug === p['Startup Company']);
           setText(clone.querySelector('.heading-style-h5'), p.Name);
-          setText(clone.querySelector('.heading-style-h6'), company?.Name || p['Startup Company'] || '');
-          setText(clone.querySelector('.text-size-regular.dark'), p['50 Character Description'] || p.Summary);
+          setText(clone.querySelector('.heading-style-h6'), p['50 Character Description']);
+          setText(clone.querySelector('.text-size-regular.dark'), p.Summary);
           const tagList = clone.querySelector('.portfolio-tag-list');
           if (tagList) {
             const tagTemplate = tagList.querySelector('.w-dyn-item');
@@ -155,10 +173,12 @@
     const list = wrapper?.closest('.w-dyn-items');
     if (!list) return;
 
+    const prodInProgress = p => p['In Progress'] === 'true' && !p['End Date'];
+    const sorted = [...products].sort((a, b) => sortValueForEndDate(b, p => p['End Date'], prodInProgress) - sortValueForEndDate(a, p => p['End Date'], prodInProgress));
     const template = wrapper.cloneNode(true);
     list.innerHTML = '';
     list.closest('.w-dyn-list')?.querySelector('.w-dyn-empty')?.style.setProperty('display', 'none');
-    products.forEach(p => {
+    sorted.forEach(p => {
       const clone = template.cloneNode(true);
       const workItem = clone.querySelector('.work-item');
       const link = clone.querySelector('a.work-link, a[id*="product"]');
@@ -183,10 +203,12 @@
     const list = wrapper?.closest('.w-dyn-items');
     if (!list) return;
 
+    const coInProgress = c => !c['End Date'];
+    const sorted = [...companies].sort((a, b) => sortValueForEndDate(b, c => c['End Date'], coInProgress) - sortValueForEndDate(a, c => c['End Date'], coInProgress));
     const template = wrapper.cloneNode(true);
     list.innerHTML = '';
     list.closest('.w-dyn-list')?.querySelector('.w-dyn-empty')?.style.setProperty('display', 'none');
-    companies.forEach(c => {
+    sorted.forEach(c => {
       const clone = template.cloneNode(true);
       const workItem = clone.querySelector('.work-item');
       const link = clone.querySelector('a.work-link, a[id*="product"]');
@@ -208,14 +230,17 @@
     const list = wrapper?.closest('.w-dyn-items');
     if (!list) return;
 
+    const patentEndDate = p => p['Patented Date'] || p['End Date'];
+    const patentInProgress = p => p['In Progress'] === 'true' && !patentEndDate(p);
+    const sorted = [...patents].sort((a, b) => sortValueForEndDate(b, patentEndDate, patentInProgress) - sortValueForEndDate(a, patentEndDate, patentInProgress));
     const template = wrapper.cloneNode(true);
     list.innerHTML = '';
     list.closest('.w-dyn-list')?.querySelector('.w-dyn-empty')?.style.setProperty('display', 'none');
-    patents.forEach(p => {
+    sorted.forEach(p => {
       const clone = template.cloneNode(true);
       const workItem = clone.querySelector('.work-item');
       const link = clone.querySelector('a.work-link, a[id*="product"]');
-      if (link) link.href = `detail_patents.html?slug=${p.Slug}`;
+      if (link) link.href = p['Google Patent URL'] || `detail_patents.html?slug=${p.Slug}`;
       setText(workItem?.querySelector('.products'), p.Name);
       setText(workItem?.querySelector('.work-heading .text-size-medium'), p['50 Character Description'] || p.Summary);
       const dateEl = workItem?.querySelector('.work-heading + .portfolio-date');
@@ -232,8 +257,8 @@
     const skillsMap = Object.fromEntries((skills || []).map(s => [s.Slug, s]));
 
     setText(document.querySelector('.portfolio-header-content-left h1'), product.Name);
-    setText(document.querySelector('.portfolio-header-content-left h4'), product['Startup Company'] || '');
-    setText(document.querySelector('.portfolio-header-content-left .text-size-medium'), product['50 Character Description'] || product.Summary);
+    setText(document.querySelector('.portfolio-header-content-left h4'), product['50 Character Description'] || product.Summary);
+    setText(document.querySelector('.portfolio-header-content-left .text-size-medium'), product.Description || '');
     setImgSrc(document.querySelector('.hero-image'), product['Project Image'] || product['Thumbnai Image']);
 
     const tagList = document.querySelector('.portfolio-header-tag-list');
