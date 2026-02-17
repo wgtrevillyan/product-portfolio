@@ -10,7 +10,8 @@ const ROOT = path.resolve(__dirname, '..');
 const HEADER_PATH = path.join(ROOT, 'components', 'header.html');
 
 // Match navbar-2-component block (not navbar-component used by detail_skills)
-const HEADER_REGEX = /<div data-animation="default" class="navbar-2-component w-nav"[\s\S]*?<\/div>\s*<\/div>\s*<\/div>\s*<\/div>\s*(?=\s*<(?:div class="hero-section"|main class="main-wrapper"|section class="section-contact"))/;
+// Use \s+ to allow multi-line attribute formatting (e.g. index.html)
+const HEADER_REGEX = /<div\s+data-animation="default"\s+class="navbar-2-component w-nav"[\s\S]*?<\/div>\s*<\/div>\s*<\/div>\s*<\/div>\s*(?=\s*<(?:div class="hero-section"|main class="main-wrapper"|section class="section-contact"))/;
 
 /** Derive current page from filename for nav highlighting */
 function getCurrentPage(filename) {
