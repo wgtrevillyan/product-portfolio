@@ -629,6 +629,17 @@ figcaption {
   color: var(--light-grey);
 }
 
+/* Override browser autofill background (Chrome/Safari/Edge apply light grey/white by default) */
+.form-input:-webkit-autofill,
+.form-input:-webkit-autofill:hover,
+.form-input:-webkit-autofill:focus,
+.form-input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px var(--dark-grey) inset !important;
+  box-shadow: 0 0 0 30px var(--dark-grey) inset !important;
+  -webkit-text-fill-color: var(--light-mid-grey) !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
 .form-input.is-text-area {
   height: auto;
   min-height: 11.25rem;
@@ -878,6 +889,7 @@ figcaption {
 .success-message {
   background-color: var(--dark-grey);
   padding: 1.5rem;
+  text-align: center;
 }
 
 .error-message {
