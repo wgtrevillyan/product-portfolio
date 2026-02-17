@@ -328,6 +328,10 @@ LogRocket.identify(trevillyanlabsmpdistinctid);
       	mixpanel.track('Twitter Profile Opened', {
           'button': mp_element_id
       	})
+      } else if (mp_element_id == 'footer-github-button') {
+      	mixpanel.track('GitHub Profile Opened', {
+          'button': mp_element_id
+      	})
       } else {
       	mixpanel.track('Unknown Event Triggered', {
           'Active Element': mp_element_id
