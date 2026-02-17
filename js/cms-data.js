@@ -6,8 +6,7 @@
   'use strict';
 
   async function fetchJSON(path) {
-    const base = window.location.pathname.replace(/\/[^/]*$/, '') || '';
-    const url = (base.endsWith('/') ? base : base + '/') + 'data/' + path;
+    const url = '/data/' + path;
     const res = await fetch(url);
     if (!res.ok) throw new Error(`Failed to load ${path}`);
     return res.json();
@@ -15,15 +14,28 @@
 
   function getPageType() {
     const path = window.location.pathname;
-    if (path.endsWith('index.html') || path === '/' || path.endsWith('/')) return 'index';
-    if (path.includes('products')) return path.includes('detail_') ? 'detail_product' : 'products';
-    if (path.includes('companies')) return path.includes('detail_') ? 'detail_company' : 'companies';
-    if (path.includes('patents')) return path.includes('detail_') ? 'detail_patent' : 'patents';
+    if (path.endsWith('index.html') || path === '/' || path === '' || path.endsWith('/') && path.length <= 2) return 'index';
+    const productsMatch = path.match(/^\/products\/([^/]+)$/);
+    if (productsMatch) return 'detail_product';
+    if (path === '/products') return 'products';
+    const companiesMatch = path.match(/^\/companies\/([^/]+)$/);
+    if (companiesMatch) return 'detail_company';
+    if (path === '/companies') return 'companies';
+    const patentsMatch = path.match(/^\/patents\/([^/]+)$/);
+    if (patentsMatch) return 'detail_patent';
+    if (path === '/patents') return 'patents';
     if (path.includes('skills')) return path.includes('detail_') ? 'detail_skill' : 'skills';
     return null;
   }
 
   function getSlug() {
+    const path = window.location.pathname;
+    const productsMatch = path.match(/^\/products\/([^/]+)$/);
+    if (productsMatch) return productsMatch[1];
+    const companiesMatch = path.match(/^\/companies\/([^/]+)$/);
+    if (companiesMatch) return companiesMatch[1];
+    const patentsMatch = path.match(/^\/patents\/([^/]+)$/);
+    if (patentsMatch) return patentsMatch[1];
     const params = new URLSearchParams(window.location.search);
     return params.get('slug') || params.get('item');
   }
@@ -196,7 +208,7 @@
           const clone = template.cloneNode(true);
           const link = clone.querySelector('a.logo-link-block, a[id*="company"]');
           if (link) {
-            link.href = `detail_companies.html?slug=${c.Slug}`;
+            link.href = `/companies/${c.Slug}`;
             const logoUrl = c['Logo (White)'] || c['Logo (blue)'] || c.Thumbnail;
             if (logoUrl) {
               link.innerHTML = '';
@@ -220,7 +232,7 @@
         list.closest('.w-dyn-list')?.querySelector('.w-dyn-empty')?.style.setProperty('display', 'none');
         featuredProducts.forEach(p => {
           const clone = template.cloneNode(true);
-          const detailUrl = `detail_products.html?slug=${p.Slug}`;
+          const detailUrl = `/products/${p.Slug}`;
           clone.querySelectorAll('a.portfolio-image-link, a[id*="view-project"]').forEach(a => { a.href = detailUrl; });
           setImgSrc(clone.querySelector('.portfolio-image'), p['Thumbnai Image'] || p['Project Image']);
           const overlay = clone.querySelector('.image-overlay');
@@ -285,7 +297,7 @@
       const clone = template.cloneNode(true);
       const workItem = clone.querySelector('.work-item');
       const link = clone.querySelector('a.work-link, a[id*="product"]');
-      if (link) link.href = `detail_products.html?slug=${p.Slug}`;
+      if (link) link.href = `/products/${p.Slug}`;
       setText(workItem?.querySelector('.products'), p.Name);
       setText(workItem?.querySelector('.work-heading .text-size-medium'), p['50 Character Description'] || p.Summary);
       const dateEl = workItem?.querySelector('.work-heading + .portfolio-date');
@@ -315,7 +327,7 @@
       const clone = template.cloneNode(true);
       const workItem = clone.querySelector('.work-item');
       const link = clone.querySelector('a.work-link, a[id*="product"]');
-      if (link) link.href = `detail_companies.html?slug=${c.Slug}`;
+      if (link) link.href = `/companies/${c.Slug}`;
       setText(workItem?.querySelector('.products'), c.Name);
       setText(workItem?.querySelector('.work-heading .text-size-medium'), c['50 Character Description']);
       const dateEl = workItem?.querySelector('.work-heading + .portfolio-date');
@@ -345,7 +357,7 @@
       const clone = template.cloneNode(true);
       const workItem = clone.querySelector('.work-item');
       const link = clone.querySelector('a.work-link, a[id*="product"]');
-      if (link) link.href = p['Google Patent URL'] || `detail_patents.html?slug=${p.Slug}`;
+      if (link) link.href = p['Google Patent URL'] || `/patents/${p.Slug}`;
       setText(workItem?.querySelector('.products'), p.Name);
       const flexParts = workItem?.querySelectorAll('.flex-block-3 .text-size-medium');
       if (flexParts?.[0]) setText(flexParts[0], p['Application ID'] || '');
@@ -390,7 +402,7 @@
     if (company) {
       const logoLink = document.querySelector('#body-company-button');
       if (logoLink) {
-        logoLink.href = `detail_companies.html?slug=${company.Slug}`;
+        logoLink.href = `/companies/${company.Slug}`;
         const logoUrl = company['Logo (White)'] || company.Thumbnail;
         if (logoUrl) {
           logoLink.style.webkitMaskImage = `url("${logoUrl}")`;
@@ -609,7 +621,7 @@
           if (dateEls?.[0]) setText(dateEls[0], dateText);
           if (dateEls?.[1]) dateEls[1].style.display = 'none';
           const link = clone.querySelector('a.work-link');
-          if (link) link.href = `detail_products.html?slug=${p.Slug}`;
+          if (link) link.href = `/products/${p.Slug}`;
           setImgSrc(workItem?.querySelector('.product-list-thumbnail-image'), p['Thumbnai Image'] || p['Project Image']);
           list.appendChild(clone);
         });
@@ -633,7 +645,7 @@
           if (dateEls?.[0]) setText(dateEls[0], dateText);
           if (dateEls?.[1]) dateEls[1].style.display = 'none';
           const link = clone.querySelector('a.work-link');
-          if (link) link.href = p['Google Patent URL'] || `detail_patents.html?slug=${p.Slug}`;
+          if (link) link.href = p['Google Patent URL'] || `/patents/${p.Slug}`;
           setImgSrc(workItem?.querySelector('.product-list-thumbnail-image'), p['Thumbnai Image'] || p['Project Image']);
           list.appendChild(clone);
         });

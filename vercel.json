@@ -1,4 +1,21 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "."
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/products/:slug", "destination": "/detail_products.html" },
+    { "source": "/companies/:slug", "destination": "/detail_companies.html" },
+    { "source": "/patents/:slug", "destination": "/detail_patents.html" },
+    { "source": "/products", "destination": "/products.html" },
+    { "source": "/patents", "destination": "/patents.html" },
+    { "source": "/companies", "destination": "/companies.html" },
+    { "source": "/let-us-chat", "destination": "/let-us-chat.html" },
+    { "source": "/detail_products", "destination": "/detail_products.html" },
+    { "source": "/detail_patents", "destination": "/detail_patents.html" },
+    { "source": "/detail_companies", "destination": "/detail_companies.html" },
+    { "source": "/detail_skills", "destination": "/detail_skills.html" },
+    { "source": "/detail_tags", "destination": "/detail_tags.html" },
+    { "source": "/detail_product-images", "destination": "/detail_product-images.html" },
+    { "source": "/404", "destination": "/404.html" },
+    { "source": "/401", "destination": "/401.html" }
+  ]
 }
