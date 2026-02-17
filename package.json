@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "William Trevillyan's Product Portfolio",
   "scripts": {
-    "build:data": "node scripts/convert-csv-to-json.js",
-    "build": "npm run build:data"
+    "build:footer": "node scripts/inject-footer.js",
+    "build:header": "node scripts/inject-header.js",
+    "build": "npm run build:header && npm run build:footer",
+    "cleanup": "node scripts/cleanup-placeholders.js"
   },
-  "devDependencies": {
-    "csv-parse": "^5.5.6"
-  }
+  "devDependencies": {}
 }
