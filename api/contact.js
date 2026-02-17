@@ -24,15 +24,11 @@ module.exports = async (req, res) => {
     await transporter.sendMail({
       from: process.env.SMTP_USER,
       to: 'wgtrevillyan@gmail.com',
+      cc: email,
       replyTo: email,
-      subject: 'Product Portfolio Contact Request',
-      text: `From: ${name}\nEmail: ${email}\n\n${message}`,
-      html: `
-        <p><strong>From:</strong> ${name}</p>
-        <p><strong>Email:</strong> ${email}</p>
-        <p><strong>Message:</strong></p>
-        <p>${String(message).replace(/\n/g, '<br>')}</p>
-      `,
+      subject: `Portfolio Contact Request: ${name}`,
+      text: `${message}`,
+      html: `<p>${String(message).replace(/\n/g, '<br>')}</p>`,
     });
 
     return res.status(200).json({ success: true });

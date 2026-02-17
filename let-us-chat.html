@@ -270,8 +270,9 @@ LogRocket.identify(trevillyanlabsmpdistinctid);
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ name: nameVal, email: emailVal, message: msgVal })
       }).then(function(r) {
-        return r.json().then(function(data) {
-          if (r.ok) {
+        var ok = r.ok;
+        return r.text().then(function(text) {
+          if (ok) {
             form.style.display = 'none';
             successEl.style.display = 'block';
           } else {
