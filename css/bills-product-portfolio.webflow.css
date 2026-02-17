@@ -870,6 +870,11 @@ figcaption {
   display: block;
 }
 
+.contact-component .success-message,
+.contact-component .error-message {
+  display: none;
+}
+
 .success-message {
   background-color: var(--dark-grey);
   padding: 1.5rem;
