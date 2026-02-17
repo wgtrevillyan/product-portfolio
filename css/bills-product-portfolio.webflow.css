@@ -2601,7 +2601,7 @@ figcaption {
   }
 
   .navbar-menu.is-page-height-tablet {
-    z-index: -1;
+    z-index: 2;
     background-color: var(--dark-grey);
     text-align: left;
     justify-content: center;
@@ -2876,8 +2876,17 @@ figcaption {
 
   .section-header {
     align-items: center;
+    justify-content: center;
+    flex-direction: column;
     min-height: 60vh;
     display: flex;
+  }
+
+  .section-header .padding-global {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .portfolio-list {
