@@ -182,7 +182,7 @@ LogRocket.identify(trevillyanlabsmpdistinctid);
           </div>
         </div>
       </section>
-                                                                                                                                                                                    <footer class="footer-component">
+                                                                                                                                                                                          <footer class="footer-component">
         <div class="padding-global">
           <div class="container-large">
             <div class="padding-vertical padding-xxlarge">
@@ -220,6 +220,7 @@ LogRocket.identify(trevillyanlabsmpdistinctid);
           </div>
         </div>
       </footer>
+
 
 
 
@@ -303,13 +304,14 @@ LogRocket.identify(trevillyanlabsmpdistinctid);
   // on button click
   const buttonList = document.querySelectorAll('.mixpanel-trigger');
   buttonList.forEach(buttonItem => {
-    buttonItem.addEventListener('click', () => mptrackevent());    
+    buttonItem.addEventListener('click', (e) => mptrackevent(e));
   });
-  function mptrackevent() {	
-      const mp_element_id = this.document.activeElement.id;
-      const mp_element_href = String(this.document.activeElement.href);
-      const mp_element_href2 = new URL(mp_element_href);
-      const mp_element_path = mp_element_href2.pathname;
+  function mptrackevent(ev) {
+      const el = ev && ev.currentTarget ? ev.currentTarget : document.activeElement;
+      const mp_element_id = el ? (el.id || '') : '';
+      const mp_element_href = el && el.href ? String(el.href) : '';
+      let mp_element_path = '';
+      if (mp_element_href) { try { mp_element_path = new URL(mp_element_href).pathname; } catch (err) {} }
       //navbar buttons
         //desktop
 	  if (mp_element_id == 'navbar-logo-button') {
@@ -337,7 +339,6 @@ LogRocket.identify(trevillyanlabsmpdistinctid);
       	mixpanel.track('Navbar Menu Opened', {
           'button': mp_element_id
       	})
-        body-scrollto-featured-work
       //body buttons
         //HOME
       } else if (mp_element_id == 'body-profile-photo-button') {

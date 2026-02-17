@@ -208,7 +208,7 @@ LogRocket.identify(trevillyanlabsmpdistinctid);
         </div>
       </section>
     </div>
-                                                                                                                                                                                  <footer class="footer-component">
+                                                                                                                                                                                        <footer class="footer-component">
         <div class="padding-global">
           <div class="container-large">
             <div class="padding-vertical padding-xxlarge">
@@ -275,6 +275,7 @@ LogRocket.identify(trevillyanlabsmpdistinctid);
 
 
 
+
   </div>
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=65750a3e8e33e5e91390ef9b" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script src="/js/webflow.js" type="text/javascript"></script>
@@ -283,13 +284,14 @@ LogRocket.identify(trevillyanlabsmpdistinctid);
   // on button click
   const buttonList = document.querySelectorAll('.mixpanel-trigger');
   buttonList.forEach(buttonItem => {
-    buttonItem.addEventListener('click', () => mptrackevent());    
+    buttonItem.addEventListener('click', (e) => mptrackevent(e));
   });
-  function mptrackevent() {	
-      const mp_element_id = this.document.activeElement.id;
-      const mp_element_href = String(this.document.activeElement.href);
-      const mp_element_href2 = new URL(mp_element_href);
-      const mp_element_path = mp_element_href2.pathname;
+  function mptrackevent(ev) {
+      const el = ev && ev.currentTarget ? ev.currentTarget : document.activeElement;
+      const mp_element_id = el ? (el.id || '') : '';
+      const mp_element_href = el && el.href ? String(el.href) : '';
+      let mp_element_path = '';
+      if (mp_element_href) { try { mp_element_path = new URL(mp_element_href).pathname; } catch (err) {} }
       //navbar buttons
         //desktop
 	  if (mp_element_id == 'navbar-logo-button') {
@@ -317,7 +319,6 @@ LogRocket.identify(trevillyanlabsmpdistinctid);
       	mixpanel.track('Navbar Menu Opened', {
           'button': mp_element_id
       	})
-        body-scrollto-featured-work
       //body buttons
         //HOME
       } else if (mp_element_id == 'body-profile-photo-button') {
