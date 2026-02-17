@@ -8,5 +8,8 @@
     "build": "npm run build:header && npm run build:footer",
     "cleanup": "node scripts/cleanup-placeholders.js"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "nodemailer": "^6.9.16"
+  }
 }
