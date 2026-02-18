@@ -4,7 +4,7 @@
     "Slug": "clip-360-sign-in",
     "Button ID (Image Order)": "0",
     "Product": "clip360",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/697953f97c7e693ec70beea7_Sign%20In%20Screen%20for%20Clip360.webp",
+    "Image": "/images/product-images/clip-360-sign-in.webp",
     "Image Description": "The sign in screen for Clip's Web App: Clip360"
   },
   {
@@ -12,7 +12,7 @@
     "Slug": "newsnook-screens-compilation",
     "Button ID (Image Order)": "00-newsnook-screens-compilation",
     "Product": "newsnook",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/66ac296705b1ffb1f9642d08_newsnookappscreenshots%20(3).webp",
+    "Image": "/images/product-images/newsnook-screens-compilation.webp",
     "Image Description": "This shows a compilation of the various screens users can see within the web and mobile apps, including Login, Reading a Newsletter, Listening to a Newsletter, and their Newsletter inbox."
   },
   {
@@ -20,7 +20,7 @@
     "Slug": "app-landing-page",
     "Button ID (Image Order)": "01-app-landing-page",
     "Product": "verbaly-web-app",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e8da12fa79daf10b90b4be_applandingpage.webp",
+    "Image": "/images/product-images/app-landing-page.webp",
     "Image Description": "This is the first page users see when opening Verbaly, the AI speech coach to replace Toastmasters."
   },
   {
@@ -28,7 +28,7 @@
     "Slug": "app-screens",
     "Button ID (Image Order)": "01-app-screens",
     "Product": "water-monitor",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e848ef476c10c2fd00bfe1_hmappscreens.webp",
+    "Image": "/images/product-images/app-screens.webp",
     "Image Description": "This image shows the 3 most commonly viewed screens (for Android) within the HomeMetrics' iOS and Android mobile apps. The first screen is what new users see when they open the app. The second screen shows a homeowner's daily water usage and other key factors like water pressure and temperature. The final screen shows a homeowner's in-app notifications. "
   },
   {
@@ -36,7 +36,7 @@
     "Slug": "appfolio-sync-diagram",
     "Button ID (Image Order)": "01-appfolio-sync-diagram",
     "Product": "appfolio-sync",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e831b377212e66048a59ab_Screenshot%202024-02-28%20at%207.47.30%E2%80%AFPM.png",
+    "Image": "/images/product-images/appfolio-sync-diagram.png",
     "Image Description": "The following diagram describes how data is imported from Appfolio into Property Meld using several CSV reports that are sent daily via email."
   },
   {
@@ -44,7 +44,7 @@
     "Slug": "incode-analytics-overview",
     "Button ID (Image Order)": "01-incode-analytics-overview",
     "Product": "incode-analytics",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e67f7e2075767ca3207f12_incodeanalytics21.webp",
+    "Image": "/images/product-images/incode-analytics-overview.webp",
     "Image Description": "This image shows the Overview Tab of Incode Analytics v1, the Fraud and Conversion Analytics Dashboard for Banking Enterprises. A bank's fraud detection and digital banking growth teams' can leverage this Overview Tab to understand at a high level the \"what, when, where, why, and how\" behind their digital onboarding experience conversion and fraud detection rates. The Funnel Tab can be used to understand further where users are dropping off in the conversion funnel and why, especially related to a user's digital identity verification experience."
   },
   {
@@ -52,7 +52,7 @@
     "Slug": "incode-concierge-service-diagram",
     "Button ID (Image Order)": "01-incode-concierge-service-diagram",
     "Product": "incode-concierge",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e928e287f10c3019914b77_incodeconciergeservicediagram.webp",
+    "Image": "/images/product-images/incode-concierge-service-diagram.webp",
     "Image Description": "The following diagram describes on a vague, high level the technology we developed and sold to hospitality enterprises for identifying and tracking VIP customers using CCTV cameras. Due to confidentiality reasons, I can't speak in more detail about how the technology works or how it was designed."
   },
   {
@@ -60,7 +60,7 @@
     "Slug": "incode-forms-workflow",
     "Button ID (Image Order)": "01-incode-forms-workflow",
     "Product": "incode-forms",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e94524dbbed8a369521e30_formsdemo.webp",
+    "Image": "/images/product-images/incode-forms-workflow.webp",
     "Image Description": "This mockup and several other mockups conveying mobile forms experiences were used to close a $X million contract. The banking enterprise wanted to leverage Incode's digital identity verification technology but had unique requirements that a competitor was more prepared to satisfy. However, we promised to work with them to design and build Incode Forms, allowing them to construct a digital onboarding experience for their users that would verify their identities and retrieve crucial information related to their business. I coordinated the discovery and design of this product, but I left the company before it was released. "
   },
   {
@@ -68,7 +68,7 @@
     "Slug": "management-hubs-propertycare-landing-page",
     "Button ID (Image Order)": "01-management-hubs-propertycare-landing-page",
     "Product": "propertycareplus",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e80e8095ed851cfd57ce5d_managementhub-pcplandingpage.webp",
+    "Image": "/images/product-images/management-hubs-propertycare-landing-page.webp",
     "Image Description": "Located within Property Meld's Management Hub, this is the landing page property managers see when first coming to PropertyCare+."
   },
   {
@@ -76,7 +76,7 @@
     "Slug": "meld-history",
     "Button ID (Image Order)": "01-meld-history",
     "Product": "owner-hub",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e929eb3566241e633ef53d_meldhistory%20(3).webp",
+    "Image": "/images/product-images/meld-history.webp",
     "Image Description": "This page lists all the Melds (maintenance tasks) that have already occurred or will occur on a property owner's property so that the property owner can look through their property or properties' maintenance history. If they need to chat with their property manager on any of the Melds, they can quickly via a Chat Drawer that pops out."
   },
   {
@@ -84,7 +84,7 @@
     "Slug": "newsnook-desktop-inbox",
     "Button ID (Image Order)": "01-newsnook-desktop-inbox",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704f041bb15d4d8aeb1c6b0_newsnookappscreenshots%20(5).webp",
+    "Image": "/images/product-images/newsnook-desktop-inbox.webp",
     "Image Description": "This is the desktop view of the NewsNook web app's inbox screen. Here, users can see a list of recently received daily newsletters. "
   },
   {
@@ -92,7 +92,7 @@
     "Slug": "speech-analysis-api-schema",
     "Button ID (Image Order)": "01-speech-analysis-api-schema",
     "Product": "speech-analysis-api",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65f950e17d121832571cf920_speechanalysisapi.webp",
+    "Image": "/images/product-images/speech-analysis-api-schema.webp",
     "Image Description": "The following image portrays the data schema for our speech analysis API."
   },
   {
@@ -100,7 +100,7 @@
     "Slug": "analytics-events-framework",
     "Button ID (Image Order)": "02-analytics-events-framework",
     "Product": "incode-analytics",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e944b43566241e634c2a67_analyticeventframework.webp",
+    "Image": "/images/product-images/analytics-events-framework.webp",
     "Image Description": "At the onset of the project, an insufficient number of user-triggered events were being tracked and logged, making it impossible for banking enterprises to know the \"what, when, where, why, and how\" behind their digital onboarding identity verification experience. Thus, we designed and implemented the following User Event Tracking framework that is shown in this diagram."
   },
   {
@@ -108,7 +108,7 @@
     "Slug": "appfolio-sync-linking-tool",
     "Button ID (Image Order)": "02-appfolio-sync-linking-tool",
     "Product": "appfolio-sync",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e81580aad625e74b568a22_appfoliosync-adminpanellinkleftovers.webp",
+    "Image": "/images/product-images/appfolio-sync-linking-tool.webp",
     "Image Description": "This page and 3 other similar pages were built to allow existing customers to initialize the Appfolio Sync and link their data (properties, units, tenants, and owners) from Appfolio with their existing data already within Property Meld. When the Appfolio Sync is initially set up, Appfolio sends 4 CSVs to Property Meld containing data and that data is imported into Property Meld, becoming visible on this page this page. Approximately 90% of the imported Appfolio data is automatically linked to data in Property Meld based on an engine that searches Property Meld for identical and similar data. For any data that isn't matched and automatically linked, this page exists for a Property Meld Customer Success Manager to search through and manually link the remaining data that couldn't be automatically linked. "
   },
   {
@@ -116,7 +116,7 @@
     "Slug": "incode-concierge-demo",
     "Button ID (Image Order)": "02-incode-concierge-demo",
     "Product": "incode-concierge",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e929014667c6995633e7f0_incodeconciergedemo%20(1).webp",
+    "Image": "/images/product-images/incode-concierge-demo.webp",
     "Image Description": "The following graphic shows an enterprise what data we can provide them given CCTV footage and a VIP customer's consent. One of the key decisions I made on this product is that Incode will not provide hospitality enterprises with personal identifiable information (PII) because we weren't a surveillance company and didn't want to risk a PR fiasco that could hurt our brand. Thus, we decided to only provide these enterprises with anonymized UUIDs that they could use in their technology stack. "
   },
   {
@@ -124,7 +124,7 @@
     "Slug": "management-hubs-create-owner-service-page",
     "Button ID (Image Order)": "02-management-hubs-create-owner-service-page",
     "Product": "propertycareplus",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e80e80c2556c612f7a8773_managementhub-createownerservice.webp",
+    "Image": "/images/product-images/management-hubs-create-owner-service-page.webp",
     "Image Description": "Located within Property Meld's Management Hub, this is the next page a property manager sees when creating their first premium service offering for property owners."
   },
   {
@@ -132,7 +132,7 @@
     "Slug": "meld-details",
     "Button ID (Image Order)": "02-meld-details",
     "Product": "owner-hub",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e929fe8f541c1646f79617_melddetails%20(1).webp",
+    "Image": "/images/product-images/meld-details.webp",
     "Image Description": "This page outlines the details of a Meld (maintenance task) the property owner is viewing. If the Meld is on hold, waiting for their response, the property owner can take action, such as approving the maintenance request. If they need to chat with their property manager on any of the Melds, they can quickly via a Chat Drawer that pops out."
   },
   {
@@ -140,14 +140,14 @@
     "Slug": "newsnook-desktop-reader",
     "Button ID (Image Order)": "02-newsnook-desktop-reader",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704f0d0516cf576dd2b29c6_newsnookappscreenshots%20(7).webp"
+    "Image": "/images/product-images/newsnook-desktop-reader.webp"
   },
   {
     "Name": "Practice Speech Screen",
     "Slug": "practice-speech-screen",
     "Button ID (Image Order)": "02-practice-speech-screen",
     "Product": "verbaly-web-app",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e8da9577a6b6e71f4f44ab_practicespeech.webp",
+    "Image": "/images/product-images/practice-speech-screen.webp",
     "Image Description": "This page appears after users create an account, complete the onboarding journey, and log in. Here, they can record themselves giving a prepared speech or replying to a random prompt. To receive feedback from Vee, the AI speech coach, they submit the recording of their speech to our speech analysis engine. "
   },
   {
@@ -155,7 +155,7 @@
     "Slug": "speech-analysis-visualization",
     "Button ID (Image Order)": "02-speech-analysis-visualization",
     "Product": "speech-analysis-api",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e8dad902924665bd865ed9_speechanalysis.webp",
+    "Image": "/images/product-images/speech-analysis-visualization.webp",
     "Image Description": "The following image is a screenshot from our consumer application that visually displays most of the data that can be retrieved via our speech analysis API."
   },
   {
@@ -163,7 +163,7 @@
     "Slug": "water-monitor-front",
     "Button ID (Image Order)": "02-water-monitor-front",
     "Product": "water-monitor",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e947b8e2be7aad1e516294_watermonitorstraightonimage.webp",
+    "Image": "/images/product-images/water-monitor-front.webp",
     "Image Description": "This image shows our our beta product--the HomeMetrics Water Monitor--installed in the home of a beta program participant. It monitors a home's water temperature, pressure, and flow rate. In addition, it analyzes the data it receives and reacts to any anomalies it views as a threat by closing a control valve and shutting off the water to the home. Finally, homeowners can choose to set it in eco mode, and it will, in turn, regulate the control valve, decreasing the average pressure and flow rate by up to 15%. The result is that the homeowner saves money via their water bill and the extended lifespan of their water appliances, such as a water heater."
   },
   {
@@ -171,7 +171,7 @@
     "Slug": "dashboard-approval-requests",
     "Button ID (Image Order)": "03-dashboard-approval-requests",
     "Product": "owner-hub",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e92a932af100a260cc1f4a_melddashboard-approvals%20(1).webp",
+    "Image": "/images/product-images/dashboard-approval-requests.webp",
     "Image Description": "This page acts as a dashboard, allowing property owners to address any Melds (maintenance tasks) needing their urgent attention, such as approving or rejecting high-dollar maintenance requests."
   },
   {
@@ -179,7 +179,7 @@
     "Slug": "incode-event-log",
     "Button ID (Image Order)": "03-incode-event-log",
     "Product": "incode-analytics",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e96ab23326bb1695c5f16b_eventlog.webp",
+    "Image": "/images/product-images/incode-event-log.webp",
     "Image Description": "This image shows an event log we added to each user onboarding session. This provides each banking enterprise with the ability to view a user's behavior through events and their associated event properties. More importantly, these events and event properties laid the foundation for Incode Analytics."
   },
   {
@@ -187,7 +187,7 @@
     "Slug": "management-hubs-services-list-page",
     "Button ID (Image Order)": "03-management-hubs-services-list-page",
     "Product": "propertycareplus",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e80e80a939fec3f55d1985_managementhub-pcp.webp",
+    "Image": "/images/product-images/management-hubs-services-list-page.webp",
     "Image Description": "Located within Property Meld's Management Hub, this page lists all the published and unpublished service offerings the property management firm can offer to property owners. To get started, managers can even generate service offerings from a list of the most commonly offered services. "
   },
   {
@@ -195,14 +195,14 @@
     "Slug": "newsnook-desktop-ai-assistant",
     "Button ID (Image Order)": "03-newsnook-desktop-ai-assistant",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704f1a035438a0a0468e816_newsnookappscreenshots%20(8).webp"
+    "Image": "/images/product-images/newsnook-desktop-ai-assistant.webp"
   },
   {
     "Name": "Speech Analysis Screen",
     "Slug": "speech-analysis-screen",
     "Button ID (Image Order)": "03-speech-analysis-screen",
     "Product": "verbaly-web-app",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e8dad902924665bd865ed9_speechanalysis.webp",
+    "Image": "/images/product-images/speech-analysis-visualization.webp",
     "Image Description": "This page appears after users have recorded and submitted a speech to be analyzed by Vee, the AI speech coach. Here, users can listen to their speech's recording, read its transcript, and review an analysis of how effectively they communicated. If they have recorded the same speech multiple times, they can view their previous recordings in the tabs on the page and compare them against each other. "
   },
   {
@@ -210,7 +210,7 @@
     "Slug": "water-monitor-angle",
     "Button ID (Image Order)": "03-water-monitor-angle",
     "Product": "water-monitor",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e947dbe5dbf70a77bcf244_watermonitorangledimage.webp",
+    "Image": "/images/product-images/water-monitor-angle.webp",
     "Image Description": "This image shows our our beta product--the HomeMetrics Water Monitor--installed in the home of a beta program participant. It monitors a home's water temperature, pressure, and flow rate. In addition, it analyzes the data it receives and reacts to any anomalies it views as a threat by closing a control valve and shutting off the water to the home. Finally, homeowners can choose to set it in eco mode, and it will, in turn, regulate the control valve, decreasing the average pressure and flow rate by up to 15%. The result is that the homeowner saves money via their water bill and the extended lifespan of their water appliances, such as a water heater."
   },
   {
@@ -218,7 +218,7 @@
     "Slug": "dashboard-approval-requests-request-drawer",
     "Button ID (Image Order)": "04-dashboard-approval-requests-request-drawer",
     "Product": "owner-hub",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e92a6e72ccaeb71ea81525_melddashboard-approvalsrequestmodal%20(2).webp",
+    "Image": "/images/product-images/dashboard-approval-requests-request-drawer.webp",
     "Image Description": "This drawer pops out, allowing property owners to easily and quickly, address a Meld (maintenance task) needing their urgent attention by approving or rejecting the maintenance request."
   },
   {
@@ -226,7 +226,7 @@
     "Slug": "flow-meter-and-temperature-sensor",
     "Button ID (Image Order)": "04-flow-meter-and-temperature-sensor",
     "Product": "water-monitor",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e94802ba8d3aa72d317ac9_separatepressureandflowmeters.webp",
+    "Image": "/images/product-images/flow-meter-and-temperature-sensor.webp",
     "Image Description": "This image shows two smart home devices (early prototypes) mounted in the home of a beta program participant. The first is a water flow meter, and the second is a water temperature sensor. "
   },
   {
@@ -234,7 +234,7 @@
     "Slug": "management-hubs-service-details-page",
     "Button ID (Image Order)": "04-management-hubs-service-details-page",
     "Product": "propertycareplus",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e80e80140a10ba51731502_managementhub-servicedetails.webp",
+    "Image": "/images/product-images/management-hubs-service-details-page.webp",
     "Image Description": "This page outlines the details of a single service offering within Property Meld's Management Hub. Managers can also see the list of property owners who have opted in for the service and select their names to view the service's associated Meld tasks that are in progress."
   },
   {
@@ -242,14 +242,14 @@
     "Slug": "newsnook-desktop-audio",
     "Button ID (Image Order)": "04-newsnook-desktop-audio",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704f2cc95b1dc6de107a5fc_newsnookappscreenshots%20(9).webp"
+    "Image": "/images/product-images/newsnook-desktop-audio.webp"
   },
   {
     "Name": "Vee Chatbot",
     "Slug": "vee-chatbot",
     "Button ID (Image Order)": "04-vee-chatbot",
     "Product": "verbaly-web-app",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e96fc03326bb1695c853d8_veechatbot%20(1).webp",
+    "Image": "/images/product-images/vee-chatbot.webp",
     "Image Description": "Users can also chat with Vee, their AI speech coach, using the Chat Drawer on the Speech Analysis page. They can ask questions pertaining to the speech and its associated analysis, and receive tailored advice on how to improve their communication skills."
   },
   {
@@ -257,7 +257,7 @@
     "Slug": "dashboard-messages",
     "Button ID (Image Order)": "05-dashboard-messages",
     "Product": "owner-hub",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e92a850acdfabbfcc35e05_melddashboard-messages%20(2).webp",
+    "Image": "/images/product-images/dashboard-messages.webp",
     "Image Description": "This page acts as a dashboard, allowing property owners to address any Melds (maintenance tasks) needing their urgent attention, such as responding to messages from their property manager."
   },
   {
@@ -265,14 +265,14 @@
     "Slug": "newsnook-desktop-search",
     "Button ID (Image Order)": "05-newsnook-desktop-search",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704f097357561adcfd572bb_newsnookappscreenshots%20(6).webp"
+    "Image": "/images/product-images/newsnook-desktop-search.webp"
   },
   {
     "Name": "Owner Hub's PropertyCare+ Services List Page",
     "Slug": "owner-hubs-propertycare-services-list-page",
     "Button ID (Image Order)": "05-owner-hubs-propertycare-services-list-page",
     "Product": "propertycareplus",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65edff2b30aa8a9b6038191c_ownerhub-pcp%20(2).webp",
+    "Image": "/images/product-images/owner-hubs-propertycare-services-list-page.webp",
     "Image Description": "This page advertises all of the al-la-carte premium service offerings that a property manager is offering to their property owners. Here, property owners can opt into any service offerings or learn more by viewing a service's details. "
   },
   {
@@ -280,7 +280,7 @@
     "Slug": "practice-sessions-screen",
     "Button ID (Image Order)": "05-practice-sessions-screen",
     "Product": "verbaly-web-app",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e8dab38012c733c79ac2c6_pastsessions.webp",
+    "Image": "/images/product-images/practice-sessions-screen.webp",
     "Image Description": "This page lists a user's previous recordings (aka practice sessions) for them to reference later. "
   },
   {
@@ -288,7 +288,7 @@
     "Slug": "water-detection-sensor",
     "Button ID (Image Order)": "05-water-detection-sensor",
     "Product": "water-monitor",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e948271459fd261a4e3f0d_waterdetectionsensor.webp",
+    "Image": "/images/product-images/water-detection-sensor.webp",
     "Image Description": "This image shows a single finished water detection sensor that we installed next to a water heater in the home of a beta program participant."
   },
   {
@@ -296,7 +296,7 @@
     "Slug": "dashboard-messages-chat-drawer",
     "Button ID (Image Order)": "06-dashboard-messages-chat-drawer",
     "Product": "owner-hub",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e92a5e102e6dee2fe600f8_melddashboard-messageschatdrawer.webp",
+    "Image": "/images/product-images/dashboard-messages-chat-drawer.webp",
     "Image Description": "This drawer pops out, allowing property owners to easily and quickly chat with their property manager about Melds (maintenance tasks) that need their attention."
   },
   {
@@ -304,7 +304,7 @@
     "Slug": "eight-water-detection-sensors",
     "Button ID (Image Order)": "06-eight-water-detection-sensors",
     "Product": "water-monitor",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e948473326bb1695b4d585_eightwaterdetectionsensors.webp",
+    "Image": "/images/product-images/eight-water-detection-sensors.webp",
     "Image Description": "This image shows 8 finished water detection sensors that we installed in the basements of several homes. Although they were only prototypes, they worked flawlessly for the most part. The downside is that their batteries lasted 2 months rather than 6 months, as we had initially predicted. "
   },
   {
@@ -312,7 +312,7 @@
     "Slug": "mock-small-talk-screen",
     "Button ID (Image Order)": "06-mock-small-talk-screen",
     "Product": "verbaly-web-app",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e8da5b74ca1aca4e72175e_mocksmalltalk.webp",
+    "Image": "/images/product-images/mock-small-talk-screen.webp",
     "Image Description": "This shows the Mock Small Talk experience on the Practice page. Here, users can record themselves partaking in small-talk-type conversations with Vee, their AI speech coach. After conversing with Vee, they can submit the recording to the speech analysis engine and receive feedback similar to that of the Practice Speech module shown previously."
   },
   {
@@ -320,14 +320,14 @@
     "Slug": "newsnook-desktop-notes",
     "Button ID (Image Order)": "06-newsnook-desktop-notes",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/6704f3113a197dff1d5acb66_newsnookappscreenshots%20(10).webp"
+    "Image": "/images/product-images/newsnook-desktop-notes.webp"
   },
   {
     "Name": "Owner Hub's Service Details Page",
     "Slug": "owner-hubs-service-details-page",
     "Button ID (Image Order)": "06-owner-hubs-service-details-page",
     "Product": "propertycareplus",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e80e800a081a3d2e9263d9_ownerhub-servicedetails.webp",
+    "Image": "/images/product-images/owner-hubs-service-details-page.webp",
     "Image Description": "This page outlines the details of a single service offering within Property Meld's Owner Hub. Here, property owners can choose to opt into the service or chat with their manager regarding any questions they have about the service."
   },
   {
@@ -335,7 +335,7 @@
     "Slug": "mock-interview-screen",
     "Button ID (Image Order)": "07-mock-interview-screen",
     "Product": "verbaly-web-app",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e8da280fb41905e84f4854_mockinterview.webp",
+    "Image": "/images/product-images/mock-interview-screen.webp",
     "Image Description": "This shows the Mock Interview experience on the Practice page. Here, users can record themselves partaking in mock interviews with Vee, their AI speech coach. After conversing with Vee, they can submit the recording to the speech analysis engine and receive feedback."
   },
   {
@@ -343,7 +343,7 @@
     "Slug": "newsnook-mobile-onboarding-flow",
     "Button ID (Image Order)": "07-newsnook-mobile-onboarding-flow",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/66943aa02a26757d5841092b_frame11.webp",
+    "Image": "/images/product-images/newsnook-mobile-onboarding-flow.webp",
     "Image Description": "These 3 screenshots show the primary screens that users would frequently interact with. First, the login screen. Second is their inbox screen, where users can see their recently received newsletters—finally, the reading screen, where users get to read a newsletter."
   },
   {
@@ -351,7 +351,7 @@
     "Slug": "user-settings",
     "Button ID (Image Order)": "07-user-settings",
     "Product": "owner-hub",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e92a146e2b1b42814197c9_settings-user%20(2).webp",
+    "Image": "/images/product-images/user-settings.webp",
     "Image Description": "This page allows a property owner to manage their account settings."
   },
   {
@@ -359,7 +359,7 @@
     "Slug": "mock-pitch-screen",
     "Button ID (Image Order)": "08-mock-pitch-screen",
     "Product": "verbaly-web-app",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e8da3dcccceb8e6c402185_mockpitch.webp",
+    "Image": "/images/product-images/mock-pitch-screen.webp",
     "Image Description": "This shows the Mock Investor Pitch experience on the Practice page. Here, users can record themselves partaking in mock investor pitches with Vee, their AI speech coach. After conversing with Vee, they can submit the recording to the speech analysis engine and receive feedback."
   },
   {
@@ -367,7 +367,7 @@
     "Slug": "newsnook-mobile-reading-screens",
     "Button ID (Image Order)": "08-newsnook-mobile-reading-screens",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/66ac29e4a7e8bbc92472a8e0_frame10%20(3).webp",
+    "Image": "/images/product-images/newsnook-mobile-reading-screens.webp",
     "Image Description": "The screen is where users spend most of their time reading or listening to news from their favorite newsletters."
   },
   {
@@ -375,7 +375,7 @@
     "Slug": "notification-settings",
     "Button ID (Image Order)": "08-notification-settings",
     "Product": "owner-hub",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65e92a2a5bce4384f7d293a8_settings-user%20(3).webp",
+    "Image": "/images/product-images/notification-settings.webp",
     "Image Description": "This page allows a property owner to manage their notification settings."
   },
   {
@@ -383,7 +383,7 @@
     "Slug": "management-hubs-owners-list",
     "Button ID (Image Order)": "09-management-hubs-owners-list",
     "Product": "owner-hub",
-    "Image": "https://uploads-ssl.webflow.com/65750a3e8e33e5e91390f022/65ed8cc80fd2d285795d71d8_bWFuYWdlbWVudGh1Yidzb3duZXJzbGlzdA%3D%3D.webp",
+    "Image": "/images/product-images/management-hubs-owners-list.webp",
     "Image Description": "This image shows the Owners List page within Property Meld's Management Hub, which property managers use to manage their property owners' access levels and invite them to the Owner Hub."
   },
   {
@@ -391,7 +391,7 @@
     "Slug": "clip-real-time-map",
     "Button ID (Image Order)": "1",
     "Product": "clip360",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/69795aacea36af74e5587938_Cell%20Visuals%20(9).webp",
+    "Image": "/images/product-images/clip-real-time-map.webp",
     "Image Description": "A real-time status map of the factory floor that indicates the state of each machine, sensor, utility, etc."
   },
   {
@@ -399,70 +399,70 @@
     "Slug": "wireframe-newsnook-desktop-inbox",
     "Button ID (Image Order)": "10-wireframe-newsnook-desktop-inbox",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/671bf786a529960dfb87eaef_newsnookappscreenshots%20(11).webp"
+    "Image": "/images/product-images/wireframe-newsnook-desktop-inbox.webp"
   },
   {
     "Name": "Wireframe NewsNook Desktop Inbox Overview",
     "Slug": "wireframe-newsnook-desktop-inbox-overview",
     "Button ID (Image Order)": "11-wireframe-newsnook-desktop-inbox-overview",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/671bf7d4143851e1c9d382d3_newsnookappscreenshots%20(12).webp"
+    "Image": "/images/product-images/wireframe-newsnook-desktop-inbox-overview.webp"
   },
   {
     "Name": "Wireframe NewsNook Desktop Inbox AI Assistant",
     "Slug": "wireframe-newsnook-desktop-inbox-ai-assistant",
     "Button ID (Image Order)": "12-wireframe-newsnook-desktop-inbox-ai-assistant",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/671bf7fb0eb8b629c0950ef4_newsnookappscreenshots%20(13).webp"
+    "Image": "/images/product-images/wireframe-newsnook-desktop-inbox-ai-assistant.webp"
   },
   {
     "Name": "Wireframe NewsNook Desktop Inbox Collections Drawer",
     "Slug": "wireframe-newsnook-desktop-inbox-collections-drawer",
     "Button ID (Image Order)": "13-wireframe-newsnook-desktop-inbox-collections-drawer",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/671bf833b559b3ae33c4bdc2_newsnookappscreenshots%20(14).webp"
+    "Image": "/images/product-images/wireframe-newsnook-desktop-inbox-collections-drawer.webp"
   },
   {
     "Name": "Wireframe NewsNook Desktop Inbox Issue Details",
     "Slug": "wireframe-newsnook-desktop-inbox-issue-details",
     "Button ID (Image Order)": "14-wireframe-newsnook-desktop-inbox-issue-details",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/671bf868d273ace7bbc97d1c_newsnookappscreenshots%20(15).webp"
+    "Image": "/images/product-images/wireframe-newsnook-desktop-inbox-issue-details.webp"
   },
   {
     "Name": "Wireframe NewsNook Desktop Reader",
     "Slug": "wireframe-newsnook-desktop-reader",
     "Button ID (Image Order)": "15-wireframe-newsnook-desktop-reader",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/671bf8a86889fb0d1cfd1381_newsnookappscreenshots%20(16).webp"
+    "Image": "/images/product-images/wireframe-newsnook-desktop-reader.webp"
   },
   {
     "Name": "Wireframe Newsnook Desktop Reader AI Assistant",
     "Slug": "wireframe-newsnook-desktop-reader-ai-assistant",
     "Button ID (Image Order)": "16-wireframe-newsnook-desktop-reader-ai-assistant",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/671bf942d273ace7bbca3d7c_newsnookappscreenshots%20(17).webp"
+    "Image": "/images/product-images/wireframe-newsnook-desktop-reader-ai-assistant.webp"
   },
   {
     "Name": "Wireframe NewsNook Desktop Reader Audio",
     "Slug": "wireframe-newsnook-desktop-reader-audio",
     "Button ID (Image Order)": "17-wireframe-newsnook-desktop-reader-audio",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/671bf98a046029da60b88e3e_newsnookappscreenshots%20(18).webp"
+    "Image": "/images/product-images/wireframe-newsnook-desktop-reader-audio.webp"
   },
   {
     "Name": "Wireframe NewsNook Desktop Onboarding Flow",
     "Slug": "wireframe-newsnook-desktop-onboarding-flow",
     "Button ID (Image Order)": "18-wireframe-newsnook-desktop-onboarding-flow",
     "Product": "newsnook",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/671bf9b2143851e1c9d58df0_newsnookappscreenshots%20(19).webp"
+    "Image": "/images/product-images/wireframe-newsnook-desktop-onboarding-flow.webp"
   },
   {
     "Name": "Clip Dictionary",
     "Slug": "clip-dictionary",
     "Button ID (Image Order)": "2",
     "Product": "clip360",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/697959f7d63521f35260dd3b_Dictionary%20(7).webp",
+    "Image": "/images/product-images/clip-dictionary.webp",
     "Image Description": "A customer-facing data dictionary that outlines how each KPI is calculated, what each telemetry message from a machine represents, and every general term used in the SCADA."
   },
   {
@@ -470,7 +470,7 @@
     "Slug": "clip-dictionary-drawer",
     "Button ID (Image Order)": "3",
     "Product": "clip360",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/69795a5c867cb42ddfe1aa67_Dictionary%20Drawer.webp",
+    "Image": "/images/product-images/clip-dictionary-drawer.webp",
     "Image Description": "The drawer that shows a user detailed definitions for a key term in the dictionary."
   },
   {
@@ -478,7 +478,7 @@
     "Slug": "clip-equipment-analysis",
     "Button ID (Image Order)": "4",
     "Product": "clip360",
-    "Image": "https://cdn.prod.website-files.com/65750a3e8e33e5e91390f022/69795d44c4fecb8d0b0420a2_Equipment%20Type%20Page.webp",
+    "Image": "/images/product-images/clip-equipment-analysis.webp",
     "Image Description": "An error parteto and utilization analysis of equipment of a similar type."
   }
 ]
