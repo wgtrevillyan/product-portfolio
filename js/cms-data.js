@@ -88,6 +88,16 @@
     if (el && val) el.setAttribute(attr, val);
   }
 
+  /** Set document title and og/twitter meta titles for detail pages */
+  function setPageTitle(title) {
+    if (!title) return;
+    document.title = title;
+    const ogTitle = document.querySelector('meta[property="og:title"]');
+    if (ogTitle) ogTitle.setAttribute('content', title);
+    const twitterTitle = document.querySelector('meta[name="twitter:title"], meta[property="twitter:title"]');
+    if (twitterTitle) twitterTitle.setAttribute('content', title);
+  }
+
   function setImgSrc(img, src) {
     if (img && src) {
       img.src = src;
@@ -378,6 +388,7 @@
     const images = (productImages || []).filter(pi => pi.Product === product.Slug);
     const skillsMap = Object.fromEntries((skills || []).map(s => [s.Slug, s]));
 
+    setPageTitle('Product - ' + (product.Name || ''));
     setText(document.querySelector('.portfolio-header-content-left h1'), product.Name);
     setText(document.querySelector('.portfolio-header-content-left h4'), product['50 Character Description'] || product.Summary);
     setText(document.querySelector('.portfolio-header-content-left .text-size-medium'), product.Description || '');
@@ -537,6 +548,7 @@
     const companyPatents = (patents || []).filter(p => patentSlugs.includes(p.Slug));
     const skillsMap = Object.fromEntries((skills || []).map(s => [s.Slug, s]));
 
+    setPageTitle('Company - ' + (company.Name || ''));
     setText(document.querySelector('.portfolio-header-content-left h1'), company.Name);
     setText(document.querySelector('.portfolio-header-content-left h4'), company['50 Character Description'] || '');
     setText(document.querySelector('.portfolio-header-content-left .text-size-medium'), company['Detailed Description'] || '');
@@ -572,12 +584,13 @@
 
     const websiteLink = document.querySelector('#body-company-link-button');
     if (websiteLink) {
-      const url = company['Website Short'] || company.Website || '#';
+      const url = company.Website || company['Website Short'] || '#';
       websiteLink.href = url;
       try {
-        setText(websiteLink.querySelector('.text-block.link'), url && url !== '#' ? new URL(url).hostname.replace(/^www\./, '') : '');
+        const displayUrl = company['Website Short'] || company.Website || '';
+        setText(websiteLink.querySelector('.text-block.link'), displayUrl && displayUrl !== '#' ? new URL(displayUrl).hostname.replace(/^www\./, '') : '');
       } catch {
-        setText(websiteLink.querySelector('.text-block.link'), url);
+        setText(websiteLink.querySelector('.text-block.link'), company['Website Short'] || url);
       }
     }
 

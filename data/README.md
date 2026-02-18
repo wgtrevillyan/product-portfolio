@@ -19,7 +19,17 @@ The client-side script `js/cms-data.js` fetches these JSON files and populates t
 
 ## Image URLs
 
-Image URLs in the JSON point to Webflow's CDN. To use local assets instead:
+Image URLs in the JSON can point to Webflow's CDN or to local paths. To migrate from Webflow to local assets:
 
-1. Download images to the `images/` folder structure
-2. Update the JSON files to map CDN URLs to local paths (e.g. `images/products/xyz.webp`)
+```bash
+npm run download-assets
+```
+
+This script downloads all Webflow CDN assets (from `uploads-ssl.webflow.com` and `cdn.prod.website-files.com`) into `images/` and updates the JSON with root-relative paths (e.g. `/images/companies/clip-automation-logo-white.svg`). Directory structure:
+
+- **companies:** `images/companies/{slug}-logo-white.{ext}`, `-logo-blue.{ext}`, `-hero.{ext}`, `-thumbnail.{ext}`
+- **products:** `images/products/{slug}-thumb.{ext}`, `-project.{ext}`
+- **patents:** `images/patents/{slug}-thumb.{ext}`, `-project.{ext}`
+- **product-images:** `images/product-images/{slug}.{ext}`
+
+Existing files are skipped (not re-downloaded). Requires Node 18+ and network access.
