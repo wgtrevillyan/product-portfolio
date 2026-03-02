@@ -480,5 +480,21 @@
     "Product": "clip360",
     "Image": "/images/product-images/clip-equipment-analysis.webp",
     "Image Description": "An error parteto and utilization analysis of equipment of a similar type."
+  },
+  {
+    "Name": "Clip Nexus",
+    "Slug": "clip-nexus-server-rack",
+    "Button ID (Image Order)": "1",
+    "Product": "clip-nexus",
+    "Image": "/images/product-images/clip-nexus-server-rack.webp",
+    "Image Description": "A on-premise hardware solution that provides omni-machine connectivity and universal telemetry ingestion for industrial data warehouses"
+  },
+  {
+    "Name": "CLIP Nexus Diagram",
+    "Slug": "clip-nexus-diagram",
+    "Button ID (Image Order)": "2",
+    "Product": "clip-nexus",
+    "Image": "/images/product-images/clip-nexus-diagram.webp",
+    "Image Description": "Diagram showing where the CLIP Nexus gateway sits on a factory floor, connecting to multiple machines, a conveyor, and a robot, with telemetry data flowing to the cloud."
   }
 ]

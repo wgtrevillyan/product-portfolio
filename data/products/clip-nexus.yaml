@@ -1,0 +1,49 @@
+Name: Clip Nexus
+Slug: clip-nexus
+50 Character Description: The Omni-IoT Gateway for Industrial Telemetry
+Startup Company: clip-automation
+Featured: 'false'
+Sort Order: 0
+Product Type: Product
+Summary: |
+  This on-premise hardware solution provides omni-machine connectivity and universal telemetry ingestion for industrial data warehouses
+
+Description: |
+  This on-premise hardware solution provides omni-machine connectivity and universal telemetry ingestion for industrial data warehouses
+
+Thumbnai Image: /images/products/clip-nexus-thumb.webp
+Project Image: /images/products/clip-nexus-project.webp
+Start Date: Oct 18, 2025
+End Date: Dec 17, 2025
+Highlights: |
+  *   Achieved a real-time telemetry ingestion rate of 15 messages/second from 100+ machines with 10+ equipment integrations
+  *   Deployed Clip Nexus in 2 facilities across the U.S. by coordinating the installation, networking, and configuration of the hardware and software
+
+"Press Release": |
+  > CLIP AUTOMATION ANNOUNCES CLIP NEXUS FOR UNIVERSAL TELEMETRY INGESTION
+  
+  > _Now, third-party logistics and manufacturing enterprises that utilize Clip Automation’s Industrial Data Platform can connect to any machine, sensor, line, or node on-site to ingest and aggregate high volumes of telemetry data, powering their industrial SCADAs._
+  
+  > **Palo Alto, CA \- December 2025** \- Clip Automation, the real-time industrial observability platform for manufacturing enterprises, announced Clip Nexus, on-site hardware that serves as the gateway between industrial data warehouses and telemetry nodes. The novel hardware enables high-bandwidth data ingestion and computation at the edge, providing real-time insights and actionable outcomes.
+
+  > Traditional industrial computing solutions force manufacturers to choose between limited connectivity options and complex, fragmented architectures that require multiple hardware vendors. These systems struggle with protocol translation inconsistencies, create data silos at the edge, and lack the computational power necessary for real-time processing of high-frequency telemetry data. The result is delayed insights, incomplete visibility into operations, and increased total cost of ownership due to maintaining disparate hardware platforms.
+
+  > Clip Nexus addresses these challenges through universal protocol support and purpose-built edge computing capabilities. The industrial-grade hardware natively supports MQTT, OPC UA, Modbus TCP/IP, custom TCP/IP protocols, and more, eliminating the need for multiple gateway devices and ensuring consistent timestamping across all data sources. The system performs local data aggregation and computation before transmission, reducing bandwidth requirements while enabling near-real-time responsiveness for critical manufacturing operations. Built with redundant storage, memory, and networking, the hardware ensures 99.999% availability through reliability, monitoring, remote management, and physical security.
+
+  > “Clip Nexus represents our commitment to solving the fundamental connectivity and reliability challenges that prevent manufacturers from achieving true operational visibility,” said the Clip Automation team. “By combining universal protocol support with industrial-grade reliability and seamless cloud integration, we’re enabling manufacturers to finally connect their entire facility without compromising on data accuracy or system performance.”
+
+  > Manufacturing facilities gain the ability to monitor equipment across multiple production lines through a single platform, regardless of machine age or manufacturer, enabling real-time OEE calculations, immediate downtime detection, and automated quality monitoring.
+
+Tags:
+  - enterprise
+  - b2b
+  - saas
+  - iot
+  - manufacturing
+  - hardware
+Skills:
+  - execution
+  - communication
+  - hardware-engineering
+  - networking
+  - technical-writing
