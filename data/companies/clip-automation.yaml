@@ -1,0 +1,36 @@
+Name: Clip Automation
+Slug: clip-automation
+Website: https://www.clipautomation.com/
+Website Short: https://www.clipautomation.com/
+Logo (White): /images/companies/clip-automation-logo-white.svg
+Logo (blue): /images/companies/clip-automation-logo-blue.svg
+Start Date: Jan 08, 2025
+50 Character Description: The real-time industrial observability platform for manufacturing enterprises
+"Detailed Description": |
+  Clip Automation is an early-stage startup that provides a modern real-time industrial data platform for third-party logistics (3PL) and electronics manufacturing services (EMS) enterprises. Unlike traditional SCADA systems or generic analytics platforms, Clip delivers an integrated AI-powered solution that ingests machine telemetry data and transforms it into actionable operational intelligence, enabling manufacturing operators to monitor real-time production operations while empowering leadership with KPI-driven decision-making.
+
+Highlights: |
+  • Acquired $XXXK in ARR from a Fortune 100 corporation by hiring and coordinating an engineering team of 5 to deliver an **industrial observability platform** for manufacturing operations
+
+Company Type: Enterprise Saas
+Industry: Industrial IoT | Electronics Manufacturing and Logistics
+Total Funding at Start: 1900000
+Total Funding at End: 1900000
+Stage at Start: Seed
+Stage at End: Seed
+Recent Stage: Seed
+Recent Funding: '1900000'
+Headcount at Start: 1
+Headcount at End: 7
+Founding Year: Mar 24, 2020
+Hero Image: /images/companies/clip-automation-hero.webp
+Thumbnail: /images/companies/clip-automation-thumbnail.webp
+Skills:
+  - product-strategy
+  - execution
+  - customer-research
+  - design
+  - hardware-engineering
+  - communication
+Products:
+  - clip360

@@ -1,0 +1,63 @@
+Name: Meld Owner Hub
+Slug: owner-hub
+50 Character Description: The Control Center for a Property Owner’s Maintenance Operations
+Startup Company: property-meld
+Featured: 'true'
+Sort Order: 2
+Product Type: Product
+Summary: |
+  This web application equips property owners, whose properties are managed by a property management firm, with the ability to participate in the maintenance process for their properties.
+
+Description: |
+  This web application equips property owners, whose properties are managed by a property management firm, with the ability to participate in the maintenance process for their properties. With the Owner Hub, property owners can approve or reject maintenance requests from tenants, chat with maintenance coordinators regarding ongoing maintenance activities, and view the historical maintenance records for each of their properties.
+
+Thumbnai Image: /images/products/owner-hub-thumb.webp
+Project Image: /images/products/owner-hub-project.webp
+Start Date: Jul 01, 2020
+End Date: Jan 01, 2021
+Highlights: |
+  *   Achieved higher property owner engagement with a 52% increase in owner communication by leading a cross-functional team to design, build, and launch the Owner Hub as a 0-to-1 product initiative
+  
+  *   Achieved 49% adoption from existing property owners, 49% adoption from new customers & 22% adoption from existing customers by coordinating a cross-functional launch of the Meld Owner Hub with marketing, sales, customer success & support teams
+  
+  *   Achieved a 2X increase in design & development velocity by coordinating the construction of a Design System & Component Library
+  
+  *   Achieved a 91% increase in development velocity by coordinating the product team's transition from waterfall to SCRUM Agile Development alongside our VP of Engineering
+  
+  *   Conducted 20+ customer discovery interviews
+
+"Press Release": |
+  > PROPERTY MELD ANNOUNCES OWNER HUB TO INCREASE PROPERTY OWNER RETENTION FOR SINGLE-FAMILY PROPERTY MANAGEMENT FIRMS.
+  
+  > _Now, property management firms that use Property Meld to automate their maintenance operations can increase customer retention by providing their property owners with Owner Hub, empowering them to participate in the maintenance operations of their properties._
+  
+  > Rapid City, South Dakota—Q1 2021—Property Meld, the leading maintenance management solution for single-family rental property management firms, released Owner Hub to help them increase property owner retention.
+  
+  > Property owners, especially those with multiple properties, often face confusion and frustration due to overwhelming and unclear maintenance-related communication from their property manager. The result is that owners do not feel confident that their properties' maintenance issues are properly handled, leading them to unexpectedly call their property manager or distrust their property manager and eventually churn.
+  
+  > "Our customers expect us to help them win in the current competitive landscape… and we make it our mission to keep the gap between them and would-be competitors incredibly wide. Thus, we are helping our customers build trust with their customers with Owner Hub." - Ray Hespen, Co-founder and CEO at Property Meld.
+  
+  > The Owner Hub is a web application designed specifically for property owners whose properties are managed by a property management firm using Property Meld. With the Owner Hub, property owners can approve or reject maintenance requests from tenants, chat with tenants regarding ongoing maintenance activities, configure their notification settings, and view the historical maintenance records for each property.
+  
+  > "With Property Meld's Owner Hub, our owners have felt they have more visibility into their maintenance activities, decreasing the time and effort invested in mitigating their concerns." - John Doe, President at ABC Property Management.
+  
+  > Today's release of Property Meld's Owner Hub is the first step towards building trust between property managers and owners. It is the foundation for our team's engineers to continue adding features that enhance the maintenance experience for both property managers and owners.
+  
+  > Learn more at [propertymeld.com](https://propertymeld.com/) or contact our team at [support@propertymeld.com](http://email:support@propertymeld.com).
+
+Website: Help Center Documentation
+Live Link: https://help.propertymeld.com/hc/en-us/articles/1500002555281-Owner-Hub-Overview-Owner#:~:text=Owners%20are%20able%20to,invited%20to%20the%20Owner%20Hub.
+Tags:
+  - property-tech
+  - b2b
+  - saas
+  - web-application
+Demo Video: https://youtu.be/3qow6q1uTXQ
+Skills:
+  - execution
+  - prioritization
+  - customer-research
+  - communication
+  - product-launches-and-marketing
+  - data-analysis
+  - design

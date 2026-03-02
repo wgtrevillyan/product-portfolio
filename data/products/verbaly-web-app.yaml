@@ -1,0 +1,112 @@
+Name: Verbaly
+Slug: verbaly-web-app
+50 Character Description: The AI Speech Coach to Replace Toastmasters
+Startup Company: verbaly
+Featured: 'true'
+Sort Order: 4
+Product Type: Product
+Summary: |
+  This consumer web application offers a humanized AI speech coach that records, evaluates, and trains its users to communicate effectively during presentations, job interviews, critical workplace conversations, small talk, sales calls, and more.
+
+Description: |
+  This consumer web application offers a humanized AI speech coach that records, evaluates, and trains its users to communicate effectively during presentations, job interviews, critical workplace conversations, small talk, sales calls, and more.
+
+Thumbnai Image: /images/products/verbaly-web-app-thumb.webp
+Project Image: /images/products/verbaly-web-app-project.webp
+Start Date: Apr 01, 2023
+End Date: Jul 01, 2023
+Highlights: |
+  *   Acquired 2300+ users and $XX in weekly recurring revenue by designing and launching a consumer web app that leveraged Large Language Models (LLMs) and a Retrieval Augmented Generation (RAG) System
+  
+  *   Raised $25K from Jason Calacanis and LAUNCH as a convertible note by pitching to the LAUNCH investment team
+  
+  *   Conducted 70+ customer discovery interviews, competitor analysis, and other key research
+  
+  *   Designed and built the front end of Verbaly’s web app (app.verbaly.ai) using Bubble.io and v1 of Verbaly’s sales website using Squarespace
+  
+  *   Pursued Product-Market-Fit (PMF) by analyzing user behavior through Logrocket screen recordings, 3rd-party event tracking, and customer interviews, resulting in the release of various experimental features: Speech Analysis Engine, AI Speech Coach Chatbot, AI-conducted Mock Interviews, AI-conducted Investor Pitch with Q&A, Mock Small Talk Conversations with an AI
+  
+  *   Acquired 700+ (of 2300+) users by leveraging growth hacking techniques to get unpaid mentions in notable industry newsletters (The Rundown AI, Futurepedia, AI Tools Club, etc.)
+  
+  *   Acquired 600+ (of 2300+) users by conducting digital marketing campaigns on Twitter and LinkedIn
+  
+  *   Established a partnership with StuPo, a student portal provider for universities in India, and released a white-labeled AI Mock Interview tool on their platform for university students at VNIT
+
+"Press Release": |
+  > VERBALY ANNOUNCES THE LAUNCH OF ITS AI-POWERED SPEECH COACH.
+  
+  > _Now, professionals with low confidence and ineffective communication skills can have a personal AI speech coach at their fingertips to help them prepare, practice, and refine their verbal communication skills._
+  
+  > San Francisco, California—Q3 2023—Verbaly, the AI speech coach to replace Toastmasters, provides real-time feedback to its users so that they can improve their communication skills. As a result, they gain confidence and learn to communicate their ideas, arguments, and questions more effectively.
+  
+  > Professionals across all industries are afflicted with low confidence and poor communication skills, especially those new to management or non-native English speakers. To stand out in the workforce, these individuals must communicate confidently and effectively during job interviews, conversations with colleagues, negotiations with clients, presentations to their leaders, etc. Minor communication blunders naturally erode the trust between them and their peers over time, resulting in missed opportunities, misalignment on projects, and failure to perform the jobs they were hired for.
+  
+  > Toastmasters exists to help these professionals learn how to communicate effectively and gain confidence; however, its groups are plagued with sensitive egos, internal drama, and unhelpful politics, hindering its members from accomplishing their career goals.
+  
+  > “People naturally fear environments where they could encounter shame, which is why less than 5% of first and second-time Toastmasters attendees become members. Unlike many Toastmasters clubs, you won’t see toxic behavior in your AI speech coach.” - Bill Trevillyan, Co-founder and CEO at Verbaly.
+  
+  > For $20 per month, users can prepare, practice, and refine their verbal communication skills by speaking in a wide variety of environments, such as giving a speech, participating in a mock job interview with an AI-simulated hiring manager, practicing small talk with an AI-simulated colleague or delivering a pitch to an AI-simulated investor.
+  
+  > As users of Verbaly practice speaking, our communication analysis technology analyzes their speech patterns. As a result, users receive detailed feedback on aspects of their communication, such as filler-word usage, vocab sophistication, pacing, and tone. More importantly, users are evaluated on how effectively they communicate with the help of our proprietary communication framework. With this framework, users are graded by how well they are able to inform, persuade, instruct, motivate, and express themselves to their audience. This novel approach to analyzing a person’s communication helps them understand if they have successfully achieved their goals and effectively communicated what they needed to.
+  
+  > “I finally feel confident when presenting to executives. Thank you, Verbaly!” - Jane Doe, Manager at ABC Company.
+  
+  > Learn more at [Verbaly.AI](http://Verbaly.AI) or contact our team at [info@verably.ai](info@verably.ai).
+
+"Services Text": |
+  ## **Wireframes**
+  
+  ‍
+  
+  In this section, we offer a glimpse into the conceptualization phase of our projects through wireframes. Wireframes are the architectural blueprints of digital experiences, representing the foundation upon which we build remarkable websites. Here, you can explore our thoughtfully crafted wireframes that lay the groundwork for seamless and user-friendly designs.
+  
+  ‍
+  
+  ## **Highlights:**
+  
+  ‍
+  
+  1.  **User-Centric Design:** Our wireframes prioritize user experience, mapping out intuitive navigation, content hierarchy, and interaction points that put users at the forefront of design.
+  2.  **Responsive Blueprint:** We've meticulously planned for responsiveness, ensuring that our designs adapt seamlessly to various screen sizes, guaranteeing a consistent experience on desktops, tablets, and mobile devices.
+  3.  **Strategic Content Placement:** Our wireframes reveal the strategic placement of content, imagery, and call-to-action elements, optimizing engagement and conversion pathways.
+  4.  **Iterative Refinement:** Crafting these wireframes involved numerous iterations and collaborative feedback sessions to ensure they perfectly aligned with our client's vision and objectives.
+  
+  ‍
+  
+  ## **Challenges**
+  
+  ‍
+  
+  In this section, we provide an insightful look into the challenges we encountered during the development journey of our client projects. Challenges are opportunities in disguise, and it's in these moments that our team's expertise and problem-solving abilities truly shine.
+  
+  ‍
+  
+  **Notable Challenges:**
+  
+  ‍
+  
+  1.  **Complex Functionality:** Our clients often demand intricate functionalities, such as e-commerce integration and custom user dashboards, which require innovative solutions and rigorous testing.
+  2.  **Performance Optimization:** Achieving top-tier performance while maintaining feature-rich websites necessitates extensive optimization, including image compression, code refinement, and server-side enhancements.
+  3.  **Security Prioritization:** Data privacy and cybersecurity are paramount. We implemented robust security measures to safeguard sensitive user information, ensuring a safe online environment.
+  4.  **Browser Compatibility:** Ensuring that our websites function seamlessly across a multitude of browsers and devices required exhaustive testing and meticulous debugging.
+  
+  ‍
+  
+  ## **Conclusion**
+  
+  ‍
+  
+  In the conclusion segment of our portfolio, we celebrate the successful outcomes of our collaborations with clients. This is where the narrative of our partnerships reaches its apex, spotlighting achievements, milestones, and the profound impact of our work.
+
+Website: https://app.verbaly.ai/?utm_source=bills_product_portfolio
+Tags:
+  - b2c
+  - llms
+  - saas
+  - web-application
+Skills:
+  - execution
+  - prioritization
+  - product-strategy
+  - customer-research
+  - product-launches-and-marketing

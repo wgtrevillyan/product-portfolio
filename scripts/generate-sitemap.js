@@ -14,8 +14,8 @@ const SITE_URL = process.env.SITE_URL || 'https://www.trevillyan.dev';
 
 const STATIC_PATHS = ['/', '/products', '/companies', '/patents', '/let-us-chat'];
 
-function loadJSON(name) {
-  const file = path.join(DATA_DIR, name);
+function loadJSON(relativePath) {
+  const file = path.join(DATA_DIR, relativePath);
   if (!fs.existsSync(file)) return [];
   try {
     return JSON.parse(fs.readFileSync(file, 'utf8'));
@@ -53,7 +53,7 @@ function main() {
   }
 
   // Company detail pages
-  const companies = loadJSON('companies.json');
+  const companies = loadJSON(path.join('companies', 'companies.json'));
   for (const c of companies) {
     if (c.Slug) {
       urls.push(urlElement(`${base}/companies/${c.Slug}`, null, 'monthly', '0.8'));
@@ -61,7 +61,7 @@ function main() {
   }
 
   // Product detail pages
-  const products = loadJSON('products.json');
+  const products = loadJSON(path.join('products', 'products.json'));
   for (const p of products) {
     if (p.Slug) {
       urls.push(urlElement(`${base}/products/${p.Slug}`, null, 'monthly', '0.8'));

@@ -1,21 +1,31 @@
 # CMS Data
 
-This folder contains JSON files that hold the site's content (products, companies, patents, skills, etc.).
+This folder contains the site’s content datasets. Some are **human-edited YAML sources**, and some are **JSON**.
+
+## Important
+
+- **Do not edit generated JSON** for companies/products; it will be overwritten by the build.
+- Edit the YAML sources instead, then run `npm run build:data` (or `npm run build`) to regenerate JSON.
 
 ## Structure
 
 | File | Description |
 |------|-------------|
-| `products.json` | Product portfolio items |
-| `companies.json` | Company/employer listings |
-| `patents.json` | Patent listings |
-| `skills.json` | Skill tags |
-| `tags.json` | Tag metadata |
-| `product-images.json` | Product image gallery entries |
+| `companies/*.yaml` | Company source files (rich-text fields are **Markdown**) |
+| `companies/companies.json` | **Generated** companies dataset used by the site |
+| `products/*.yaml` | Product source files (rich-text fields are **Markdown**) |
+| `products/products.json` | **Generated** products dataset used by the site |
+| `products/product-images.json` | Product image gallery entries (still JSON) |
+| `patents.json` | Patent listings (JSON) |
+| `skills.json` | Skill tags (JSON) |
+| `tags.json` | Tag metadata (JSON) |
 
 ## Usage
 
-The client-side script `js/cms-data.js` fetches these JSON files and populates the static HTML.
+The client-side script `js/cms-data.js` fetches JSON files under `/data/` and populates the static HTML. Companies and products are fetched from:
+
+- `/data/companies/companies.json`
+- `/data/products/products.json`
 
 ## Image URLs
 

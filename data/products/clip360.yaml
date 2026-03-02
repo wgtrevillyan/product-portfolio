@@ -1,0 +1,50 @@
+Name: Clip360
+Slug: clip360
+50 Character Description: The Data Dog for Manufacturing Operations
+Startup Company: clip-automation
+Featured: 'true'
+Sort Order: 1
+Product Type: Product
+Summary: |
+  This product ingests and aggregates machine and sensor telemetry from the factory floor to deliver real-time insights via custom KPIs and analytics dashboards for operators, technicians, engineers, supervisors and leadership.
+
+Description: |
+  This product ingests and aggregates machine and sensor telemetry from the factory floor to deliver real-time insights via custom KPIs and analytics dashboards for operators, technicians, engineers, supervisors and leadership.
+
+Thumbnai Image: /images/products/clip360-thumb.webp
+Project Image: /images/products/clip360-project.webp
+Start Date: Jan 08, 2025
+End Date: Dec 18, 2025
+Highlights: |
+  • Acquired $XXXK in ARR from a Fortune 100 corporation by hiring and coordinating an engineering team of 5 to deliver an **industrial observability platform** for manufacturing operations
+
+"Press Release": |
+  > CLIP AUTOMATION ANNOUNCES CLIP OBSERVABILITY TO DELIVER REAL-TIME MONITORING FOR OPERATIONS TEAMS
+  
+  > _Now, third-party logistics and manufacturing enterprises that utilize Clip Automation’s Industrial Data Platform can remotely monitor logistics or manufacturing operations for each machine, cell, line, or site in real-time._
+  
+  > Palo Alto, CA - November 2025, Clip Automation, the real-time industrial observability platform for manufacturing enterprises, announced Clip Observability, providing real-time dashboards that empower operators on the floor, engineers in the control room, and executives at headquarters to monitor operations on-site or remotely. In one shot, these dashboards provide a state of the union, surface critical issues that require attention, and reveal insights needed to make key decisions.
+  
+  > Operations teams face critical visibility challenges that reduce throughput, uptime, and quality. **Operators** and **technicians** struggle with fragmented information sources—checking individual machine HMIs, fielding radio calls, and walking between cells—resulting in delayed responses to equipment failures, quality issues, and bottlenecks that cascade into significant production losses. **Engineers** and **supervisors** face greater obstacles: existing SCADA systems provide basic equipment states with alarms, but lack contextual KPIs, leading to manual data aggregation in massive Excel reports to understand cycle time distributions, product evaluation distributions, and version heat maps. Engineers learn about systemic issues—such as a cleaning cell creating downstream test failures—only after reviewing end-of-shift or day reports, when corrective action is too late. **Executives** lack unified dashboards across facilities, relying on delayed, inconsistent manual reports and anecdotal explanations rather than live data showing comparative performance. This information vacuum prevents data-driven resource allocation and continuous improvement, leaving organizations operating blind and reacting to problems after they occur.
+  
+  > Clip Observability provides each stakeholder with precisely the information they need to act. Operators see live machine states, key alerts and warnings, and production rates for immediate troubleshooting via 72” floor displays. Supervisors and engineers monitor process and line-level performance with KPIs—utilization, throughput, performance, quality, availability, and error rates—spotting trends and intervening before goals slip. Executives access aggregated OEE, utilization, and throughput across facilities for strategic decision-making and cross-site benchmarking.
+  
+  > “Operations teams are flying blind—wasting hours chasing scattered data and missing critical issues across their lines. We built Clip Observability to bring actionable visibility to every level of manufacturing operations," said the Clip Automation team.
+  
+  > Accessible on any device from browser-based dashboards, Clip Observability transforms reactive firefighting into proactive operational management with a unified source of truth for all stakeholders.
+  
+  # ‍
+
+Tags:
+  - enterprise
+  - b2b
+  - saas
+  - iot
+  - manufacturing
+Skills:
+  - execution
+  - customer-research
+  - product-strategy
+  - communication
+  - design
+  - hardware-engineering

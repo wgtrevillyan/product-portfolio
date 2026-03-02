@@ -1,0 +1,45 @@
+Name: NewsNook
+Slug: newsnook
+Website: https://www.newsnook.io?utm_source=product_portfolio
+Website Short: https://newsnook.io
+Logo (White): /images/companies/newsnook-logo-white.svg
+Logo (blue): /images/companies/newsnook-logo-blue.svg
+Start Date: Feb 01, 2024
+End Date: Dec 31, 2024
+50 Character Description: The AI newsletter reader for thought leaders and executives
+"Detailed Description": |
+  NewsNook.io is a novel application that helps thought leaders and executives streamline the consumption of their daily and weekly newsletters with a separate inbox for newsletters, semantic AI summarization, audio newscasts, note-taking, and more.
+
+Highlights: |
+  *   Founded NewsNook at the beginning of 2024 as a side-hustle to help pay for rent, and teach myself how to build full stack applications
+  
+  *   Acquired 3 paying customers for $XXX in revenue and a beta waitlist consisting of 70+ C-suite executives by building a landing page using Webflow and running digital marketing campaigns
+  
+  *   Delivered a beta product to initial customers by building a progressive web app using Dart, Typescript, Javascript, Vercel, NextJS, Supabase DB, Supabase Edge, Trigger.dev, Google APIs, and FlutterFlow
+  
+  *   Conducted customer development interviews and user interviews by building multiple low-fidelity and high-fidelity Figma design prototypes
+  
+  *   Conducted customer discovery interviews with executives and thought leaders who regularly consume newsletters as their primary source of news
+
+Company Type: B2C SaaS
+Industry: Productivity | News & Media
+Total Funding at Start: 0
+Total Funding at End: ''
+Stage at Start: Bootstrapped
+Stage at End: ''
+Recent Stage: Bootstrapped
+Recent Funding: ''
+Headcount at Start: ''
+Headcount at End: ''
+Founding Year: ''
+Hero Image: /images/companies/newsnook-hero.webp
+Thumbnail: /images/companies/newsnook-thumbnail.webp
+Skills:
+  - customer-research
+  - execution
+  - product-launches-and-marketing
+  - design
+  - prioritization
+  - data-analysis
+Products:
+  - newsnook

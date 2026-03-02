@@ -1,0 +1,56 @@
+Name: Verbaly
+Slug: verbaly
+Website: https://verbaly.ai?utm_source=bills_product_portfolio
+Website Short: https://verbaly.ai
+Logo (White): /images/companies/verbaly-logo-white.svg
+Logo (blue): /images/companies/verbaly-logo-blue.svg
+Start Date: Mar 01, 2023
+End Date: Dec 01, 2023
+50 Character Description: The AI Speech Coach to Replace Toastmasters
+"Detailed Description": |
+  Verbaly is a web application offering a humanized AI speech coach that records, evaluates, and trains its users to verbally communicate more effectively in job interviews, public speeches, sales calls, and workplace conversations.
+
+Highlights: |
+  *   Co-founded Verbaly in 2023 with a roommate a month before the release of ChatGPT
+  
+  *   Acquired 2300+ users and $XX in weekly recurring revenue by designing and launching a consumer web app known as Verbaly, the AI Speech Coach to replace Toastmasters, that leveraged Large Language Models (LLMs) and a Retrieval Augmented Generation (RAG) System
+  
+  *   Delivered an enterprise speech analysis API MVP as part of a 6-month sales conversation with the Bank of America
+  
+  *   Raised $25K from Jason Calacanis and LAUNCH as a convertible note by pitching to the LAUNCH investment team
+  
+  *   Conducted 70+ customer discovery interviews, competitor analysis, and other key research
+  
+  *   Designed and built the front end of Verbaly’s web app (app.verbaly.ai) using Bubble.io and v1 of Verbaly’s sales website using Squarespace
+  
+  *   Pursued Product-Market-Fit (PMF) by analyzing user behavior through Logrocket screen recordings, 3rd-party event tracking, and customer interviews, resulting in the release of various experimental features: Speech Analysis Engine, AI Speech Coach Chatbot, AI-conducted Mock Interviews, AI-conducted Investor Pitch with Q&A, Mock Small Talk Conversations with an AI
+  
+  *   Acquired 700+ (of 2300+) users by leveraging growth hacking techniques to get unpaid mentions in notable industry newsletters (The Rundown AI, Futurepedia, AI Tools Club, etc.)
+  
+  *   Acquired 600+ (of 2300+) users by conducting digital marketing campaigns on Twitter and LinkedIn
+  
+  *   Established a partnership with StuPo, a student portal provider for universities in India, and released a white-labeled AI Mock Interview tool on their platform for university students at VNIT
+
+Company Type: B2C & B2B SaaS
+Industry: EdTech | Language Learning
+Total Funding at Start: 0
+Total Funding at End: 25000
+Stage at Start: Bootstrapped
+Stage at End: Pre-seed
+Recent Stage: Pre-seed
+Recent Funding: 25K
+Headcount at Start: 2
+Headcount at End: ''
+Founding Year: ''
+Hero Image: /images/companies/verbaly-hero.webp
+Thumbnail: /images/companies/verbaly-thumbnail.webp
+Skills:
+  - customer-research
+  - design
+  - execution
+  - prioritization
+  - product-launches-and-marketing
+  - data-analysis
+Products:
+  - verbaly-web-app
+  - speech-analysis-api

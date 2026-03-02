@@ -1,0 +1,48 @@
+Name: AppFolio Sync
+Slug: appfolio-sync
+50 Character Description: A one-way data-sync integration between Appfolio and Property Meld using scheduled CSV reports
+Startup Company: property-meld
+Featured: 'false'
+Sort Order: 6
+Product Type: Product
+Summary: |
+  This key product offering uses scheduled CSV reports delivered via email to populate a property managers maintenance management software with key property data from their accounting software.
+
+Description: |
+  This key product offering uses scheduled CSV reports delivered via email to populate a property manager's maintenance management software with key property data from their accounting software. For property managers using the industry-leading accounting software Appfolio. The Appfolio Sync service automatically populates Property Meld, their maintenance management solution, with data stored in Appfolio. Specifically, all maintenance-related data associated with property owners, properties, units, and tenants are added and kept up-to-date in Property Meld via a daily data-sync service.
+
+Thumbnai Image: /images/products/appfolio-sync-thumb.webp
+Project Image: /images/products/appfolio-sync-project.webp
+Start Date: Jun 01, 2021
+End Date: Oct 01, 2021
+Highlights: |
+  *   Helped achieve 73% revenue growth and 112% net-revenue-retention in 2021 by removing the Sales Team’s #1 rejection reason and the Customer Success Team’s #1 churn reason: the lack of an AppFolio Integration leads to duplicate data entry and significant discrepancies between each system
+  
+  *   Forced our largest competitor, who historically refused to integrate with us, to provide a 2-way data sync API integration by leading a cross-functional team to design, build, and launch a primitive 1-way data sync leveraging scheduled CSV reports, resulting in overwhelming pressure from their customer base
+  
+  *   Conducted 20+ customer discovery interviews
+
+"Press Release": |
+  > PROPERTY MELD ANNOUNCES APPFOLIO SYNC TO SYNC PROPERTY DATA BETWEEN APPFOLIO AND PROPERTY MELD.
+  
+  > _Now, property management companies that use both Property Meld’s maintenance management system and Appfolio’s accounting software can save hours of time each day by auto-populating their Property Meld account with property information stored in Appfolio._
+  
+  > Rapid City, South Dakota—Q4 2021—Property Meld, the leading maintenance management solution for single-family property management firms, released Appfolio Sync to help save property management firms hours of their time each day.
+  
+  > Historically, property management firms using Appfolio, the industry-leading accounting software, were forced to manually duplicate thousands of records from Appfolio into each of their other operations software, including Property Meld. This manual effort would take a property manager multiple hours every day. Due to human error, managers found large discrepancies in data accuracy between the two systems, leading to critical mistakes that cost thousands in maintenance expenses and took tens to hundreds of hours to fix.
+  
+  > “Property Managers should spend their time and money doing what they do best, caring for properties on behalf of their customers, property owners, and investors. But for years, Meld users have had to manually add data to Property Meld because Appfolio has maintained a closed-off system, refusing to partner or integrate with other software services. We launched Appfolio Sync to end Appfolio’s monopolistic practices.” - John Smith, Product Leader at Property Meld.
+  
+  > The Appfolio Sync saves property management firms time and money by syncing key data needed for managing maintenance into Property Meld from Appfolio. By scheduling CSV reports to be sent every morning from Appfolio to Property Meld’s designated email addresses, a property manager’s Property Meld account will auto-populate and auto-update owner, property, unit, and tenant details every morning so that operations can move forward without a hitch. If any data-integrity issues arise during a sync, property managers are immediately informed so they can correct the issue in Appfolio.
+  
+  > “The Appfolio Sync is a game changer, allowing my team to save tens of hours each week manually importing property information into Meld. For the first time in months, our all-star maintenance coordinator was able to leave work by 5 pm last Friday. I’ve never seen her so happy.” - Jane Doe, President at ABC Property Management.
+  
+  > Learn more at [propertymeld.com](http://propertymeld.com) or contact our team at [support@propertymeld.com](support@propertymeld.com).
+
+Skills:
+  - customer-research
+  - communication
+  - execution
+  - prioritization
+  - product-strategy
+  - product-launches-and-marketing

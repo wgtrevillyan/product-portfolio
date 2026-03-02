@@ -1,0 +1,49 @@
+Name: HomeMetrics
+Slug: homemetrics
+Website: https://www.homemetrics.io?src=personal_portfolio
+Website Short: http://www.homemetrics.io
+Logo (White): /images/companies/homemetrics-logo-white.svg
+Logo (blue): /images/companies/homemetrics-logo-blue.svg
+Start Date: Jan 01, 2019
+End Date: Jan 01, 2021
+50 Character Description: The Smart Home Water Damage Monitoring Service for Homeowners
+"Detailed Description": |
+  HomeMetrics is a proactive home health monitoring solution for predicting and preventing water damage at homeowners' properties. Install our smart home sensor network, and homeowners will receive 24/7 monitoring of their home's plumbing grid, saving them money and time and, most importantly, allowing them to focus on enjoying life.
+
+Highlights: |
+  *   Co-founded HomeMetrics during my senior year of college with a roommate
+  
+  *   Ran POCs with 5 homeowners, installing HomeMetrics, the smart home water damage monitor, in 5 homes by leading a cross-functional team to design, build and deliver an IoT sensor network with Android/iOS mobile apps
+  
+  *   Hired and managed a team of 15 engineering interns for a year
+  
+  *   Raised $21,000 from 4 startup pitch competitions for R&D
+  
+  *   Obtained 2 patents on water leak sensing technologies
+  
+  *   Conducted 50+ customer discovery interviews
+
+Company Type: B2C IoT
+Industry: Smart Home Tech | IoT Tech
+Total Funding at Start: 0
+Total Funding at End: 21000
+Stage at Start: Bootstrapped
+Stage at End: Bootstrapped
+Recent Stage: Bootstrapped
+Recent Funding: $21K
+Headcount at Start: 2
+Headcount at End: 15
+Founding Year: ''
+Hero Image: /images/companies/homemetrics-hero.webp
+Thumbnail: /images/companies/homemetrics-thumbnail.webp
+Skills:
+  - customer-research
+  - hardware-engineering
+  - communication
+  - execution
+  - prioritization
+Products:
+  - water-monitor
+Patents:
+  - fluid-detection-fabric-part-a
+  - fluid-detection-fabric-part-b

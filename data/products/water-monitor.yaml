@@ -1,0 +1,101 @@
+Name: HomeMetrics Water Monitor
+Slug: water-monitor
+50 Character Description: The Smart Home Water Damage Monitoring Service for Homeowners
+Startup Company: homemetrics
+Featured: 'true'
+Sort Order: 5
+Product Type: Product
+Summary: |
+  This smart home IoT device monitors the health of a home's plumbing grid to predict and prevent water damage. Once installed, homeowners save money, time, and, most importantly, energy spent worrying about their home's health.
+
+Description: |
+  This smart home IoT device monitors the health of a home's plumbing grid to predict and prevent water damage. Once installed, homeowners save money, time, and, most importantly, energy spent worrying about their home's health.
+
+Thumbnai Image: /images/products/water-monitor-thumb.webp
+Project Image: /images/products/water-monitor-project.webp
+Start Date: Apr 01, 2019
+End Date: Aug 01, 2020
+Highlights: |
+  *   Ran POCs with 5 homeowners, installing the HomeMetrics devices in 5 homes by leading a cross-functional team to design, build and deliver an IoT sensor network with Android/iOS mobile apps
+  
+  *   Hired and managed a team of 15 engineering interns for a year
+  
+  *   Raised $21,000 from 4 startup pitch competitions for R&D
+  
+  *   Obtained 2 patents on water leak sensing technologies
+  
+  *   Conducted 50+ customer discovery interviews
+
+"Press Release": |
+  > HOMEMETRICS ANNOUNCES THE LAUNCH OF THE HOMEMETRICS WATER MONITOR FOR ABSENTEE HOMEOWNERS TO MONITOR AND PROTECT THEIR HOMES FROM WATER DAMAGE.
+  
+  > _Now, absentee homeowners who own secondary homes, vacation homes, or Airbnb rental properties can save time and money. More importantly, they can avoid worrying about their property's health, knowing that the HomeMetrics Water Monitor protects their homes from any plumbing-related emergency._
+  
+  > Rapid City, South Dakota—Q3 2020—HomeMetrics, the proactive home health monitoring solution for predicting and preventing property damage, launched the HomeMetrics Water Monitor to provide 24/7 monitoring of a home's plumbing grid in search of leaks, floods, pipe breaks, water heater malfunctions, and more.
+  
+  > Absentee homeowners lack real-time data about the health of their homes, leading to ill-informed property management decisions and thus costing them time and money. Often, homes will develop small water leaks; although these leaks are cheap to fix, they go unnoticed for months. In a worst-case scenario, the floor and walls near the leak rot with water damage. Often, a homeowner's insurance company denies their claim, choosing not to cover repair costs by pinning the blame on the homeowner's mistakes. In this case, the homeowner would pay for the repair costs and hundreds to thousands of dollars more due to the increased water usage.
+  
+  > "For every 100 mountain vacation homes, five will have a sewage tank that backs up, flooding into their basements every winter. Unfortunately, the time, stress, and effort spent dealing with these disasters is wasted. Ten years from now, I believe every newly constructed home will have smart home IoT devices installed which monitor both the plumbing and the electrical grids, ensuring the home's health is maintained." - Bill Trevillyan, Co-founder and CEO at HomeMetrics.
+  
+  > For a one-time cost of $600, homeowners can install the HomeMetrics Water Monitor and have it monitor water pressure, flow rate, temperature, etc. Day or night, the system searches for leaks, floods, pipe breaks, water heater malfunctions, and more. The HomeMetrics mobile app gives homeowners complete visibility into their home's plumbing grid. First, homeowners are alerted to any abnormal behavior, such as constantly running water from a broken toilet seal or a pipe leak. In addition, they can turn the water to their house off when traveling away from home with the tap of a finger. They can even view their daily, weekly, monthly, and annual water usage trends. Finally, they can turn on Eco mode and regulate the water pressure coming into the house, extending the life span of appliances such as water heaters and reducing the home's annual water usage.
+  
+  > "The MetricsNetwork helps me save up to 3000 gallons of water a year!" - Matt Irwin, a Rapid City, SD homeowner.
+  
+  > Learn more at [HomeMetrics.io](http://HomeMetrics.io) or contact our team at [info@homemetrics.io](info@homemetrics.io).
+
+"Services Text": |
+  ## **Wireframes**
+  
+  ‍
+  
+  In this section, we offer a glimpse into the conceptualization phase of our projects through wireframes. Wireframes are the architectural blueprints of digital experiences, representing the foundation upon which we build remarkable websites. Here, you can explore our thoughtfully crafted wireframes that lay the groundwork for seamless and user-friendly designs.
+  
+  ‍
+  
+  ## **Highlights:**
+  
+  ‍
+  
+  1.  **User-Centric Design:** Our wireframes prioritize user experience, mapping out intuitive navigation, content hierarchy, and interaction points that put users at the forefront of design.
+  2.  **Responsive Blueprint:** We've meticulously planned for responsiveness, ensuring that our designs adapt seamlessly to various screen sizes, guaranteeing a consistent experience on desktops, tablets, and mobile devices.
+  3.  **Strategic Content Placement:** Our wireframes reveal the strategic placement of content, imagery, and call-to-action elements, optimizing engagement and conversion pathways.
+  4.  **Iterative Refinement:** Crafting these wireframes involved numerous iterations and collaborative feedback sessions to ensure they perfectly aligned with our client's vision and objectives.
+  
+  ‍
+  
+  ## **Challenges**
+  
+  ‍
+  
+  In this section, we provide an insightful look into the challenges we encountered during the development journey of our client projects. Challenges are opportunities in disguise, and it's in these moments that our team's expertise and problem-solving abilities truly shine.
+  
+  ‍
+  
+  **Notable Challenges:**
+  
+  ‍
+  
+  1.  **Complex Functionality:** Our clients often demand intricate functionalities, such as e-commerce integration and custom user dashboards, which require innovative solutions and rigorous testing.
+  2.  **Performance Optimization:** Achieving top-tier performance while maintaining feature-rich websites necessitates extensive optimization, including image compression, code refinement, and server-side enhancements.
+  3.  **Security Prioritization:** Data privacy and cybersecurity are paramount. We implemented robust security measures to safeguard sensitive user information, ensuring a safe online environment.
+  4.  **Browser Compatibility:** Ensuring that our websites function seamlessly across a multitude of browsers and devices required exhaustive testing and meticulous debugging.
+  
+  ‍
+  
+  ## **Conclusion**
+  
+  ‍
+  
+  In the conclusion segment of our portfolio, we celebrate the successful outcomes of our collaborations with clients. This is where the narrative of our partnerships reaches its apex, spotlighting achievements, milestones, and the profound impact of our work.
+
+Website: Water Module Documentation
+Live Link: https://www.homemetrics.io/#/products
+Tags:
+  - b2c
+  - smart-home-tech
+Skills:
+  - execution
+  - prioritization
+  - customer-research
+  - product-strategy
+  - communication

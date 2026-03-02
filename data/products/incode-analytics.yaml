@@ -1,0 +1,48 @@
+Name: Incode Analytics
+Slug: incode-analytics
+50 Character Description: The Fraud and Conversion Analytics Dashboard for Banking Enterprises
+Startup Company: incode-technologies
+Featured: 'true'
+Sort Order: 3
+Product Type: Product
+Summary: |
+  This web application equips financial enterprises—who use Incode’s biometric identity verification solution to minimize fraud and maximize conversion—to analyze the performance of their digital onboarding experiences through embedded analytics dashboards powered by Tableau.
+
+Description: |
+  This web application equips financial enterprises—who use Incode’s biometric identity verification solution to minimize fraud and maximize conversion—to analyze the performance of their digital onboarding experiences through embedded analytics dashboards powered by Tableau.
+
+Thumbnai Image: /images/products/incode-analytics-thumb.webp
+Project Image: /images/products/incode-analytics-project.webp
+Start Date: Sep 01, 2022
+End Date: Jan 01, 2023
+Highlights: |
+  *   Decreased a bank’s time-to-proven value by 50% (~3 months) by leading a cross-functional team to build and launch Incode Analytics, leveraging embedded Tableau dashboards with row-level security
+  
+  *   Coordinated the development and release of user event tracking of our customer’s users and an associated event log UI for our clients to see what actions each of their users were taking during their onboarding journey and diagnose drop off in the conversion funnel
+  
+  *   Led the re-design of Incode's event data architecture related to our clients’ users’ experience after uncovering a serious architecture and definition issue that prevented us from delivering a single instance of an analytics dashboard to all clients
+
+"Press Release": |
+  > INCODE ANNOUNCES INCODE ANALYTICS TO EMPOWER BANKING ENTERPRISES TO VISUALIZE THE PERFORMANCE OF THEIR DIGITAL IDENTITY VERIFICATION SOLUTION.
+  
+  > _Now, financial enterprises that use Incode's biometric identity verification solution can analyze the performance of their digital onboarding experiences with embedded analytics dashboards powered by Tableau._
+  
+  > San Francisco, California—Q4 2022—Incode, the next-generation identity verification and authentication platform for global enterprises, released Incode Analytics to enable both fraud-prevention and user-growth teams with visibility and insights into their digital identity verification implementation's performance
+  
+  > Global enterprises use Incode's biometric identity verification services to increase conversion of their new customer digital onboarding funnels, decrease fraud, and achieve KYC and AML compliance. However, without the ability to quickly visualize the performance of their digital onboarding funnels, various stakeholders suffer. Executives are prevented from comprehending the impact of their biometric identity verification solution on digital onboarding conversion and fraud prevention. Analysts are forced to manually conduct timely funnel analyses and prepare confusion matrices to discover simple insights. Fraud prevention teams are prevented from obtaining valuable insights promptly, and the implementation teams miss vital opportunities to improve their onboarding conversion rates.
+  
+  > Incode Analytics removes this friction by providing an enterprise's various teams and stakeholders with analytics dashboards showing real-time, quantitative insights that are key to understanding the performance of their digital identity verification implementation. Stakeholders ranging from analysts to executives can learn from and quickly make decisions based on KPIs such as onboarding funnel conversion rates, fraud detection rates, and user drop-off rates.
+  
+  > _"Staying ahead of ever-smarter fraudsters starts with data that can be simply and quickly utilized. Thus, Incode is making a large step towards ensuring that financial enterprises are well equipped to react fast to the ever-changing identity-tech industry."_ - William Trevillyan, Product Manager at Incode.
+  
+  > With Incode Analytics, users can view a set of embedded Tableau dashboards that show various analyses, such as onboarding funnel analyses, dynamic conversion trends, fraud-focused confusion matrices, and more. Executives can make high-level observations while analysts can dig for deeper insights using 20+ filters.
+  
+  > _"I found Incode Analytics allowed our team to observe, experiment, iterate, and learn, accelerating our ability to increase onboarding conversion rates while decreasing fraud."_ - Jane Doe, Head of Growth for ABC Bank.
+  
+  > To learn more, please [contact our team](https://incode.com/contact-us/) here at [Incode](https://incode.com).
+
+Skills:
+  - execution
+  - communication
+  - prioritization
+  - customer-research

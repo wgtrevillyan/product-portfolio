@@ -1,0 +1,57 @@
+Name: Incode Technologies
+Slug: incode-technologies
+Website: https://incode.com/
+Website Short: https://incode.com
+Logo (White): /images/companies/incode-technologies-logo-white.svg
+Logo (blue): /images/companies/incode-technologies-logo-blue.svg
+Start Date: Jun 01, 2022
+End Date: Jan 01, 2023
+50 Character Description: The Identity Verification and Authentication Platform for Global Enterprises
+"Detailed Description": |
+  During my tenure, Incode was a $1.2 billion unicorn after recently raising its Series B of $220 million. They leveraged biometric facial recognition technology alongside document scanning OCR technology to verify a person's identity by comparing their selfie to a government-issued ID document.
+
+Highlights: |
+  As the company's 2nd product manager, I watched this unicorn leverage its Series B of $220 million to grow from 200 to 330 employees. During my tenure, I...
+  
+  *   Decreased a bank’s time-to-proven value by 50% (~3 months) by leading a cross-functional team to build and launch Incode Analytics, the fraud and conversion analytics dashboard for banking enterprises, using embedded Tableau dashboards with row-level security
+  
+  *   Closed $X million in revenue by coordinating the discovery, design, construction, and prototype demo of Incode Forms, a no-code solution for configuring custom user onboarding journeys to prevent fraud while maximizing conversion
+  
+  *   Increased the Product Management Team's job offer rate by 10X from 0.2 to 2 offers per month by reconstructing the Incode Product Hiring process and conducting 50+ interviews
+  
+  *   Alleviated data integrity concerns for two crucial clients by proposing and instigating an initiative to fix serious data architecture issues, followed by implementing user event tracking and logging
+  
+  *   Successfully aligned the CEO and VPs of engineering, machine learning, and hardware on the product vision and requirements for Incode Concierge, a novel CCTV facial recognition service that enables hospitality enterprises to provide best-in-class concierge services, by writing a 2-page narrative and leading three 30-min. discussions to unblock the engineering team and deliver the product to 2 pre-paid customers
+  
+  *   Led a cross-function team to design and develop a new experimental product offering for a U.S government agency (confidential)
+  
+  *   Improved access to and discoverability of product knowledge by leading an initiative to evaluate and launch Stack Overflow for Teams across the engineering, customer success, IT, and product teams
+  
+  *   Handled cross-functional communication & collaboration concerning product initiatives with our enterprise sales, enterprise customer success, product marketing, security, compliance, legal, and human resources teams
+
+Company Type: Enterprise SaaS Unicorn
+Industry: Identity Tech
+Total Funding at Start: 260000000
+Total Funding at End: 260000000
+Stage at Start: Series B
+Stage at End: Series B
+Recent Stage: Series B
+Recent Funding: 220M
+Headcount at Start: 200
+Headcount at End: 330
+Founding Year: Jan 01, 2015
+Hero Image: /images/companies/incode-technologies-hero.webp
+Thumbnail: /images/companies/incode-technologies-thumbnail.webp
+Skills:
+  - communication
+  - execution
+  - prioritization
+  - product-launches-and-marketing
+  - product-strategy
+  - data-analysis
+  - customer-research
+  - design
+Products:
+  - incode-analytics
+  - incode-forms
+  - incode-concierge

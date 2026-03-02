@@ -58,13 +58,13 @@ async function downloadToFile(url, filePath) {
   fs.writeFileSync(filePath, buf);
 }
 
-function loadJSON(name) {
-  const file = path.join(DATA_DIR, name);
+function loadJSON(relativePath) {
+  const file = path.join(DATA_DIR, relativePath);
   return JSON.parse(fs.readFileSync(file, 'utf8'));
 }
 
-function saveJSON(name, data) {
-  const file = path.join(DATA_DIR, name);
+function saveJSON(relativePath, data) {
+  const file = path.join(DATA_DIR, relativePath);
   fs.writeFileSync(file, JSON.stringify(data, null, 2), 'utf8');
 }
 
@@ -92,7 +92,7 @@ async function ensureDownloaded(url, relativePath) {
 
 // --- Companies ---
 async function processCompanies() {
-  const data = loadJSON('companies.json');
+  const data = loadJSON(path.join('companies', 'companies.json'));
   for (const c of data) {
     const slug = safeSlug(c.Slug);
     const fields = [
@@ -109,12 +109,12 @@ async function processCompanies() {
       c[key] = rootRel;
     }
   }
-  saveJSON('companies.json', data);
+  saveJSON(path.join('companies', 'companies.json'), data);
 }
 
 // --- Products ---
 async function processProducts() {
-  const data = loadJSON('products.json');
+  const data = loadJSON(path.join('products', 'products.json'));
   for (const p of data) {
     const slug = safeSlug(p.Slug);
     const fields = [
@@ -129,7 +129,7 @@ async function processProducts() {
       p[key] = rootRel;
     }
   }
-  saveJSON('products.json', data);
+  saveJSON(path.join('products', 'products.json'), data);
 }
 
 // --- Patents ---
@@ -154,7 +154,7 @@ async function processPatents() {
 
 // --- Product images (gallery) ---
 async function processProductImages() {
-  const data = loadJSON('product-images.json');
+  const data = loadJSON(path.join('products', 'product-images.json'));
   for (const item of data) {
     const url = item.Image;
     if (!isWebflowUrl(url)) continue;
@@ -163,7 +163,7 @@ async function processProductImages() {
     const rootRel = await ensureDownloaded(url, path.join('product-images', `${slug}.${ext}`));
     item.Image = rootRel;
   }
-  saveJSON('product-images.json', data);
+  saveJSON(path.join('products', 'product-images.json'), data);
 }
 
 async function main() {

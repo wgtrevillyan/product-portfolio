@@ -1,6 +1,6 @@
 /**
  * CMS Data Loader - Populates static HTML with data from JSON files.
- * Expects data/products.json, data/companies.json, data/patents.json, etc.
+ * Expects data/products/products.json, data/companies/companies.json, data/patents.json, etc.
  */
 (function () {
   'use strict';
@@ -250,7 +250,7 @@
           const company = companies.find(c => c.Slug === p['Startup Company']);
           setText(clone.querySelector('.heading-style-h5'), p.Name);
           setText(clone.querySelector('.heading-style-h6'), p['50 Character Description']);
-          setText(clone.querySelector('.text-size-regular.dark'), p.Summary);
+          setHtml(clone.querySelector('.text-size-regular.dark'), p.Summary);
           const tagList = clone.querySelector('.portfolio-tag-list');
           if (tagList) {
             const tagTemplate = tagList.querySelector('.w-dyn-item');
@@ -309,7 +309,7 @@
       const link = clone.querySelector('a.work-link, a[id*="product"]');
       if (link) link.href = `/products/${p.Slug}`;
       setText(workItem?.querySelector('.products'), p.Name);
-      setText(workItem?.querySelector('.work-heading .text-size-medium'), p['50 Character Description'] || p.Summary);
+      setHtml(workItem?.querySelector('.work-heading .text-size-medium'), p['50 Character Description'] || p.Summary);
       const dateEl = workItem?.querySelector('.work-heading + .portfolio-date');
       setText(dateEl, p['End Date'] ? formatEndDateShort(p['End Date']) : 'In Progress');
       setImgSrc(workItem?.querySelector('.product-list-thumbnail-image'), p['Thumbnai Image'] || p['Project Image']);
@@ -391,7 +391,7 @@
     setPageTitle('Product - ' + (product.Name || ''));
     setText(document.querySelector('.portfolio-header-content-left h1'), product.Name);
     setText(document.querySelector('.portfolio-header-content-left h4'), product['50 Character Description'] || product.Summary);
-    setText(document.querySelector('.portfolio-header-content-left .text-size-medium'), product.Description || '');
+    setHtml(document.querySelector('.portfolio-header-content-left .text-size-medium'), product.Description || '');
     setImgSrc(document.querySelector('.hero-image'), product['Project Image'] || product['Thumbnai Image']);
 
     const tagList = document.querySelector('.portfolio-header-tag-list');
@@ -551,7 +551,7 @@
     setPageTitle('Company - ' + (company.Name || ''));
     setText(document.querySelector('.portfolio-header-content-left h1'), company.Name);
     setText(document.querySelector('.portfolio-header-content-left h4'), company['50 Character Description'] || '');
-    setText(document.querySelector('.portfolio-header-content-left .text-size-medium'), company['Detailed Description'] || '');
+    setHtml(document.querySelector('.portfolio-header-content-left .text-size-medium'), company['Detailed Description'] || '');
     setImgSrc(document.querySelector('.hero-image'), company['Hero Image'] || company.Thumbnail);
 
     // Skills list (not tags)
@@ -692,10 +692,10 @@
       let products, companies, patents, skills, tags, productImages;
 
       if (['index', 'products', 'detail_product', 'detail_company'].includes(pageType)) {
-        products = await fetchJSON('products.json');
+        products = await fetchJSON('products/products.json');
       }
       if (['index', 'companies', 'detail_company', 'detail_product'].includes(pageType)) {
-        companies = await fetchJSON('companies.json');
+        companies = await fetchJSON('companies/companies.json');
       }
       if (['patents', 'detail_patent', 'detail_company'].includes(pageType)) {
         patents = await fetchJSON('patents.json');
@@ -704,7 +704,7 @@
         skills = await fetchJSON('skills.json');
       }
       if (pageType === 'detail_product') {
-        productImages = await fetchJSON('product-images.json');
+        productImages = await fetchJSON('products/product-images.json');
       }
 
       switch (pageType) {

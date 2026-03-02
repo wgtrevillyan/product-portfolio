@@ -1,7 +1,11 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": ".",
+  "headers": [
+    { "source": "/sitemap.xml", "headers": [{ "key": "Content-Type", "value": "application/xml" }] }
+  ],
   "rewrites": [
+    { "source": "/sitemap.xml", "destination": "/sitemap.xml" },
     { "source": "/products/:slug", "destination": "/detail_products.html" },
     { "source": "/companies/:slug", "destination": "/detail_companies.html" },
     { "source": "/patents/:slug", "destination": "/detail_patents.html" },

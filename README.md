@@ -128,7 +128,13 @@ Submit [trevillyan.dev/sitemap.xml](https://www.trevillyan.dev/sitemap.xml) in G
 
 ## Content Management
 
-Edit the JSON files in `data/` to change products, companies, patents, and skills. See [data/README.md](data/README.md) for schemas and image migration (`npm run download-assets`).
+Do **not** edit the generated JSON files directly.
+
+- **Companies**: edit YAML source files in `data/companies/*.yaml` (rich-text fields are Markdown). Then run `npm run build:data` (or `npm run build`) to regenerate `data/companies/companies.json`.
+- **Products**: edit YAML source files in `data/products/*.yaml` (rich-text fields are Markdown). Then run `npm run build:data` (or `npm run build`) to regenerate `data/products/products.json`.
+- **Other datasets** (patents, skills, tags, product images): currently remain as JSON in `data/` (and `data/products/product-images.json`).
+
+See [data/README.md](data/README.md) for details and image migration (`npm run download-assets`).
 
 ## Scripts
 

@@ -1,0 +1,43 @@
+Name: Speech Analysis API
+Slug: speech-analysis-api
+50 Character Description: The Enterprise API for Evaluating Verbal Communication Effectiveness
+Startup Company: verbaly
+Featured: 'false'
+Product Type: Product
+Summary: |
+  This product equips enterprises with a REST-based API where they can send recordings of conversations or speeches. In return, they receive an analysis of the speech.
+
+Description: |
+  This product equips enterprises with a REST-based API where they can send recordings of conversations or speeches. In return, they receive a speech analysis with dozens of quantitative and qualitative metrics.
+
+Thumbnai Image: /images/products/speech-analysis-api-thumb.webp
+Project Image: /images/products/speech-analysis-api-project.webp
+Start Date: Nov 01, 2023
+End Date: Apr 01, 2024
+Highlights: |
+  *   Delivered an enterprise speech analysis API MVP as part of a 6-month sales conversation with the Bank of America
+  
+  *   Led sales discussions with 4 prospective clients looking for speech analysis services
+
+"Press Release": |
+  > VERBALY ANNOUNCES THE LAUNCH OF ITS ENTERPRISE API FOR SPEECH ANALYSIS
+  
+  > _Technology enterprises looking to build speech-related products or services can now leverage Verbaly’s API to analyze speech patterns and verbal communication skills._
+  
+  > San Francisco, California—Q4 2023—Verbaly, the AI speech coach to replace Toastmasters, released the Verbaly Enterprise API to provide technology enterprises with a quick, low-effort solution for objectively analyzing speech patterns and verbal communication skills in real time.
+  
+  > Over the last year, enterprises have witnessed the rapid disruption of AI technologies. The recruitment industry has specifically noticed new AI-powered tools and applications popping up daily. With this trend, many recruitment technology companies have found a need to quickly implement interview analysis and interview coaching products for their customers, especially for recruitment operations related to non-native English-speaking roles. One of the most significant technical challenges involved in developing interview analysis and coaching technology is building an automated solution to objectively analyze a candidate’s communication skills, producing quantitative and qualitative feedback. This challenge leads technology enterprises to suffer from issues such as slow product development, delayed product launches, high maintenance expenses, and, most importantly, a less enticing value proposition compared to their competitors.
+  
+  > “In this highly competitive and rapidly changing technology environment, enterprises need to focus their resources on their strengths and expertise while outsourcing all the other aspects of their business to survive. That is why we launched the Verbaly Enterprise API as the all-in-one speech analysis solution for technology enterprises so that they could quickly acquire speech analysis solutions without diverting resources away from their core business.” - Bill Trevillyan, Co-founder and CEO at Verbaly.
+  
+  > The Verbaly API equips technology enterprises with a REST-based API that offers unparalleled flexibility. They can send a live-stream of audio or a recording of a person or persons speaking, and in return, receive a speech analysis relating to the people’s verbal communication skills. The quantitative metrics and qualitative feedback resulting from each speech analysis can be tuned to various speaking scenarios and environments such as a job interview, a public speaking event, a workplace conversation between colleagues, small talk between neighbors and more. This flexibility ensures the feedback and metrics are accurate, consistent and applicable to the given situation, empowering enterprises to tailor their solutions to their specific needs.
+  
+  > “By choosing Verbaly as our speech analysis solution, we saved millions of dollars and years of time, avoiding the development of an in-house solution.” - Jane Doe, Product Manager at ABC Company.
+  
+  > Learn more at [Verbaly.ai/API](http://Verbaly.ai/api) or contact our team at [info@verably.ai](info@verably.ai).
+
+Website: https://www.verbaly.ai/api?utm_source=bills_product_portfolio
+Skills:
+  - customer-research
+  - execution
+  - product-strategy

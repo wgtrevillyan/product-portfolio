@@ -1,0 +1,51 @@
+Name: Property Meld
+Slug: property-meld
+Website: https://propertymeld.com/
+Website Short: https://propertymeld.com
+Logo (White): /images/companies/property-meld-logo-white.svg
+Logo (blue): /images/companies/property-meld-logo-blue.svg
+Start Date: Feb 01, 2020
+End Date: Jun 01, 2022
+50 Character Description: The leading maintenance management solution for SFR property managemers
+"Detailed Description": |
+  Property Meld is property maintenance management software that automates and streamlines maintenance processes for property management companies, enhancing efficiency and reducing costs. It is like wrapping Calendly, Slack, CRM, and Asana together in a single package for property managers. As the sole product manager at Property Meld for most of my tenure, I watched our company grow from 25 to 50 employees and raise a Series B of $15 million.
+
+Highlights: |
+  *   Helped achieve 73% growth in Annual Recurring Revenue (ARR) & 112% Net Revenue Retention (NRR) by leading a cross-functional team alongside our CTO to construct our product strategy and roadmap with input from key internal stakeholders, a backlog of feature requests (pain points), 100+ customer discovery interviews, and SQL-driven data analyses
+  
+  *   Achieved higher property owner engagement with a 52% increase in owner communication by leading a cross-functional team to design, build, and launch a 0-to-1 product, Owner Hub, the maintenance ops control center for property owners
+  
+  *   Forced our largest competitor, who historically refused to integrate with us, to provide a 2-way data sync API integration by leading a cross-functional team to design, build, and launch a primitive 1-way data sync integration leveraging scheduled CSV reports, resulting in overwhelming pressure from their customer base
+  
+  *   Led a cross-functional team to design and launch PropertyCare+, a property owner’s self-service e-catalog of premium maintenance services
+  
+  *   Achieved a 2X increase in design & development velocity by coordinating the construction of a Design System & Component Library• Achieved a 91% increase in development velocity by coordinating the product team's transition from waterfall to SCRUM Agile Development alongside our VP of Engineering
+  
+  *   Successfully taught the customer success, support, and sales teams to think about product development strategically by establishing a Small Feature Enhancement development swimlane and leading a cross-functional team of key stakeholders to stack-rank customer pain points using a modified RICE prioritization method
+
+Company Type: B2B SaaS
+Industry: Property Tech
+Total Funding at Start: 2000000
+Total Funding at End: 5700000
+Stage at Start: Seed
+Stage at End: Series A
+Recent Stage: Series A
+Recent Funding: 3.7M
+Headcount at Start: 25
+Headcount at End: 50
+Founding Year: Jan 01, 2015
+Hero Image: /images/companies/property-meld-hero.webp
+Thumbnail: /images/companies/property-meld-thumbnail.webp
+Skills:
+  - product-strategy
+  - customer-research
+  - communication
+  - execution
+  - design
+  - product-launches-and-marketing
+  - prioritization
+  - data-analysis
+Products:
+  - owner-hub
+  - appfolio-sync
+  - propertycareplus
