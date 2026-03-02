@@ -49,7 +49,10 @@ function addCurrentPageMarker(header, currentPage) {
       '$1 aria-current="page" $2$3 w--current$4'
     );
   } else if (currentPage === 'companies') {
-    // Companies page: navbar has no Companies link, so don't highlight any nav item
+    out = out.replace(
+      /(<a [^>]*id="navbar-companies-button"[^>]*)(class=")([^"]*)(")/,
+      '$1 aria-current="page" $2$3 w--current$4'
+    );
   } else if (currentPage === 'patents') {
     out = out.replace(
       /(<a [^>]*id="navbar-patents-button"[^>]*)(class=")([^"]*)(")/,

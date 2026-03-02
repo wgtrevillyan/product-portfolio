@@ -544,7 +544,9 @@
   async function renderDetailCompany(company, products, patents, skills = []) {
     const productSlugs = (company.Products || []).map(s => s.trim());
     const patentSlugs = (company.Patents || []).map(s => s.trim());
-    const companyProducts = (products || []).filter(p => productSlugs.includes(p.Slug));
+    const companyProducts = (products || [])
+      .filter(p => productSlugs.includes(p.Slug))
+      .sort((a, b) => (parseDateForSort(b['End Date']) || 0) - (parseDateForSort(a['End Date']) || 0));
     const companyPatents = (patents || []).filter(p => patentSlugs.includes(p.Slug));
     const skillsMap = Object.fromEntries((skills || []).map(s => [s.Slug, s]));
 
