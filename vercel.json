@@ -125,5 +125,72 @@
       "source": "/401",
       "destination": "/401.html"
     }
+  ],
+  "redirects": [
+    {
+      "source": "/products/clip-nexus/",
+      "destination": "/products/clip-nexus",
+      "permanent": true
+    },
+    {
+      "source": "/products/clip360/",
+      "destination": "/products/clip360",
+      "permanent": true
+    },
+    {
+      "source": "/products/propertycareplus/",
+      "destination": "/products/propertycareplus",
+      "permanent": true
+    },
+    {
+      "source": "/products/clip-telescript/",
+      "destination": "/products/clip-telescript",
+      "permanent": true
+    },
+    {
+      "source": "/products/owner-hub/",
+      "destination": "/products/owner-hub",
+      "permanent": true
+    },
+    {
+      "source": "/products/verbaly-web-app/",
+      "destination": "/products/verbaly-web-app",
+      "permanent": true
+    },
+    {
+      "source": "/products/incode-analytics/",
+      "destination": "/products/incode-analytics",
+      "permanent": true
+    },
+    {
+      "source": "/products/appfolio-sync/",
+      "destination": "/products/appfolio-sync",
+      "permanent": true
+    },
+    {
+      "source": "/products/water-monitor/",
+      "destination": "/products/water-monitor",
+      "permanent": true
+    },
+    {
+      "source": "/products/incode-forms/",
+      "destination": "/products/incode-forms",
+      "permanent": true
+    },
+    {
+      "source": "/products/incode-concierge/",
+      "destination": "/products/incode-concierge",
+      "permanent": true
+    },
+    {
+      "source": "/products/newsnook/",
+      "destination": "/products/newsnook",
+      "permanent": true
+    },
+    {
+      "source": "/products/speech-analysis-api/",
+      "destination": "/products/speech-analysis-api",
+      "permanent": true
+    }
   ]
 }

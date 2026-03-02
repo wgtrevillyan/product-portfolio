@@ -158,6 +158,7 @@ async function main() {
   }
 
   const productRewrites = [];
+  const productRedirects = [];
   for (const product of products) {
     const slug = product.Slug;
     if (!slug) continue;
@@ -168,6 +169,11 @@ async function main() {
       source: `/products/${slug}`,
       destination: `/product_pages/${slug}.html`,
     });
+    productRedirects.push({
+      source: `/products/${slug}/`,
+      destination: `/products/${slug}`,
+      permanent: true,
+    });
   }
 
   const vercel = JSON.parse(fs.readFileSync(vercelPath, 'utf8'));
@@ -176,7 +182,7 @@ async function main() {
     (r.source.startsWith('/products/') &&
       r.source !== '/products' &&
       r.destination &&
-      r.destination.startsWith('/product_pages/'));
+      (r.destination.startsWith('/product_pages/') || r.destination === '/detail_products.html'));
   const rewrites = vercel.rewrites.filter((r) => !isProductRewrite(r));
   const productsIndex = rewrites.findIndex((r) => r.source === '/products');
   const insertAt = productsIndex >= 0 ? productsIndex : rewrites.length;
@@ -185,6 +191,17 @@ async function main() {
     ...productRewrites,
     ...rewrites.slice(insertAt),
   ];
+
+  const isProductRedirect = (r) =>
+    r.source &&
+    r.source.startsWith('/products/') &&
+    r.source.endsWith('/') &&
+    r.destination &&
+    r.destination.startsWith('/products/') &&
+    !r.destination.endsWith('/');
+  const existingRedirects = (vercel.redirects || []).filter((r) => !isProductRedirect(r));
+  vercel.redirects = [...productRedirects, ...existingRedirects];
+
   fs.writeFileSync(vercelPath, JSON.stringify(vercel, null, 2) + '\n', 'utf8');
 
   console.log(`generate-product-pages: wrote ${productRewrites.length} product pages and updated vercel.json`);
