@@ -430,10 +430,14 @@
     if (richTexts.length) setHtml(richTexts[richTexts.length - 1], product['Services Text'] || '');
 
     // Product images gallery
+    const sectionScreenshots = document.getElementById('section-screenshots');
+    const tocProductVisuals = document.querySelector('.table-of-contents-item[href="#section-screenshots"]');
     if (images.length) {
+      if (sectionScreenshots) sectionScreenshots.style.display = '';
+      if (tocProductVisuals) tocProductVisuals.style.display = '';
       const imgTemplate = document.querySelector('.collection-item-2.w-dyn-item');
       const imgList = document.querySelector('.collection-list-3.w-dyn-items');
-      const section = document.getElementById('section-screenshots');
+      const section = sectionScreenshots;
       if (imgTemplate && imgList) {
         imgList.innerHTML = '';
         imgList.closest('.w-dyn-list')?.querySelector('.w-dyn-empty')?.style.setProperty('display', 'none');
@@ -537,6 +541,9 @@
           });
         }
       }
+    } else {
+      if (sectionScreenshots) sectionScreenshots.style.display = 'none';
+      if (tocProductVisuals) tocProductVisuals.style.display = 'none';
     }
   }
 

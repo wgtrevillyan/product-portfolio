@@ -1,0 +1,47 @@
+Name: Clip TeleScript
+Slug: clip-telescript
+50 Character Description: The Industrial Telemetry DS Language for Rapid Machine Integration
+Startup Company: clip-automation
+Featured: 'True'
+Sort Order: 4
+Product Type: Product
+Summary: |
+  A domain-specific language (DSL) for quickly integrating with machine to ingest, parse, validate and aggregate telemetry to derive customer-specific KPIs, alerts and insights
+
+Description: |
+  A domain-specific language (DSL) that field engineers and technicians use to quickly integrate machines into SCADAs and ingest, parse, validate, audit and aggregate telemetry to derive customer-specific KPIs, alerts and insights
+
+Thumbnai Image: /images/products/clip-telescript-thumb.webp
+Project Image: /images/products/clip-telescript-project.webp
+Start Date: June 01, 2025
+End Date: Dec 05, 2025
+Highlights: |
+  *   Reduced equipment integration development time from 3 months to 3 days by leading a cross-functional team of 5 to deliver Clip Telescript, a domain-specific language for ingesting, parsing, validating and aggregating telemetry to derive customer-specific KPIs, alerts and insights
+
+"Press Release": |
+  > CLIP AUTOMATION ANNOUNCES CLIP TELESCRIPT FOR RAPID MACHINE INTEGRATION
+  
+  > _Now, third-party logistics and manufacturing enterprises that utilize Clip Automation's Industrial Data Platform can connect new machines and calculate KPIs in days instead of months using a domain-specific language built for industrial telemetry._
+  
+  > **Palo Alto, CA – November 2025**, Clip Automation, the real-time industrial observability platform for manufacturing enterprises, announced Clip TeleScript, a domain-specific language (DSL) that makes machine integration rapid. Technicians and field engineers use TeleScript to define how raw equipment and sensor data is ingested, parsed, validated and aggregated into customer-specific KPIs, alerts and insights—dramatically shortening the path from new equipment or site to live dashboards and actionable intelligence.
+  
+  > Manufacturing and logistics operations face a dual crisis: integration is too slow, and the data that does make it through is too hard to trust. Bringing a new machine or line online typically requires months of custom code—one-off logic per machine type, protocol and KPI—resulting in brittle pipelines and long development cycles. At the same time, traditional systems struggle with data accuracy. Inconsistent timestamping across mixed protocols, fragmented data silos and non-auditable "black box" KPI calculations—often with mixed units of measure—make it difficult for engineers to trace the origin of critical metrics or validate the integrity of operational data. The result is operational blind spots and a lack of trust in the very KPIs that are supposed to drive decisions, forcing teams to either refrain from acting or spend excessive time in Excel verifying findings before they can move.
+  
+  > Clip TeleScript addresses both. It replaces custom code with a single, declarative language: teams describe data flows, validation rules and formulas for calculating metrics in a maintainable specification instead of writing and maintaining scattered integration code. Integration timelines shrink from months to days. The language is designed for industrial telemetry from the ground up—supporting the semantics, units and lineage that operations teams need—so pipelines stay accurate and auditable without sacrificing speed. Manufacturing engineers can go from "machine connected" to "KPIs live" in days, not months, with metrics they can trace and verify.
+  
+  > "This is about making machine integration a matter of configuration, not custom engineering. Teams get rapid integrations and the data quality they need to run their operations," said the Clip Automation team.
+  
+  > Built as part of Clip Automation's multitenant industrial data platform, TeleScript powers connectivity and KPI calculation across Equipment, Process, Product and Personnel metrics. Enterprises can onboard new lines and sites into their SCADA quickly while maintaining full control over how telemetry is transformed into the KPIs that operations leaders use to drive decisions.
+
+Tags:
+  - enterprise
+  - b2b
+  - saas
+  - iot
+  - manufacturing
+  - developer-tools
+Skills:
+  - communication
+  - product-strategy
+  - technical-writing
+  - execution

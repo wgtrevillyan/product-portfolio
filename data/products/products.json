@@ -5,7 +5,7 @@
     "50 Character Description": "The Omni-IoT Gateway for Industrial Telemetry",
     "Startup Company": "clip-automation",
     "Featured": "false",
-    "Sort Order": 2,
+    "Sort Order": 0,
     "Product Type": "Product",
     "Summary": "<p>This on-premise hardware solution provides omni-machine connectivity and universal telemetry ingestion for industrial data warehouses</p>\n",
     "Description": "<p>This on-premise hardware solution provides omni-machine connectivity and universal telemetry ingestion for industrial data warehouses</p>\n",
@@ -45,7 +45,7 @@
     "Project Image": "/images/products/clip360-project.webp",
     "Start Date": "Jan 08, 2025",
     "End Date": "Dec 18, 2025",
-    "Highlights": "<p>• Acquired $XXXK in ARR from a Fortune 100 corporation by hiring and coordinating an engineering team of 5 to deliver an <strong>industrial observability platform</strong> for manufacturing operations</p>\n",
+    "Highlights": "<ul>\n<li>Acquired $XXXK in ARR from a Fortune 100 corporation by hiring and coordinating an engineering team of 5 to deliver an <strong>industrial observability platform</strong> for manufacturing operations</li>\n</ul>\n",
     "Press Release": "<blockquote>\n<p>CLIP AUTOMATION ANNOUNCES CLIP OBSERVABILITY TO DELIVER REAL-TIME MONITORING FOR OPERATIONS TEAMS</p>\n</blockquote>\n<blockquote>\n<p><em>Now, third-party logistics and manufacturing enterprises that utilize Clip Automation’s Industrial Data Platform can remotely monitor logistics or manufacturing operations for each machine, cell, line, or site in real-time.</em></p>\n</blockquote>\n<blockquote>\n<p>Palo Alto, CA - November 2025, Clip Automation, the real-time industrial observability platform for manufacturing enterprises, announced Clip Observability, providing real-time dashboards that empower operators on the floor, engineers in the control room, and executives at headquarters to monitor operations on-site or remotely. In one shot, these dashboards provide a state of the union, surface critical issues that require attention, and reveal insights needed to make key decisions.</p>\n</blockquote>\n<blockquote>\n<p>Operations teams face critical visibility challenges that reduce throughput, uptime, and quality. <strong>Operators</strong> and <strong>technicians</strong> struggle with fragmented information sources—checking individual machine HMIs, fielding radio calls, and walking between cells—resulting in delayed responses to equipment failures, quality issues, and bottlenecks that cascade into significant production losses. <strong>Engineers</strong> and <strong>supervisors</strong> face greater obstacles: existing SCADA systems provide basic equipment states with alarms, but lack contextual KPIs, leading to manual data aggregation in massive Excel reports to understand cycle time distributions, product evaluation distributions, and version heat maps. Engineers learn about systemic issues—such as a cleaning cell creating downstream test failures—only after reviewing end-of-shift or day reports, when corrective action is too late. <strong>Executives</strong> lack unified dashboards across facilities, relying on delayed, inconsistent manual reports and anecdotal explanations rather than live data showing comparative performance. This information vacuum prevents data-driven resource allocation and continuous improvement, leaving organizations operating blind and reacting to problems after they occur.</p>\n</blockquote>\n<blockquote>\n<p>Clip Observability provides each stakeholder with precisely the information they need to act. Operators see live machine states, key alerts and warnings, and production rates for immediate troubleshooting via 72” floor displays. Supervisors and engineers monitor process and line-level performance with KPIs—utilization, throughput, performance, quality, availability, and error rates—spotting trends and intervening before goals slip. Executives access aggregated OEE, utilization, and throughput across facilities for strategic decision-making and cross-site benchmarking.</p>\n</blockquote>\n<blockquote>\n<p>“Operations teams are flying blind—wasting hours chasing scattered data and missing critical issues across their lines. We built Clip Observability to bring actionable visibility to every level of manufacturing operations,&quot; said the Clip Automation team.</p>\n</blockquote>\n<blockquote>\n<p>Accessible on any device from browser-based dashboards, Clip Observability transforms reactive firefighting into proactive operational management with a unified source of truth for all stakeholders.</p>\n</blockquote>\n<h1>‍</h1>\n",
     "Tags": [
       "enterprise",
@@ -144,6 +144,37 @@
       "communication",
       "prioritization",
       "customer-research"
+    ]
+  },
+  {
+    "Name": "Clip TeleScript",
+    "Slug": "clip-telescript",
+    "50 Character Description": "The Industrial Telemetry DS Language for Rapid Machine Integration",
+    "Startup Company": "clip-automation",
+    "Featured": "True",
+    "Sort Order": 4,
+    "Product Type": "Product",
+    "Summary": "<p>A domain-specific language (DSL) for quickly integrating with machine to ingest, parse, validate and aggregate telemetry to derive customer-specific KPIs, alerts and insights</p>\n",
+    "Description": "<p>A domain-specific language (DSL) that field engineers and technicians use to quickly integrate machines into SCADAs and ingest, parse, validate, audit and aggregate telemetry to derive customer-specific KPIs, alerts and insights</p>\n",
+    "Thumbnai Image": "/images/products/clip-telescript-thumb.webp",
+    "Project Image": "/images/products/clip-telescript-project.webp",
+    "Start Date": "June 01, 2025",
+    "End Date": "Dec 05, 2025",
+    "Highlights": "<ul>\n<li>Reduced equipment integration development time from 3 months to 3 days by leading a cross-functional team of 5 to deliver Clip Telescript, a domain-specific language for ingesting, parsing, validating and aggregating telemetry to derive customer-specific KPIs, alerts and insights</li>\n</ul>\n",
+    "Press Release": "<blockquote>\n<p>CLIP AUTOMATION ANNOUNCES CLIP TELESCRIPT FOR RAPID MACHINE INTEGRATION</p>\n</blockquote>\n<blockquote>\n<p><em>Now, third-party logistics and manufacturing enterprises that utilize Clip Automation&#39;s Industrial Data Platform can connect new machines and calculate KPIs in days instead of months using a domain-specific language built for industrial telemetry.</em></p>\n</blockquote>\n<blockquote>\n<p><strong>Palo Alto, CA – November 2025</strong>, Clip Automation, the real-time industrial observability platform for manufacturing enterprises, announced Clip TeleScript, a domain-specific language (DSL) that makes machine integration rapid. Technicians and field engineers use TeleScript to define how raw equipment and sensor data is ingested, parsed, validated and aggregated into customer-specific KPIs, alerts and insights—dramatically shortening the path from new equipment or site to live dashboards and actionable intelligence.</p>\n</blockquote>\n<blockquote>\n<p>Manufacturing and logistics operations face a dual crisis: integration is too slow, and the data that does make it through is too hard to trust. Bringing a new machine or line online typically requires months of custom code—one-off logic per machine type, protocol and KPI—resulting in brittle pipelines and long development cycles. At the same time, traditional systems struggle with data accuracy. Inconsistent timestamping across mixed protocols, fragmented data silos and non-auditable &quot;black box&quot; KPI calculations—often with mixed units of measure—make it difficult for engineers to trace the origin of critical metrics or validate the integrity of operational data. The result is operational blind spots and a lack of trust in the very KPIs that are supposed to drive decisions, forcing teams to either refrain from acting or spend excessive time in Excel verifying findings before they can move.</p>\n</blockquote>\n<blockquote>\n<p>Clip TeleScript addresses both. It replaces custom code with a single, declarative language: teams describe data flows, validation rules and formulas for calculating metrics in a maintainable specification instead of writing and maintaining scattered integration code. Integration timelines shrink from months to days. The language is designed for industrial telemetry from the ground up—supporting the semantics, units and lineage that operations teams need—so pipelines stay accurate and auditable without sacrificing speed. Manufacturing engineers can go from &quot;machine connected&quot; to &quot;KPIs live&quot; in days, not months, with metrics they can trace and verify.</p>\n</blockquote>\n<blockquote>\n<p>&quot;This is about making machine integration a matter of configuration, not custom engineering. Teams get rapid integrations and the data quality they need to run their operations,&quot; said the Clip Automation team.</p>\n</blockquote>\n<blockquote>\n<p>Built as part of Clip Automation&#39;s multitenant industrial data platform, TeleScript powers connectivity and KPI calculation across Equipment, Process, Product and Personnel metrics. Enterprises can onboard new lines and sites into their SCADA quickly while maintaining full control over how telemetry is transformed into the KPIs that operations leaders use to drive decisions.</p>\n</blockquote>\n",
+    "Tags": [
+      "enterprise",
+      "b2b",
+      "saas",
+      "iot",
+      "manufacturing",
+      "developer-tools"
+    ],
+    "Skills": [
+      "communication",
+      "product-strategy",
+      "technical-writing",
+      "execution"
     ]
   },
   {
