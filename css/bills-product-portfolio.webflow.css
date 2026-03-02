@@ -3492,3 +3492,27 @@ figcaption {
   font-style: normal;
   font-display: swap;
 }
+
+/* Hero: notable accomplishments and skill chips (index page) */
+.hero-accomplishments-section {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.hero-accomplishments-list {
+  list-style: disc;
+  padding-left: 1.25em;
+  margin: 0 auto;
+  max-width: max-content;
+  text-align: left;
+}
+.hero-accomplishment-item {
+  margin-bottom: 0.25em;
+}
+
+#hero-skills {
+  margin-top: 2rem;
+}
+#hero-skills.portfolio-header-tag-list {
+  margin-top: 2rem;
+}

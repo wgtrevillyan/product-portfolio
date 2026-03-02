@@ -193,11 +193,11 @@
 
   // --- INDEX PAGE ---
   async function renderIndex(data) {
-    const { products, companies, skills } = data;
+    const { products, companies, skills, bio } = data;
 
     const getSortOrder = (p) => parseInt(p['Sort Order'], 10) || 999;
     const featuredProducts = products
-      .filter(p => p.Featured === 'true')
+      .filter(p => String(p.Featured || '').toLowerCase() === 'true')
       .sort((a, b) => {
         const diff = getSortOrder(a) - getSortOrder(b);
         return diff !== 0 ? diff : (a.Name || '').localeCompare(b.Name || '');
@@ -205,6 +205,45 @@
       .slice(0, 6);
     const companiesMap = Object.fromEntries(companies.map(c => [c.Slug, c]));
     const skillsMap = Object.fromEntries(skills.map(s => [s.Slug, s]));
+
+    // Hero: bio, notable accomplishments, top 3 skills (from data/bio.yaml → bio.json)
+    if (bio) {
+      const bioEl = document.getElementById('hero-bio');
+      if (bioEl && bio.Bio) {
+        bioEl.textContent = bio.Bio;
+      }
+      const accSection = document.getElementById('hero-accomplishments-section');
+      const accList = document.getElementById('hero-accomplishments');
+      const accomplishments = bio['Notable Accomplishments'] || [];
+      if (accSection && accList && accomplishments.length) {
+        accSection.style.display = '';
+        accList.replaceChildren(...accomplishments.map((text) => {
+          const li = document.createElement('li');
+          li.className = 'hero-accomplishment-item';
+          li.textContent = text;
+          return li;
+        }));
+      }
+      const skillsContainer = document.getElementById('hero-skills');
+      const skillSlugs = Array.isArray(bio.Skills) ? bio.Skills.slice(0, 3) : [];
+      if (skillsContainer && skillSlugs.length) {
+        skillsContainer.style.display = '';
+        skillsContainer.innerHTML = '';
+        skillsContainer.className = 'portfolio-header-tag-list w-dyn-items';
+        skillSlugs.forEach((slug) => {
+          const skill = skillsMap[slug];
+          const name = skill ? skill.Name : slug;
+          const a = document.createElement('a');
+          a.href = `/detail_skills?slug=${encodeURIComponent(slug)}`;
+          a.className = 'portfolio-header-tag-item';
+          const textEl = document.createElement('div');
+          textEl.className = 'tag-text';
+          textEl.textContent = name;
+          a.appendChild(textEl);
+          skillsContainer.appendChild(a);
+        });
+      }
+    }
 
     // Companies (logos) - first company logo block
     const logoItems = document.querySelectorAll('.logo-wrapper.w-dyn-item');
@@ -715,10 +754,16 @@
       if (pageType === 'detail_product') {
         productImages = await fetchJSON('products/product-images.json');
       }
+      let bio = null;
+      if (pageType === 'index') {
+        try {
+          bio = await fetchJSON('bio.json');
+        } catch (_) {}
+      }
 
       switch (pageType) {
         case 'index':
-          await renderIndex({ products, companies, skills });
+          await renderIndex({ products, companies, skills, bio });
           break;
         case 'products':
           await renderProductsList(products);
