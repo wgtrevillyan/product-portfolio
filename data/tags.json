@@ -50,5 +50,9 @@
   {
     "Name": "Web Application",
     "Slug": "web-application"
+  },
+  {
+    "Name": "Hardware",
+    "Slug": "hardware"
   }
 ]
