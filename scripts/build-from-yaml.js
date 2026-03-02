@@ -12,8 +12,11 @@ const yaml = require('js-yaml');
 const { marked } = require('marked');
 
 const ROOT = path.resolve(__dirname, '..');
-const COMPANIES_DIR = path.join(ROOT, 'data', 'companies');
-const PRODUCTS_DIR = path.join(ROOT, 'data', 'products');
+const DATA_DIR = path.join(ROOT, 'data');
+const COMPANIES_DIR = path.join(DATA_DIR, 'companies');
+const PRODUCTS_DIR = path.join(DATA_DIR, 'products');
+const BIO_PATH = path.join(DATA_DIR, 'bio.yaml');
+const BIO_JSON_PATH = path.join(DATA_DIR, 'bio.json');
 
 const COMPANY_RICH_TEXT_KEYS = new Set(['Highlights', 'Detailed Description']);
 const PRODUCT_RICH_TEXT_KEYS = new Set([
@@ -92,6 +95,20 @@ function main() {
 
   console.log(`Wrote ${companies.length} companies to ${path.relative(ROOT, companiesOut)}`);
   console.log(`Wrote ${products.length} products to ${path.relative(ROOT, productsOut)}`);
+
+  if (fs.existsSync(BIO_PATH)) {
+    const bioContent = fs.readFileSync(BIO_PATH, 'utf8');
+    const bio = yaml.load(bioContent);
+    if (bio && typeof bio === 'object') {
+      const out = {
+        Bio: bio.Bio != null ? String(bio.Bio).trim() : '',
+        'Notable Accomplishments': Array.isArray(bio['Notable Accomplishments']) ? bio['Notable Accomplishments'] : [],
+        Skills: Array.isArray(bio.Skills) ? bio.Skills : [],
+      };
+      fs.writeFileSync(BIO_JSON_PATH, JSON.stringify(out, null, 2), 'utf8');
+      console.log(`Wrote bio to ${path.relative(ROOT, BIO_JSON_PATH)}`);
+    }
+  }
 }
 
 main();
