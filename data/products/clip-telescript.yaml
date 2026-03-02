@@ -2,8 +2,8 @@ Name: Clip TeleScript
 Slug: clip-telescript
 50 Character Description: The Industrial Telemetry DS Language for Rapid Machine Integration
 Startup Company: clip-automation
-Featured: 'True'
-Sort Order: 4
+Featured: 'true'
+Sort Order: 2
 Product Type: Product
 Summary: |
   A domain-specific language (DSL) for quickly integrating with machine to ingest, parse, validate and aggregate telemetry to derive customer-specific KPIs, alerts and insights
@@ -13,9 +13,10 @@ Description: |
 
 Thumbnai Image: /images/products/clip-telescript-thumb.webp
 Project Image: /images/products/clip-telescript-project.webp
-Start Date: June 01, 2025
+Start Date: Jun 01, 2025
 End Date: Dec 05, 2025
 Highlights: |
+  *   Delivered 350+ unique KPIs to a Fortune 50 customer by onboarding 100+ machines using 10+ integrations from 6 equipment vendors across 2 facilities
   *   Reduced equipment integration development time from 3 months to 3 days by leading a cross-functional team of 5 to deliver Clip Telescript, a domain-specific language for ingesting, parsing, validating and aggregating telemetry to derive customer-specific KPIs, alerts and insights
 
 "Press Release": |

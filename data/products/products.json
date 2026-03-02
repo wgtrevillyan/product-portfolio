@@ -89,12 +89,43 @@
     ]
   },
   {
+    "Name": "Clip TeleScript",
+    "Slug": "clip-telescript",
+    "50 Character Description": "The Industrial Telemetry DS Language for Rapid Machine Integration",
+    "Startup Company": "clip-automation",
+    "Featured": "true",
+    "Sort Order": 2,
+    "Product Type": "Product",
+    "Summary": "<p>A domain-specific language (DSL) for quickly integrating with machine to ingest, parse, validate and aggregate telemetry to derive customer-specific KPIs, alerts and insights</p>\n",
+    "Description": "<p>A domain-specific language (DSL) that field engineers and technicians use to quickly integrate machines into SCADAs and ingest, parse, validate, audit and aggregate telemetry to derive customer-specific KPIs, alerts and insights</p>\n",
+    "Thumbnai Image": "/images/products/clip-telescript-thumb.webp",
+    "Project Image": "/images/products/clip-telescript-project.webp",
+    "Start Date": "Jun 01, 2025",
+    "End Date": "Dec 05, 2025",
+    "Highlights": "<ul>\n<li>Delivered 350+ unique KPIs to a Fortune 50 customer by onboarding 100+ machines using 10+ integrations from 6 equipment vendors across 2 facilities</li>\n<li>Reduced equipment integration development time from 3 months to 3 days by leading a cross-functional team of 5 to deliver Clip Telescript, a domain-specific language for ingesting, parsing, validating and aggregating telemetry to derive customer-specific KPIs, alerts and insights</li>\n</ul>\n",
+    "Press Release": "<blockquote>\n<p>CLIP AUTOMATION ANNOUNCES CLIP TELESCRIPT FOR RAPID MACHINE INTEGRATION</p>\n</blockquote>\n<blockquote>\n<p><em>Now, third-party logistics and manufacturing enterprises that utilize Clip Automation&#39;s Industrial Data Platform can connect new machines and calculate KPIs in days instead of months using a domain-specific language built for industrial telemetry.</em></p>\n</blockquote>\n<blockquote>\n<p><strong>Palo Alto, CA – November 2025</strong>, Clip Automation, the real-time industrial observability platform for manufacturing enterprises, announced Clip TeleScript, a domain-specific language (DSL) that makes machine integration rapid. Technicians and field engineers use TeleScript to define how raw equipment and sensor data is ingested, parsed, validated and aggregated into customer-specific KPIs, alerts and insights—dramatically shortening the path from new equipment or site to live dashboards and actionable intelligence.</p>\n</blockquote>\n<blockquote>\n<p>Manufacturing and logistics operations face a dual crisis: integration is too slow, and the data that does make it through is too hard to trust. Bringing a new machine or line online typically requires months of custom code—one-off logic per machine type, protocol and KPI—resulting in brittle pipelines and long development cycles. At the same time, traditional systems struggle with data accuracy. Inconsistent timestamping across mixed protocols, fragmented data silos and non-auditable &quot;black box&quot; KPI calculations—often with mixed units of measure—make it difficult for engineers to trace the origin of critical metrics or validate the integrity of operational data. The result is operational blind spots and a lack of trust in the very KPIs that are supposed to drive decisions, forcing teams to either refrain from acting or spend excessive time in Excel verifying findings before they can move.</p>\n</blockquote>\n<blockquote>\n<p>Clip TeleScript addresses both. It replaces custom code with a single, declarative language: teams describe data flows, validation rules and formulas for calculating metrics in a maintainable specification instead of writing and maintaining scattered integration code. Integration timelines shrink from months to days. The language is designed for industrial telemetry from the ground up—supporting the semantics, units and lineage that operations teams need—so pipelines stay accurate and auditable without sacrificing speed. Manufacturing engineers can go from &quot;machine connected&quot; to &quot;KPIs live&quot; in days, not months, with metrics they can trace and verify.</p>\n</blockquote>\n<blockquote>\n<p>&quot;This is about making machine integration a matter of configuration, not custom engineering. Teams get rapid integrations and the data quality they need to run their operations,&quot; said the Clip Automation team.</p>\n</blockquote>\n<blockquote>\n<p>Built as part of Clip Automation&#39;s multitenant industrial data platform, TeleScript powers connectivity and KPI calculation across Equipment, Process, Product and Personnel metrics. Enterprises can onboard new lines and sites into their SCADA quickly while maintaining full control over how telemetry is transformed into the KPIs that operations leaders use to drive decisions.</p>\n</blockquote>\n",
+    "Tags": [
+      "enterprise",
+      "b2b",
+      "saas",
+      "iot",
+      "manufacturing",
+      "developer-tools"
+    ],
+    "Skills": [
+      "communication",
+      "product-strategy",
+      "technical-writing",
+      "execution"
+    ]
+  },
+  {
     "Name": "Meld Owner Hub",
     "Slug": "owner-hub",
     "50 Character Description": "The Control Center for a Property Owner’s Maintenance Operations",
     "Startup Company": "property-meld",
     "Featured": "true",
-    "Sort Order": 2,
+    "Sort Order": 3,
     "Product Type": "Product",
     "Summary": "<p>This web application equips property owners, whose properties are managed by a property management firm, with the ability to participate in the maintenance process for their properties.</p>\n",
     "Description": "<p>This web application equips property owners, whose properties are managed by a property management firm, with the ability to participate in the maintenance process for their properties. With the Owner Hub, property owners can approve or reject maintenance requests from tenants, chat with maintenance coordinators regarding ongoing maintenance activities, and view the historical maintenance records for each of their properties.</p>\n",
@@ -121,60 +152,6 @@
       "product-launches-and-marketing",
       "data-analysis",
       "design"
-    ]
-  },
-  {
-    "Name": "Incode Analytics",
-    "Slug": "incode-analytics",
-    "50 Character Description": "The Fraud and Conversion Analytics Dashboard for Banking Enterprises",
-    "Startup Company": "incode-technologies",
-    "Featured": "true",
-    "Sort Order": 3,
-    "Product Type": "Product",
-    "Summary": "<p>This web application equips financial enterprises—who use Incode’s biometric identity verification solution to minimize fraud and maximize conversion—to analyze the performance of their digital onboarding experiences through embedded analytics dashboards powered by Tableau.</p>\n",
-    "Description": "<p>This web application equips financial enterprises—who use Incode’s biometric identity verification solution to minimize fraud and maximize conversion—to analyze the performance of their digital onboarding experiences through embedded analytics dashboards powered by Tableau.</p>\n",
-    "Thumbnai Image": "/images/products/incode-analytics-thumb.webp",
-    "Project Image": "/images/products/incode-analytics-project.webp",
-    "Start Date": "Sep 01, 2022",
-    "End Date": "Jan 01, 2023",
-    "Highlights": "<ul>\n<li><p>Decreased a bank’s time-to-proven value by 50% (~3 months) by leading a cross-functional team to build and launch Incode Analytics, leveraging embedded Tableau dashboards with row-level security</p>\n</li>\n<li><p>Coordinated the development and release of user event tracking of our customer’s users and an associated event log UI for our clients to see what actions each of their users were taking during their onboarding journey and diagnose drop off in the conversion funnel</p>\n</li>\n<li><p>Led the re-design of Incode&#39;s event data architecture related to our clients’ users’ experience after uncovering a serious architecture and definition issue that prevented us from delivering a single instance of an analytics dashboard to all clients</p>\n</li>\n</ul>\n",
-    "Press Release": "<blockquote>\n<p>INCODE ANNOUNCES INCODE ANALYTICS TO EMPOWER BANKING ENTERPRISES TO VISUALIZE THE PERFORMANCE OF THEIR DIGITAL IDENTITY VERIFICATION SOLUTION.</p>\n</blockquote>\n<blockquote>\n<p><em>Now, financial enterprises that use Incode&#39;s biometric identity verification solution can analyze the performance of their digital onboarding experiences with embedded analytics dashboards powered by Tableau.</em></p>\n</blockquote>\n<blockquote>\n<p>San Francisco, California—Q4 2022—Incode, the next-generation identity verification and authentication platform for global enterprises, released Incode Analytics to enable both fraud-prevention and user-growth teams with visibility and insights into their digital identity verification implementation&#39;s performance</p>\n</blockquote>\n<blockquote>\n<p>Global enterprises use Incode&#39;s biometric identity verification services to increase conversion of their new customer digital onboarding funnels, decrease fraud, and achieve KYC and AML compliance. However, without the ability to quickly visualize the performance of their digital onboarding funnels, various stakeholders suffer. Executives are prevented from comprehending the impact of their biometric identity verification solution on digital onboarding conversion and fraud prevention. Analysts are forced to manually conduct timely funnel analyses and prepare confusion matrices to discover simple insights. Fraud prevention teams are prevented from obtaining valuable insights promptly, and the implementation teams miss vital opportunities to improve their onboarding conversion rates.</p>\n</blockquote>\n<blockquote>\n<p>Incode Analytics removes this friction by providing an enterprise&#39;s various teams and stakeholders with analytics dashboards showing real-time, quantitative insights that are key to understanding the performance of their digital identity verification implementation. Stakeholders ranging from analysts to executives can learn from and quickly make decisions based on KPIs such as onboarding funnel conversion rates, fraud detection rates, and user drop-off rates.</p>\n</blockquote>\n<blockquote>\n<p><em>&quot;Staying ahead of ever-smarter fraudsters starts with data that can be simply and quickly utilized. Thus, Incode is making a large step towards ensuring that financial enterprises are well equipped to react fast to the ever-changing identity-tech industry.&quot;</em> - William Trevillyan, Product Manager at Incode.</p>\n</blockquote>\n<blockquote>\n<p>With Incode Analytics, users can view a set of embedded Tableau dashboards that show various analyses, such as onboarding funnel analyses, dynamic conversion trends, fraud-focused confusion matrices, and more. Executives can make high-level observations while analysts can dig for deeper insights using 20+ filters.</p>\n</blockquote>\n<blockquote>\n<p><em>&quot;I found Incode Analytics allowed our team to observe, experiment, iterate, and learn, accelerating our ability to increase onboarding conversion rates while decreasing fraud.&quot;</em> - Jane Doe, Head of Growth for ABC Bank.</p>\n</blockquote>\n<blockquote>\n<p>To learn more, please <a href=\"https://incode.com/contact-us/\">contact our team</a> here at <a href=\"https://incode.com\">Incode</a>.</p>\n</blockquote>\n",
-    "Skills": [
-      "execution",
-      "communication",
-      "prioritization",
-      "customer-research"
-    ]
-  },
-  {
-    "Name": "Clip TeleScript",
-    "Slug": "clip-telescript",
-    "50 Character Description": "The Industrial Telemetry DS Language for Rapid Machine Integration",
-    "Startup Company": "clip-automation",
-    "Featured": "True",
-    "Sort Order": 4,
-    "Product Type": "Product",
-    "Summary": "<p>A domain-specific language (DSL) for quickly integrating with machine to ingest, parse, validate and aggregate telemetry to derive customer-specific KPIs, alerts and insights</p>\n",
-    "Description": "<p>A domain-specific language (DSL) that field engineers and technicians use to quickly integrate machines into SCADAs and ingest, parse, validate, audit and aggregate telemetry to derive customer-specific KPIs, alerts and insights</p>\n",
-    "Thumbnai Image": "/images/products/clip-telescript-thumb.webp",
-    "Project Image": "/images/products/clip-telescript-project.webp",
-    "Start Date": "June 01, 2025",
-    "End Date": "Dec 05, 2025",
-    "Highlights": "<ul>\n<li>Reduced equipment integration development time from 3 months to 3 days by leading a cross-functional team of 5 to deliver Clip Telescript, a domain-specific language for ingesting, parsing, validating and aggregating telemetry to derive customer-specific KPIs, alerts and insights</li>\n</ul>\n",
-    "Press Release": "<blockquote>\n<p>CLIP AUTOMATION ANNOUNCES CLIP TELESCRIPT FOR RAPID MACHINE INTEGRATION</p>\n</blockquote>\n<blockquote>\n<p><em>Now, third-party logistics and manufacturing enterprises that utilize Clip Automation&#39;s Industrial Data Platform can connect new machines and calculate KPIs in days instead of months using a domain-specific language built for industrial telemetry.</em></p>\n</blockquote>\n<blockquote>\n<p><strong>Palo Alto, CA – November 2025</strong>, Clip Automation, the real-time industrial observability platform for manufacturing enterprises, announced Clip TeleScript, a domain-specific language (DSL) that makes machine integration rapid. Technicians and field engineers use TeleScript to define how raw equipment and sensor data is ingested, parsed, validated and aggregated into customer-specific KPIs, alerts and insights—dramatically shortening the path from new equipment or site to live dashboards and actionable intelligence.</p>\n</blockquote>\n<blockquote>\n<p>Manufacturing and logistics operations face a dual crisis: integration is too slow, and the data that does make it through is too hard to trust. Bringing a new machine or line online typically requires months of custom code—one-off logic per machine type, protocol and KPI—resulting in brittle pipelines and long development cycles. At the same time, traditional systems struggle with data accuracy. Inconsistent timestamping across mixed protocols, fragmented data silos and non-auditable &quot;black box&quot; KPI calculations—often with mixed units of measure—make it difficult for engineers to trace the origin of critical metrics or validate the integrity of operational data. The result is operational blind spots and a lack of trust in the very KPIs that are supposed to drive decisions, forcing teams to either refrain from acting or spend excessive time in Excel verifying findings before they can move.</p>\n</blockquote>\n<blockquote>\n<p>Clip TeleScript addresses both. It replaces custom code with a single, declarative language: teams describe data flows, validation rules and formulas for calculating metrics in a maintainable specification instead of writing and maintaining scattered integration code. Integration timelines shrink from months to days. The language is designed for industrial telemetry from the ground up—supporting the semantics, units and lineage that operations teams need—so pipelines stay accurate and auditable without sacrificing speed. Manufacturing engineers can go from &quot;machine connected&quot; to &quot;KPIs live&quot; in days, not months, with metrics they can trace and verify.</p>\n</blockquote>\n<blockquote>\n<p>&quot;This is about making machine integration a matter of configuration, not custom engineering. Teams get rapid integrations and the data quality they need to run their operations,&quot; said the Clip Automation team.</p>\n</blockquote>\n<blockquote>\n<p>Built as part of Clip Automation&#39;s multitenant industrial data platform, TeleScript powers connectivity and KPI calculation across Equipment, Process, Product and Personnel metrics. Enterprises can onboard new lines and sites into their SCADA quickly while maintaining full control over how telemetry is transformed into the KPIs that operations leaders use to drive decisions.</p>\n</blockquote>\n",
-    "Tags": [
-      "enterprise",
-      "b2b",
-      "saas",
-      "iot",
-      "manufacturing",
-      "developer-tools"
-    ],
-    "Skills": [
-      "communication",
-      "product-strategy",
-      "technical-writing",
-      "execution"
     ]
   },
   {
@@ -210,34 +187,26 @@
     ]
   },
   {
-    "Name": "HomeMetrics Water Monitor",
-    "Slug": "water-monitor",
-    "50 Character Description": "The Smart Home Water Damage Monitoring Service for Homeowners",
-    "Startup Company": "homemetrics",
+    "Name": "Incode Analytics",
+    "Slug": "incode-analytics",
+    "50 Character Description": "The Fraud and Conversion Analytics Dashboard for Banking Enterprises",
+    "Startup Company": "incode-technologies",
     "Featured": "true",
     "Sort Order": 5,
     "Product Type": "Product",
-    "Summary": "<p>This smart home IoT device monitors the health of a home&#39;s plumbing grid to predict and prevent water damage. Once installed, homeowners save money, time, and, most importantly, energy spent worrying about their home&#39;s health.</p>\n",
-    "Description": "<p>This smart home IoT device monitors the health of a home&#39;s plumbing grid to predict and prevent water damage. Once installed, homeowners save money, time, and, most importantly, energy spent worrying about their home&#39;s health.</p>\n",
-    "Thumbnai Image": "/images/products/water-monitor-thumb.webp",
-    "Project Image": "/images/products/water-monitor-project.webp",
-    "Start Date": "Apr 01, 2019",
-    "End Date": "Aug 01, 2020",
-    "Highlights": "<ul>\n<li><p>Ran POCs with 5 homeowners, installing the HomeMetrics devices in 5 homes by leading a cross-functional team to design, build and deliver an IoT sensor network with Android/iOS mobile apps</p>\n</li>\n<li><p>Hired and managed a team of 15 engineering interns for a year</p>\n</li>\n<li><p>Raised $21,000 from 4 startup pitch competitions for R&amp;D</p>\n</li>\n<li><p>Obtained 2 patents on water leak sensing technologies</p>\n</li>\n<li><p>Conducted 50+ customer discovery interviews</p>\n</li>\n</ul>\n",
-    "Press Release": "<blockquote>\n<p>HOMEMETRICS ANNOUNCES THE LAUNCH OF THE HOMEMETRICS WATER MONITOR FOR ABSENTEE HOMEOWNERS TO MONITOR AND PROTECT THEIR HOMES FROM WATER DAMAGE.</p>\n</blockquote>\n<blockquote>\n<p><em>Now, absentee homeowners who own secondary homes, vacation homes, or Airbnb rental properties can save time and money. More importantly, they can avoid worrying about their property&#39;s health, knowing that the HomeMetrics Water Monitor protects their homes from any plumbing-related emergency.</em></p>\n</blockquote>\n<blockquote>\n<p>Rapid City, South Dakota—Q3 2020—HomeMetrics, the proactive home health monitoring solution for predicting and preventing property damage, launched the HomeMetrics Water Monitor to provide 24/7 monitoring of a home&#39;s plumbing grid in search of leaks, floods, pipe breaks, water heater malfunctions, and more.</p>\n</blockquote>\n<blockquote>\n<p>Absentee homeowners lack real-time data about the health of their homes, leading to ill-informed property management decisions and thus costing them time and money. Often, homes will develop small water leaks; although these leaks are cheap to fix, they go unnoticed for months. In a worst-case scenario, the floor and walls near the leak rot with water damage. Often, a homeowner&#39;s insurance company denies their claim, choosing not to cover repair costs by pinning the blame on the homeowner&#39;s mistakes. In this case, the homeowner would pay for the repair costs and hundreds to thousands of dollars more due to the increased water usage.</p>\n</blockquote>\n<blockquote>\n<p>&quot;For every 100 mountain vacation homes, five will have a sewage tank that backs up, flooding into their basements every winter. Unfortunately, the time, stress, and effort spent dealing with these disasters is wasted. Ten years from now, I believe every newly constructed home will have smart home IoT devices installed which monitor both the plumbing and the electrical grids, ensuring the home&#39;s health is maintained.&quot; - Bill Trevillyan, Co-founder and CEO at HomeMetrics.</p>\n</blockquote>\n<blockquote>\n<p>For a one-time cost of $600, homeowners can install the HomeMetrics Water Monitor and have it monitor water pressure, flow rate, temperature, etc. Day or night, the system searches for leaks, floods, pipe breaks, water heater malfunctions, and more. The HomeMetrics mobile app gives homeowners complete visibility into their home&#39;s plumbing grid. First, homeowners are alerted to any abnormal behavior, such as constantly running water from a broken toilet seal or a pipe leak. In addition, they can turn the water to their house off when traveling away from home with the tap of a finger. They can even view their daily, weekly, monthly, and annual water usage trends. Finally, they can turn on Eco mode and regulate the water pressure coming into the house, extending the life span of appliances such as water heaters and reducing the home&#39;s annual water usage.</p>\n</blockquote>\n<blockquote>\n<p>&quot;The MetricsNetwork helps me save up to 3000 gallons of water a year!&quot; - Matt Irwin, a Rapid City, SD homeowner.</p>\n</blockquote>\n<blockquote>\n<p>Learn more at <a href=\"http://HomeMetrics.io\">HomeMetrics.io</a> or contact our team at <a href=\"info@homemetrics.io\">info@homemetrics.io</a>.</p>\n</blockquote>\n",
-    "Services Text": "<h2><strong>Wireframes</strong></h2>\n<p>‍</p>\n<p>In this section, we offer a glimpse into the conceptualization phase of our projects through wireframes. Wireframes are the architectural blueprints of digital experiences, representing the foundation upon which we build remarkable websites. Here, you can explore our thoughtfully crafted wireframes that lay the groundwork for seamless and user-friendly designs.</p>\n<p>‍</p>\n<h2><strong>Highlights:</strong></h2>\n<p>‍</p>\n<ol>\n<li><strong>User-Centric Design:</strong> Our wireframes prioritize user experience, mapping out intuitive navigation, content hierarchy, and interaction points that put users at the forefront of design.</li>\n<li><strong>Responsive Blueprint:</strong> We&#39;ve meticulously planned for responsiveness, ensuring that our designs adapt seamlessly to various screen sizes, guaranteeing a consistent experience on desktops, tablets, and mobile devices.</li>\n<li><strong>Strategic Content Placement:</strong> Our wireframes reveal the strategic placement of content, imagery, and call-to-action elements, optimizing engagement and conversion pathways.</li>\n<li><strong>Iterative Refinement:</strong> Crafting these wireframes involved numerous iterations and collaborative feedback sessions to ensure they perfectly aligned with our client&#39;s vision and objectives.</li>\n</ol>\n<p>‍</p>\n<h2><strong>Challenges</strong></h2>\n<p>‍</p>\n<p>In this section, we provide an insightful look into the challenges we encountered during the development journey of our client projects. Challenges are opportunities in disguise, and it&#39;s in these moments that our team&#39;s expertise and problem-solving abilities truly shine.</p>\n<p>‍</p>\n<p><strong>Notable Challenges:</strong></p>\n<p>‍</p>\n<ol>\n<li><strong>Complex Functionality:</strong> Our clients often demand intricate functionalities, such as e-commerce integration and custom user dashboards, which require innovative solutions and rigorous testing.</li>\n<li><strong>Performance Optimization:</strong> Achieving top-tier performance while maintaining feature-rich websites necessitates extensive optimization, including image compression, code refinement, and server-side enhancements.</li>\n<li><strong>Security Prioritization:</strong> Data privacy and cybersecurity are paramount. We implemented robust security measures to safeguard sensitive user information, ensuring a safe online environment.</li>\n<li><strong>Browser Compatibility:</strong> Ensuring that our websites function seamlessly across a multitude of browsers and devices required exhaustive testing and meticulous debugging.</li>\n</ol>\n<p>‍</p>\n<h2><strong>Conclusion</strong></h2>\n<p>‍</p>\n<p>In the conclusion segment of our portfolio, we celebrate the successful outcomes of our collaborations with clients. This is where the narrative of our partnerships reaches its apex, spotlighting achievements, milestones, and the profound impact of our work.</p>\n",
-    "Website": "Water Module Documentation",
-    "Live Link": "https://www.homemetrics.io/#/products",
-    "Tags": [
-      "b2c",
-      "smart-home-tech"
-    ],
+    "Summary": "<p>This web application equips financial enterprises—who use Incode’s biometric identity verification solution to minimize fraud and maximize conversion—to analyze the performance of their digital onboarding experiences through embedded analytics dashboards powered by Tableau.</p>\n",
+    "Description": "<p>This web application equips financial enterprises—who use Incode’s biometric identity verification solution to minimize fraud and maximize conversion—to analyze the performance of their digital onboarding experiences through embedded analytics dashboards powered by Tableau.</p>\n",
+    "Thumbnai Image": "/images/products/incode-analytics-thumb.webp",
+    "Project Image": "/images/products/incode-analytics-project.webp",
+    "Start Date": "Sep 01, 2022",
+    "End Date": "Jan 01, 2023",
+    "Highlights": "<ul>\n<li><p>Decreased a bank’s time-to-proven value by 50% (~3 months) by leading a cross-functional team to build and launch Incode Analytics, leveraging embedded Tableau dashboards with row-level security</p>\n</li>\n<li><p>Coordinated the development and release of user event tracking of our customer’s users and an associated event log UI for our clients to see what actions each of their users were taking during their onboarding journey and diagnose drop off in the conversion funnel</p>\n</li>\n<li><p>Led the re-design of Incode&#39;s event data architecture related to our clients’ users’ experience after uncovering a serious architecture and definition issue that prevented us from delivering a single instance of an analytics dashboard to all clients</p>\n</li>\n</ul>\n",
+    "Press Release": "<blockquote>\n<p>INCODE ANNOUNCES INCODE ANALYTICS TO EMPOWER BANKING ENTERPRISES TO VISUALIZE THE PERFORMANCE OF THEIR DIGITAL IDENTITY VERIFICATION SOLUTION.</p>\n</blockquote>\n<blockquote>\n<p><em>Now, financial enterprises that use Incode&#39;s biometric identity verification solution can analyze the performance of their digital onboarding experiences with embedded analytics dashboards powered by Tableau.</em></p>\n</blockquote>\n<blockquote>\n<p>San Francisco, California—Q4 2022—Incode, the next-generation identity verification and authentication platform for global enterprises, released Incode Analytics to enable both fraud-prevention and user-growth teams with visibility and insights into their digital identity verification implementation&#39;s performance</p>\n</blockquote>\n<blockquote>\n<p>Global enterprises use Incode&#39;s biometric identity verification services to increase conversion of their new customer digital onboarding funnels, decrease fraud, and achieve KYC and AML compliance. However, without the ability to quickly visualize the performance of their digital onboarding funnels, various stakeholders suffer. Executives are prevented from comprehending the impact of their biometric identity verification solution on digital onboarding conversion and fraud prevention. Analysts are forced to manually conduct timely funnel analyses and prepare confusion matrices to discover simple insights. Fraud prevention teams are prevented from obtaining valuable insights promptly, and the implementation teams miss vital opportunities to improve their onboarding conversion rates.</p>\n</blockquote>\n<blockquote>\n<p>Incode Analytics removes this friction by providing an enterprise&#39;s various teams and stakeholders with analytics dashboards showing real-time, quantitative insights that are key to understanding the performance of their digital identity verification implementation. Stakeholders ranging from analysts to executives can learn from and quickly make decisions based on KPIs such as onboarding funnel conversion rates, fraud detection rates, and user drop-off rates.</p>\n</blockquote>\n<blockquote>\n<p><em>&quot;Staying ahead of ever-smarter fraudsters starts with data that can be simply and quickly utilized. Thus, Incode is making a large step towards ensuring that financial enterprises are well equipped to react fast to the ever-changing identity-tech industry.&quot;</em> - William Trevillyan, Product Manager at Incode.</p>\n</blockquote>\n<blockquote>\n<p>With Incode Analytics, users can view a set of embedded Tableau dashboards that show various analyses, such as onboarding funnel analyses, dynamic conversion trends, fraud-focused confusion matrices, and more. Executives can make high-level observations while analysts can dig for deeper insights using 20+ filters.</p>\n</blockquote>\n<blockquote>\n<p><em>&quot;I found Incode Analytics allowed our team to observe, experiment, iterate, and learn, accelerating our ability to increase onboarding conversion rates while decreasing fraud.&quot;</em> - Jane Doe, Head of Growth for ABC Bank.</p>\n</blockquote>\n<blockquote>\n<p>To learn more, please <a href=\"https://incode.com/contact-us/\">contact our team</a> here at <a href=\"https://incode.com\">Incode</a>.</p>\n</blockquote>\n",
     "Skills": [
       "execution",
+      "communication",
       "prioritization",
-      "customer-research",
-      "product-strategy",
-      "communication"
+      "customer-research"
     ]
   },
   {
@@ -263,6 +232,37 @@
       "prioritization",
       "product-strategy",
       "product-launches-and-marketing"
+    ]
+  },
+  {
+    "Name": "HomeMetrics Water Monitor",
+    "Slug": "water-monitor",
+    "50 Character Description": "The Smart Home Water Damage Monitoring Service for Homeowners",
+    "Startup Company": "homemetrics",
+    "Featured": "true",
+    "Sort Order": 6,
+    "Product Type": "Product",
+    "Summary": "<p>This smart home IoT device monitors the health of a home&#39;s plumbing grid to predict and prevent water damage. Once installed, homeowners save money, time, and, most importantly, energy spent worrying about their home&#39;s health.</p>\n",
+    "Description": "<p>This smart home IoT device monitors the health of a home&#39;s plumbing grid to predict and prevent water damage. Once installed, homeowners save money, time, and, most importantly, energy spent worrying about their home&#39;s health.</p>\n",
+    "Thumbnai Image": "/images/products/water-monitor-thumb.webp",
+    "Project Image": "/images/products/water-monitor-project.webp",
+    "Start Date": "Apr 01, 2019",
+    "End Date": "Aug 01, 2020",
+    "Highlights": "<ul>\n<li><p>Ran POCs with 5 homeowners, installing the HomeMetrics devices in 5 homes by leading a cross-functional team to design, build and deliver an IoT sensor network with Android/iOS mobile apps</p>\n</li>\n<li><p>Hired and managed a team of 15 engineering interns for a year</p>\n</li>\n<li><p>Raised $21,000 from 4 startup pitch competitions for R&amp;D</p>\n</li>\n<li><p>Obtained 2 patents on water leak sensing technologies</p>\n</li>\n<li><p>Conducted 50+ customer discovery interviews</p>\n</li>\n</ul>\n",
+    "Press Release": "<blockquote>\n<p>HOMEMETRICS ANNOUNCES THE LAUNCH OF THE HOMEMETRICS WATER MONITOR FOR ABSENTEE HOMEOWNERS TO MONITOR AND PROTECT THEIR HOMES FROM WATER DAMAGE.</p>\n</blockquote>\n<blockquote>\n<p><em>Now, absentee homeowners who own secondary homes, vacation homes, or Airbnb rental properties can save time and money. More importantly, they can avoid worrying about their property&#39;s health, knowing that the HomeMetrics Water Monitor protects their homes from any plumbing-related emergency.</em></p>\n</blockquote>\n<blockquote>\n<p>Rapid City, South Dakota—Q3 2020—HomeMetrics, the proactive home health monitoring solution for predicting and preventing property damage, launched the HomeMetrics Water Monitor to provide 24/7 monitoring of a home&#39;s plumbing grid in search of leaks, floods, pipe breaks, water heater malfunctions, and more.</p>\n</blockquote>\n<blockquote>\n<p>Absentee homeowners lack real-time data about the health of their homes, leading to ill-informed property management decisions and thus costing them time and money. Often, homes will develop small water leaks; although these leaks are cheap to fix, they go unnoticed for months. In a worst-case scenario, the floor and walls near the leak rot with water damage. Often, a homeowner&#39;s insurance company denies their claim, choosing not to cover repair costs by pinning the blame on the homeowner&#39;s mistakes. In this case, the homeowner would pay for the repair costs and hundreds to thousands of dollars more due to the increased water usage.</p>\n</blockquote>\n<blockquote>\n<p>&quot;For every 100 mountain vacation homes, five will have a sewage tank that backs up, flooding into their basements every winter. Unfortunately, the time, stress, and effort spent dealing with these disasters is wasted. Ten years from now, I believe every newly constructed home will have smart home IoT devices installed which monitor both the plumbing and the electrical grids, ensuring the home&#39;s health is maintained.&quot; - Bill Trevillyan, Co-founder and CEO at HomeMetrics.</p>\n</blockquote>\n<blockquote>\n<p>For a one-time cost of $600, homeowners can install the HomeMetrics Water Monitor and have it monitor water pressure, flow rate, temperature, etc. Day or night, the system searches for leaks, floods, pipe breaks, water heater malfunctions, and more. The HomeMetrics mobile app gives homeowners complete visibility into their home&#39;s plumbing grid. First, homeowners are alerted to any abnormal behavior, such as constantly running water from a broken toilet seal or a pipe leak. In addition, they can turn the water to their house off when traveling away from home with the tap of a finger. They can even view their daily, weekly, monthly, and annual water usage trends. Finally, they can turn on Eco mode and regulate the water pressure coming into the house, extending the life span of appliances such as water heaters and reducing the home&#39;s annual water usage.</p>\n</blockquote>\n<blockquote>\n<p>&quot;The MetricsNetwork helps me save up to 3000 gallons of water a year!&quot; - Matt Irwin, a Rapid City, SD homeowner.</p>\n</blockquote>\n<blockquote>\n<p>Learn more at <a href=\"http://HomeMetrics.io\">HomeMetrics.io</a> or contact our team at <a href=\"info@homemetrics.io\">info@homemetrics.io</a>.</p>\n</blockquote>\n",
+    "Services Text": "<h2><strong>Wireframes</strong></h2>\n<p>‍</p>\n<p>In this section, we offer a glimpse into the conceptualization phase of our projects through wireframes. Wireframes are the architectural blueprints of digital experiences, representing the foundation upon which we build remarkable websites. Here, you can explore our thoughtfully crafted wireframes that lay the groundwork for seamless and user-friendly designs.</p>\n<p>‍</p>\n<h2><strong>Highlights:</strong></h2>\n<p>‍</p>\n<ol>\n<li><strong>User-Centric Design:</strong> Our wireframes prioritize user experience, mapping out intuitive navigation, content hierarchy, and interaction points that put users at the forefront of design.</li>\n<li><strong>Responsive Blueprint:</strong> We&#39;ve meticulously planned for responsiveness, ensuring that our designs adapt seamlessly to various screen sizes, guaranteeing a consistent experience on desktops, tablets, and mobile devices.</li>\n<li><strong>Strategic Content Placement:</strong> Our wireframes reveal the strategic placement of content, imagery, and call-to-action elements, optimizing engagement and conversion pathways.</li>\n<li><strong>Iterative Refinement:</strong> Crafting these wireframes involved numerous iterations and collaborative feedback sessions to ensure they perfectly aligned with our client&#39;s vision and objectives.</li>\n</ol>\n<p>‍</p>\n<h2><strong>Challenges</strong></h2>\n<p>‍</p>\n<p>In this section, we provide an insightful look into the challenges we encountered during the development journey of our client projects. Challenges are opportunities in disguise, and it&#39;s in these moments that our team&#39;s expertise and problem-solving abilities truly shine.</p>\n<p>‍</p>\n<p><strong>Notable Challenges:</strong></p>\n<p>‍</p>\n<ol>\n<li><strong>Complex Functionality:</strong> Our clients often demand intricate functionalities, such as e-commerce integration and custom user dashboards, which require innovative solutions and rigorous testing.</li>\n<li><strong>Performance Optimization:</strong> Achieving top-tier performance while maintaining feature-rich websites necessitates extensive optimization, including image compression, code refinement, and server-side enhancements.</li>\n<li><strong>Security Prioritization:</strong> Data privacy and cybersecurity are paramount. We implemented robust security measures to safeguard sensitive user information, ensuring a safe online environment.</li>\n<li><strong>Browser Compatibility:</strong> Ensuring that our websites function seamlessly across a multitude of browsers and devices required exhaustive testing and meticulous debugging.</li>\n</ol>\n<p>‍</p>\n<h2><strong>Conclusion</strong></h2>\n<p>‍</p>\n<p>In the conclusion segment of our portfolio, we celebrate the successful outcomes of our collaborations with clients. This is where the narrative of our partnerships reaches its apex, spotlighting achievements, milestones, and the profound impact of our work.</p>\n",
+    "Website": "Water Module Documentation",
+    "Live Link": "https://www.homemetrics.io/#/products",
+    "Tags": [
+      "b2c",
+      "smart-home-tech"
+    ],
+    "Skills": [
+      "execution",
+      "prioritization",
+      "customer-research",
+      "product-strategy",
+      "communication"
     ]
   },
   {
