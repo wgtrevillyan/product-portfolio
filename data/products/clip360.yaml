@@ -17,6 +17,8 @@ Start Date: Jan 08, 2025
 End Date: Dec 18, 2025
 Highlights: |
   *   Acquired $XXXK in ARR from a Fortune 100 corporation by hiring and coordinating an engineering team of 5 to deliver an **industrial observability platform** for manufacturing operations
+  *   Reduced new site deployment time by 3X from 12 months to 4 months by leveraging Clip TeleScript, the telemetry DSL for rapid machine integration, to integrate and onboard 50+ machines into Clip Nexus and Clip360
+  *   Achieved a sub-second real-time equipment state monitoring for 100+ machines by leveraging Clip Nexus, to stream telemetry to the Clip360 in the cloud
 
 "Press Release": |
   > CLIP AUTOMATION ANNOUNCES CLIP OBSERVABILITY TO DELIVER REAL-TIME MONITORING FOR OPERATIONS TEAMS
@@ -31,9 +33,7 @@ Highlights: |
   
   > “Operations teams are flying blind—wasting hours chasing scattered data and missing critical issues across their lines. We built Clip Observability to bring actionable visibility to every level of manufacturing operations," said the Clip Automation team.
   
-  > Accessible on any device from browser-based dashboards, Clip Observability transforms reactive firefighting into proactive operational management with a unified source of truth for all stakeholders.
-  
-  # ‍
+  > Accessible on any device from browser-based dashboards, Clip Observability transforms reactive firefighting into proactive operational management with a unified source of truth for all stakeholders. ‍
 
 Tags:
   - enterprise

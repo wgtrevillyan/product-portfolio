@@ -10,11 +10,13 @@ Start Date: Jan 08, 2025
   Clip Automation is an early-stage startup that provides a modern real-time industrial data platform for third-party logistics (3PL) and electronics manufacturing services (EMS) enterprises. Unlike traditional SCADA systems or generic analytics platforms, Clip delivers an integrated AI-powered solution that ingests machine telemetry data and transforms it into actionable operational intelligence, enabling manufacturing operators to monitor real-time production operations while empowering leadership with KPI-driven decision-making.
 
 Highlights: |
-  *   Acquired $XXXK in ARR from a Fortune 50 corporation by leading a cross-functional team to deliver the industrial observability platform Clip360, the Data Dog for Manufacturing
-  *   Reduced equipment integration development time from 3 months to 3 days by leading a cross-functional team of 5 to deliver Clip TeleScript, a domain-specific language for ingesting, parsing, validating and aggregating telemetry to derive customer-specific KPIs, alerts and insights
-  *   Delivered 350+ unique KPIs to a Fortune 50 corporation by onboarding 100+ machines using 10+ integrations from 6 equipment vendors
-  *   Achieved a real-time telemetry ingestion rate of 15 messages/second from 100+ machines across 2 facilities by leading a team to deliver Clip Nexus, an on-premise hardware solution that provides omni-machine connectivity and universal telemetry ingestion for industrial data warehouses
-  *   Built the founding team of 5 engineers by sourcing, interviewing and hiring 7 engineers within 6 months
+  *   Six-figure ARR from a Fortune 50 customer (Clip360 industrial observability platform)
+  *   10X faster integration: 3 months → 3 days via Clip TeleScript DSL (team of 5)
+  *   350+ KPIs delivered; 100+ machines onboarded with 10+ integrations across 6 vendors and 2 facilities
+  *   15 msg/sec telemetry ingestion and sub-second state monitoring for 100+ machines (Clip Nexus)
+  *   3X faster site deployment: 12 months → 4 months; 50+ machines onboarded at second site
+  *   Built founding engineering team of 5 (hired 7 engineers in 6 months)
+
 # By delivering an Industrial Data Warehouse solution that ingests telemetry utilizing 10+ equipment integrations across 2 facilities
 
 Company Type: Enterprise Saas
