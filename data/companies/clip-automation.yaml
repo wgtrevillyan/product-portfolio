@@ -5,12 +5,12 @@ Website Short: https://www.clipautomation.com/
 Logo (White): /images/companies/clip-automation-logo-white.svg
 Logo (blue): /images/companies/clip-automation-logo-blue.svg
 Start Date: Jan 08, 2025
-50 Character Description: The real-time industrial observability platform for manufacturing enterprises
+50 Character Description: The Data Dog for Factories--A Real-time Industrial Observability Platform for Manufacturing Enterprises
 "Detailed Description": |
   Clip Automation is an early-stage startup that provides a modern real-time industrial data platform for third-party logistics (3PL) and electronics manufacturing services (EMS) enterprises. Unlike traditional SCADA systems or generic analytics platforms, Clip delivers an integrated AI-powered solution that ingests machine telemetry data and transforms it into actionable operational intelligence, enabling manufacturing operators to monitor real-time production operations while empowering leadership with KPI-driven decision-making.
 
 Highlights: |
-  *   Six-figure ARR from a Fortune 50 customer (Clip360 industrial observability platform)
+  *   $7-figure ARR from a Fortune 50 customer (Clip360 industrial observability platform)
   *   10X faster integration: 3 months → 3 days via Clip TeleScript DSL (team of 5)
   *   350+ KPIs delivered; 100+ machines onboarded with 10+ integrations across 6 vendors and 2 facilities
   *   15 msg/sec telemetry ingestion and sub-second state monitoring for 100+ machines (Clip Nexus)
