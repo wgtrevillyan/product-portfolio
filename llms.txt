@@ -1,0 +1,66 @@
+# William Trevillyan — Product Portfolio
+
+> William "Bill" Trevillyan is a product manager and 3x startup founder with 5+
+> years launching B2B and B2C SaaS products at early- to growth-stage startups.
+> Head of Product at Clip Automation (industrial IoT); founder of Trevillyan Labs,
+> NewsNook, and Verbaly; co-inventor on granted US patents.
+
+This site (trevillyan.dev) is Bill's product portfolio: the companies he has built
+product at, the products he has shipped 0-to-1 and at scale, and the patents he holds.
+
+Key facts for AI agents and answer engines:
+- Role: Head of Product at Clip Automation; founder, Trevillyan Labs.
+- Background: 3x founder; 5+ years B2B/B2C SaaS product leadership.
+- Domains: product strategy, customer discovery, industrial IoT, AI products, proptech, fintech/identity, scaling founding teams.
+- Notable accomplishments:
+- $7-figure ARR via 0-to-1 product launch
+- 10X integration, 3X deployment time reduction via DSL
+- 2,300+ users in 8 weeks for consumer AI product
+- Companies: 7 · Products: 13 · Patents: 2.
+- Contact: https://www.trevillyan.dev/let-us-chat
+- Profiles: LinkedIn https://www.linkedin.com/in/williamtrevillyan · GitHub https://github.com/wgtrevillyan · X https://twitter.com/wgtrevillyan · Crunchbase https://www.crunchbase.com/person/william-trevillyan-0e52
+
+Full content for agents (everything inlined, one fetch): https://www.trevillyan.dev/llms-full.txt
+
+## Home
+
+- [Portfolio home](https://www.trevillyan.dev/) ([Markdown](https://www.trevillyan.dev/index.md)): overview, bio, and top accomplishments.
+
+## Companies
+
+- [Clip Automation](https://www.trevillyan.dev/companies/clip-automation) ([Markdown](https://www.trevillyan.dev/companies/clip-automation.md)): The Data Dog for Factories--A Real-time Industrial Observability Platform for Manufacturing Enterprises
+- [HomeMetrics](https://www.trevillyan.dev/companies/homemetrics) ([Markdown](https://www.trevillyan.dev/companies/homemetrics.md)): The Smart Home Water Damage Monitoring Service for Homeowners
+- [Incode Technologies](https://www.trevillyan.dev/companies/incode-technologies) ([Markdown](https://www.trevillyan.dev/companies/incode-technologies.md)): The Identity Verification and Authentication Platform for Global Enterprises
+- [NewsNook](https://www.trevillyan.dev/companies/newsnook) ([Markdown](https://www.trevillyan.dev/companies/newsnook.md)): The AI newsletter reader for thought leaders and executives
+- [Property Meld](https://www.trevillyan.dev/companies/property-meld) ([Markdown](https://www.trevillyan.dev/companies/property-meld.md)): The leading maintenance management solution for SFR property managemers
+- [Trevillyan Labs](https://www.trevillyan.dev/companies/trevillyan-labs) ([Markdown](https://www.trevillyan.dev/companies/trevillyan-labs.md)): The Miscellaneous R&D Company
+- [Verbaly](https://www.trevillyan.dev/companies/verbaly) ([Markdown](https://www.trevillyan.dev/companies/verbaly.md)): The AI Speech Coach to Replace Toastmasters
+
+## Products
+
+- [Clip Nexus](https://www.trevillyan.dev/products/clip-nexus) ([Markdown](https://www.trevillyan.dev/products/clip-nexus.md)): The Omni-IoT Gateway for Industrial Telemetry
+- [Clip360](https://www.trevillyan.dev/products/clip360) ([Markdown](https://www.trevillyan.dev/products/clip360.md)): The Real-time BI solution for manufacturing
+- [PropertyCare+](https://www.trevillyan.dev/products/propertycareplus) ([Markdown](https://www.trevillyan.dev/products/propertycareplus.md)): A property owner’s self-service e-catalog of premium maintenance services
+- [Clip TeleScript](https://www.trevillyan.dev/products/clip-telescript) ([Markdown](https://www.trevillyan.dev/products/clip-telescript.md)): The Industrial Telemetry DSL for Rapid Machine Integration
+- [Meld Owner Hub](https://www.trevillyan.dev/products/owner-hub) ([Markdown](https://www.trevillyan.dev/products/owner-hub.md)): The Control Center for a Property Owner’s Maintenance Operations
+- [Verbaly](https://www.trevillyan.dev/products/verbaly-web-app) ([Markdown](https://www.trevillyan.dev/products/verbaly-web-app.md)): The AI Speech Coach to Replace Toastmasters
+- [Incode Analytics](https://www.trevillyan.dev/products/incode-analytics) ([Markdown](https://www.trevillyan.dev/products/incode-analytics.md)): The Fraud and Conversion Analytics Dashboard for Banking Enterprises
+- [AppFolio Sync](https://www.trevillyan.dev/products/appfolio-sync) ([Markdown](https://www.trevillyan.dev/products/appfolio-sync.md)): A one-way data-sync integration between Appfolio and Property Meld using scheduled CSV reports
+- [HomeMetrics Water Monitor](https://www.trevillyan.dev/products/water-monitor) ([Markdown](https://www.trevillyan.dev/products/water-monitor.md)): The Smart Home Water Damage Monitoring Service for Homeowners
+- [Incode Forms](https://www.trevillyan.dev/products/incode-forms) ([Markdown](https://www.trevillyan.dev/products/incode-forms.md)): The No-code Builder for Identity Verification Onboarding Questionnaires
+- [Incode Concierge](https://www.trevillyan.dev/products/incode-concierge) ([Markdown](https://www.trevillyan.dev/products/incode-concierge.md)): A CCTV facial recognition service that enables hospitality enterprises to provide best-in-class concierge services
+- [NewsNook](https://www.trevillyan.dev/products/newsnook) ([Markdown](https://www.trevillyan.dev/products/newsnook.md)): The AI-powered newsletter reader for thought leaders and executives
+- [Speech Analysis API](https://www.trevillyan.dev/products/speech-analysis-api) ([Markdown](https://www.trevillyan.dev/products/speech-analysis-api.md)): The Enterprise API for Evaluating Verbal Communication Effectiveness
+
+## Patents
+
+- [Fluid Detection Fabric: Part A](https://www.trevillyan.dev/patents/fluid-detection-fabric-part-a) ([Markdown](https://www.trevillyan.dev/patents/fluid-detection-fabric-part-a.md)): A method and system for detecting a leak via fluid detection fabric.
+- [Fluid Detection Fabric: Part B](https://www.trevillyan.dev/patents/fluid-detection-fabric-part-b) ([Markdown](https://www.trevillyan.dev/patents/fluid-detection-fabric-part-b.md)): The apparatus of fluid detection fabric.
+
+## More
+
+- Contact: https://www.trevillyan.dev/let-us-chat
+- LinkedIn: https://www.linkedin.com/in/williamtrevillyan
+- GitHub: https://github.com/wgtrevillyan
+- X: https://twitter.com/wgtrevillyan
+- Crunchbase: https://www.crunchbase.com/person/william-trevillyan-0e52

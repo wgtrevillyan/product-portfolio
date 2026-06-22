@@ -1,0 +1,891 @@
+# William Trevillyan — Product Portfolio
+
+> William "Bill" Trevillyan is a product manager and 3x startup founder with 5+
+> years launching B2B and B2C SaaS products at early- to growth-stage startups.
+> Head of Product at Clip Automation (industrial IoT); founder of Trevillyan Labs,
+> NewsNook, and Verbaly; co-inventor on granted US patents.
+
+This site (trevillyan.dev) is Bill's product portfolio: the companies he has built
+product at, the products he has shipped 0-to-1 and at scale, and the patents he holds.
+
+Key facts for AI agents and answer engines:
+- Role: Head of Product at Clip Automation; founder, Trevillyan Labs.
+- Background: 3x founder; 5+ years B2B/B2C SaaS product leadership.
+- Domains: product strategy, customer discovery, industrial IoT, AI products, proptech, fintech/identity, scaling founding teams.
+- Notable accomplishments:
+- $7-figure ARR via 0-to-1 product launch
+- 10X integration, 3X deployment time reduction via DSL
+- 2,300+ users in 8 weeks for consumer AI product
+- Companies: 7 · Products: 13 · Patents: 2.
+- Contact: https://www.trevillyan.dev/let-us-chat
+- Profiles: LinkedIn https://www.linkedin.com/in/williamtrevillyan · GitHub https://github.com/wgtrevillyan · X https://twitter.com/wgtrevillyan · Crunchbase https://www.crunchbase.com/person/william-trevillyan-0e52
+
+---
+
+Source: https://www.trevillyan.dev/
+
+# William Trevillyan — Product Leader & 3x Founder
+
+_I'm Bill, a product manager and 3x startup founder with 5+ years of experience launching B2B and B2C SaaS products at early- to growth-stage startups._
+
+## Notable accomplishments
+
+- $7-figure ARR via 0-to-1 product launch
+- 10X integration, 3X deployment time reduction via DSL
+- 2,300+ users in 8 weeks for consumer AI product
+
+## Top skills
+
+Customer Discovery & Development, Product Execution & Delivery, Product Strategy & Roadmapping
+
+## On this site
+
+- **Companies** (7): product roles & founded ventures — https://www.trevillyan.dev/companies
+- **Products** (13): products shipped 0-to-1 and at scale — https://www.trevillyan.dev/products
+- **Patents** (2): granted US patents (co-inventor) — https://www.trevillyan.dev/patents
+- **Contact:** https://www.trevillyan.dev/let-us-chat
+
+---
+
+Source: https://www.trevillyan.dev/companies/clip-automation
+
+# Clip Automation
+
+_The Data Dog for Factories--A Real-time Industrial Observability Platform for Manufacturing Enterprises_
+
+Clip Automation is an early-stage startup that provides a modern real-time industrial data platform for third-party logistics (3PL) and electronics manufacturing services (EMS) enterprises. Unlike traditional SCADA systems or generic analytics platforms, Clip delivers an integrated AI-powered solution that ingests machine telemetry data and transforms it into actionable operational intelligence, enabling manufacturing operators to monitor real-time production operations while empowering leadership with KPI-driven decision-making.
+
+## Highlights
+
+- $7-figure ARR from a Fortune 50 customer (Clip360 industrial observability platform)
+
+- 10X faster integration: 3 months → 3 days via Clip TeleScript DSL (team of 5)
+
+- 350+ KPIs delivered; 100+ machines onboarded with 10+ integrations across 6 vendors and 2 facilities
+
+- 15 msg/sec telemetry ingestion and sub-second state monitoring for 100+ machines (Clip Nexus)
+
+- 3X faster site deployment: 12 months → 4 months; 50+ machines onboarded at second site
+
+- Built founding engineering team of 5 (hired 7 engineers in 6 months)
+
+## Facts
+
+- **Type:** Enterprise Saas
+- **Industry:** Industrial IoT | Electronics Manufacturing and Logistics
+- **Stage:** Seed
+- **Active:** Jan 08, 2025
+- **Website:** https://www.clipautomation.com/
+- **Products:** Clip360, Clip Nexus, Clip TeleScript
+- **Skills:** Product Strategy & Roadmapping, Product Execution & Delivery, Customer Discovery & Development, Product Design, Hardware Engineering, Cross-functional Coordination & Communication
+
+---
+
+Source: https://www.trevillyan.dev/companies/homemetrics
+
+# HomeMetrics
+
+_The Smart Home Water Damage Monitoring Service for Homeowners_
+
+HomeMetrics is a proactive home health monitoring solution for predicting and preventing water damage at homeowners' properties. Install our smart home sensor network, and homeowners will receive 24/7 monitoring of their home's plumbing grid, saving them money and time and, most importantly, allowing them to focus on enjoying life.
+
+## Highlights
+
+- Co-founded HomeMetrics during my senior year of college with a roommate
+
+- Ran POCs with 5 homeowners, installing HomeMetrics, the smart home water damage monitor, in 5 homes by leading a cross-functional team to design, build and deliver an IoT sensor network with Android/iOS mobile apps
+
+- Hired and managed a team of 15 engineering interns for a year
+
+- Raised $21,000 from 4 startup pitch competitions for R&D
+
+- Obtained 2 patents on water leak sensing technologies
+
+- Conducted 50+ customer discovery interviews
+
+## Facts
+
+- **Type:** B2C IoT
+- **Industry:** Smart Home Tech | IoT Tech
+- **Stage:** Bootstrapped
+- **Active:** Jan 01, 2019 – Jan 01, 2021
+- **Website:** http://www.homemetrics.io
+- **Products:** HomeMetrics Water Monitor
+- **Skills:** Customer Discovery & Development, Hardware Engineering, Cross-functional Coordination & Communication, Product Execution & Delivery, Prioritization and Problem Solving
+
+---
+
+Source: https://www.trevillyan.dev/companies/incode-technologies
+
+# Incode Technologies
+
+_The Identity Verification and Authentication Platform for Global Enterprises_
+
+During my tenure, Incode was a $1.2 billion unicorn after recently raising its Series B of $220 million. They leveraged biometric facial recognition technology alongside document scanning OCR technology to verify a person's identity by comparing their selfie to a government-issued ID document.
+
+## Highlights
+
+As the company's 2nd product manager, I watched this unicorn leverage its Series B of $220 million to grow from 200 to 330 employees. During my tenure, I...
+
+- Decreased a bank’s time-to-proven value by 50% (~3 months) by leading a cross-functional team to build and launch Incode Analytics, the fraud and conversion analytics dashboard for banking enterprises, using embedded Tableau dashboards with row-level security
+
+- Closed $X million in revenue by coordinating the discovery, design, construction, and prototype demo of Incode Forms, a no-code solution for configuring custom user onboarding journeys to prevent fraud while maximizing conversion
+
+- Increased the Product Management Team's job offer rate by 10X from 0.2 to 2 offers per month by reconstructing the Incode Product Hiring process and conducting 50+ interviews
+
+- Alleviated data integrity concerns for two crucial clients by proposing and instigating an initiative to fix serious data architecture issues, followed by implementing user event tracking and logging
+
+- Successfully aligned the CEO and VPs of engineering, machine learning, and hardware on the product vision and requirements for Incode Concierge, a novel CCTV facial recognition service that enables hospitality enterprises to provide best-in-class concierge services, by writing a 2-page narrative and leading three 30-min. discussions to unblock the engineering team and deliver the product to 2 pre-paid customers
+
+- Led a cross-function team to design and develop a new experimental product offering for a U.S government agency (confidential)
+
+- Improved access to and discoverability of product knowledge by leading an initiative to evaluate and launch Stack Overflow for Teams across the engineering, customer success, IT, and product teams
+
+- Handled cross-functional communication & collaboration concerning product initiatives with our enterprise sales, enterprise customer success, product marketing, security, compliance, legal, and human resources teams
+
+## Facts
+
+- **Type:** Enterprise SaaS Unicorn
+- **Industry:** Identity Tech
+- **Stage:** Series B
+- **Active:** Jun 01, 2022 – Jan 01, 2023
+- **Website:** https://incode.com
+- **Products:** Incode Analytics, Incode Forms, Incode Concierge
+- **Skills:** Cross-functional Coordination & Communication, Product Execution & Delivery, Prioritization and Problem Solving, Product Launches & Marketing, Product Strategy & Roadmapping, Data Analysis & SQL, Customer Discovery & Development, Product Design
+
+---
+
+Source: https://www.trevillyan.dev/companies/newsnook
+
+# NewsNook
+
+_The AI newsletter reader for thought leaders and executives_
+
+NewsNook.io is a novel application that helps thought leaders and executives streamline the consumption of their daily and weekly newsletters with a separate inbox for newsletters, semantic AI summarization, audio newscasts, note-taking, and more.
+
+## Highlights
+
+- Founded NewsNook at the beginning of 2024 as a side-hustle to help pay for rent, and teach myself how to build full stack applications
+
+- Acquired the first paying customers and a beta waitlist of 70+ C-suite executives by building a landing page using Webflow and running digital marketing campaigns
+
+- Delivered a beta product to initial customers by building a progressive web app using Dart, Typescript, Javascript, Vercel, NextJS, Supabase DB, Supabase Edge, Trigger.dev, Google APIs, and FlutterFlow
+
+- Conducted customer development interviews and user interviews by building multiple low-fidelity and high-fidelity Figma design prototypes
+
+- Conducted customer discovery interviews with executives and thought leaders who regularly consume newsletters as their primary source of news
+
+## Facts
+
+- **Type:** B2C SaaS
+- **Industry:** Productivity | News & Media
+- **Stage:** Bootstrapped
+- **Active:** Feb 01, 2024 – Dec 31, 2024
+- **Website:** https://newsnook.io
+- **Products:** NewsNook
+- **Skills:** Customer Discovery & Development, Product Execution & Delivery, Product Launches & Marketing, Product Design, Prioritization and Problem Solving, Data Analysis & SQL
+
+---
+
+Source: https://www.trevillyan.dev/companies/property-meld
+
+# Property Meld
+
+_The leading maintenance management solution for SFR property managemers_
+
+Property Meld is property maintenance management software that automates and streamlines maintenance processes for property management companies, enhancing efficiency and reducing costs. It is like wrapping Calendly, Slack, CRM, and Asana together in a single package for property managers. As the sole product manager at Property Meld for most of my tenure, I watched our company grow from 25 to 50 employees and raise a Series B of $15 million.
+
+## Highlights
+
+- Helped achieve 73% growth in Annual Recurring Revenue (ARR) & 112% Net Revenue Retention (NRR) by leading a cross-functional team alongside our CTO to construct our product strategy and roadmap with input from key internal stakeholders, a backlog of feature requests (pain points), 100+ customer discovery interviews, and SQL-driven data analyses
+
+- Achieved higher property owner engagement with a 52% increase in owner communication by leading a cross-functional team to design, build, and launch a 0-to-1 product, Owner Hub, the maintenance ops control center for property owners
+
+- Forced our largest competitor, who historically refused to integrate with us, to provide a 2-way data sync API integration by leading a cross-functional team to design, build, and launch a primitive 1-way data sync integration leveraging scheduled CSV reports, resulting in overwhelming pressure from their customer base
+
+- Led a cross-functional team to design and launch PropertyCare+, a property owner’s self-service e-catalog of premium maintenance services
+
+- Achieved a 2X increase in design & development velocity by coordinating the construction of a Design System & Component Library• Achieved a 91% increase in development velocity by coordinating the product team's transition from waterfall to SCRUM Agile Development alongside our VP of Engineering
+
+- Successfully taught the customer success, support, and sales teams to think about product development strategically by establishing a Small Feature Enhancement development swimlane and leading a cross-functional team of key stakeholders to stack-rank customer pain points using a modified RICE prioritization method
+
+## Facts
+
+- **Type:** B2B SaaS
+- **Industry:** Property Tech
+- **Stage:** Series A
+- **Active:** Feb 01, 2020 – Jun 01, 2022
+- **Website:** https://propertymeld.com
+- **Products:** Meld Owner Hub, AppFolio Sync, PropertyCare+
+- **Skills:** Product Strategy & Roadmapping, Customer Discovery & Development, Cross-functional Coordination & Communication, Product Execution & Delivery, Product Design, Product Launches & Marketing, Prioritization and Problem Solving, Data Analysis & SQL
+
+---
+
+Source: https://www.trevillyan.dev/companies/trevillyan-labs
+
+# Trevillyan Labs
+
+_The Miscellaneous R&D Company_
+
+Trevillyan Labs is a research and development company I founded to maintain intellectual property ownership and limit liability risk. I founded this company after dissolving HomeMetrics.
+
+## Highlights
+
+- Acquired 2 patents for leak sensing technologies, known as Fluid Detection Fabric
+
+## Facts
+
+- **Type:** R&D
+- **Industry:** Manufacturing
+- **Active:** Aug 01, 2023
+- **Website:** http://trevillyanlabs.io
+- **Skills:** Hardware Engineering
+
+---
+
+Source: https://www.trevillyan.dev/companies/verbaly
+
+# Verbaly
+
+_The AI Speech Coach to Replace Toastmasters_
+
+Verbaly is a web application offering a humanized AI speech coach that records, evaluates, and trains its users to verbally communicate more effectively in job interviews, public speeches, sales calls, and workplace conversations.
+
+## Highlights
+
+- Co-founded Verbaly in 2023 with a roommate a month before the release of ChatGPT
+
+- Acquired 2300+ users by designing and launching a consumer web app known as Verbaly, the AI Speech Coach to replace Toastmasters, that leveraged Large Language Models (LLMs) and a Retrieval Augmented Generation (RAG) System
+
+- Delivered an enterprise speech analysis API MVP as part of a 6-month sales conversation with the Bank of America
+
+- Raised $25K from Jason Calacanis and LAUNCH as a convertible note by pitching to the LAUNCH investment team
+
+- Conducted 70+ customer discovery interviews, competitor analysis, and other key research
+
+- Designed and built the front end of Verbaly’s web app (app.verbaly.ai) using Bubble.io and v1 of Verbaly’s sales website using Squarespace
+
+- Pursued Product-Market-Fit (PMF) by analyzing user behavior through Logrocket screen recordings, 3rd-party event tracking, and customer interviews, resulting in the release of various experimental features: Speech Analysis Engine, AI Speech Coach Chatbot, AI-conducted Mock Interviews, AI-conducted Investor Pitch with Q&A, Mock Small Talk Conversations with an AI
+
+- Acquired 700+ (of 2300+) users by leveraging growth hacking techniques to get unpaid mentions in notable industry newsletters (The Rundown AI, Futurepedia, AI Tools Club, etc.)
+
+- Acquired 600+ (of 2300+) users by conducting digital marketing campaigns on Twitter and LinkedIn
+
+- Established a partnership with StuPo, a student portal provider for universities in India, and released a white-labeled AI Mock Interview tool on their platform for university students at VNIT
+
+## Facts
+
+- **Type:** B2C & B2B SaaS
+- **Industry:** EdTech | Language Learning
+- **Stage:** Pre-seed
+- **Active:** Mar 01, 2023 – Dec 01, 2023
+- **Website:** https://verbaly.ai
+- **Products:** Verbaly, Speech Analysis API
+- **Skills:** Customer Discovery & Development, Product Design, Product Execution & Delivery, Prioritization and Problem Solving, Product Launches & Marketing, Data Analysis & SQL
+
+---
+
+Source: https://www.trevillyan.dev/products/clip-nexus
+
+# Clip Nexus
+
+_The Omni-IoT Gateway for Industrial Telemetry_
+
+This on-premise hardware solution provides omni-machine connectivity and universal telemetry ingestion for industrial data warehouses
+
+## Highlights
+
+- Achieved a real-time telemetry ingestion rate of 15 messages/second from 100+ machines with 10+ equipment integrations
+
+- Deployed Clip Nexus in 2 facilities across the U.S. by coordinating the installation, networking, and configuration of the hardware and software
+
+## Press Release
+
+> CLIP AUTOMATION ANNOUNCES CLIP NEXUS FOR UNIVERSAL TELEMETRY INGESTION
+
+> _Now, third-party logistics and manufacturing enterprises that utilize Clip Automation’s Industrial Data Platform can connect to any machine, sensor, line, or node on-site to ingest and aggregate high volumes of telemetry data, powering their industrial SCADAs._
+
+> **Palo Alto, CA - December 2025** - Clip Automation, the real-time industrial observability platform for manufacturing enterprises, announced Clip Nexus, on-site hardware that serves as the gateway between industrial data warehouses and telemetry nodes. The novel hardware enables high-bandwidth data ingestion and computation at the edge, providing real-time insights and actionable outcomes.
+
+> Traditional industrial computing solutions force manufacturers to choose between limited connectivity options and complex, fragmented architectures that require multiple hardware vendors. These systems struggle with protocol translation inconsistencies, create data silos at the edge, and lack the computational power necessary for real-time processing of high-frequency telemetry data. The result is delayed insights, incomplete visibility into operations, and increased total cost of ownership due to maintaining disparate hardware platforms.
+
+> Clip Nexus addresses these challenges through universal protocol support and purpose-built edge computing capabilities. The industrial-grade hardware natively supports MQTT, OPC UA, Modbus TCP/IP, custom TCP/IP protocols, and more, eliminating the need for multiple gateway devices and ensuring consistent timestamping across all data sources. The system performs local data aggregation and computation before transmission, reducing bandwidth requirements while enabling near-real-time responsiveness for critical manufacturing operations. Built with redundant storage, memory, and networking, the hardware ensures 99.999% availability through reliability, monitoring, remote management, and physical security.
+
+> “Clip Nexus represents our commitment to solving the fundamental connectivity and reliability challenges that prevent manufacturers from achieving true operational visibility,” said the Clip Automation team. “By combining universal protocol support with industrial-grade reliability and seamless cloud integration, we’re enabling manufacturers to finally connect their entire facility without compromising on data accuracy or system performance.”
+
+> Manufacturing facilities gain the ability to monitor equipment across multiple production lines through a single platform, regardless of machine age or manufacturer, enabling real-time OEE calculations, immediate downtime detection, and automated quality monitoring.
+
+## Facts
+
+- **Type:** Product
+- **Company:** Clip Automation
+- **Active:** Oct 18, 2025 – Dec 17, 2025
+- **Tags:** Enterprise, B2B, SaaS, IoT, Manufacturing, Hardware
+- **Skills:** Product Execution & Delivery, Cross-functional Coordination & Communication, Hardware Engineering, Networking, Technical Writing
+
+---
+
+Source: https://www.trevillyan.dev/products/clip360
+
+# Clip360
+
+_The Real-time BI solution for manufacturing_
+
+This product ingests and aggregates machine and sensor telemetry from the factory floor to deliver real-time insights via custom KPIs and analytics dashboards for operators, technicians, engineers, supervisors and leadership.
+
+## Highlights
+
+- Acquired $7-figure ARR from a Fortune 50 corporation by hiring and coordinating an engineering team of 5 to deliver an **industrial observability platform** for manufacturing operations
+
+- Reduced new site deployment time by 3X from 12 months to 4 months by leveraging Clip TeleScript, the telemetry DSL for rapid machine integration, to integrate and onboard 50+ machines into Clip Nexus and Clip360
+
+- Achieved a sub-second real-time equipment state monitoring for 100+ machines by leveraging Clip Nexus, to stream telemetry to the Clip360 in the cloud
+
+## Press Release
+
+> CLIP AUTOMATION ANNOUNCES CLIP OBSERVABILITY TO DELIVER REAL-TIME MONITORING FOR OPERATIONS TEAMS
+
+> _Now, third-party logistics and manufacturing enterprises that utilize Clip Automation’s Industrial Data Platform can remotely monitor logistics or manufacturing operations for each machine, cell, line, or site in real-time._
+
+> Palo Alto, CA - November 2025, Clip Automation, the real-time industrial observability platform for manufacturing enterprises, announced Clip Observability, providing real-time dashboards that empower operators on the floor, engineers in the control room, and executives at headquarters to monitor operations on-site or remotely. In one shot, these dashboards provide a state of the union, surface critical issues that require attention, and reveal insights needed to make key decisions.
+
+> Operations teams face critical visibility challenges that reduce throughput, uptime, and quality. **Operators** and **technicians** struggle with fragmented information sources—checking individual machine HMIs, fielding radio calls, and walking between cells—resulting in delayed responses to equipment failures, quality issues, and bottlenecks that cascade into significant production losses. **Engineers** and **supervisors** face greater obstacles: existing SCADA systems provide basic equipment states with alarms, but lack contextual KPIs, leading to manual data aggregation in massive Excel reports to understand cycle time distributions, product evaluation distributions, and version heat maps. Engineers learn about systemic issues—such as a cleaning cell creating downstream test failures—only after reviewing end-of-shift or day reports, when corrective action is too late. **Executives** lack unified dashboards across facilities, relying on delayed, inconsistent manual reports and anecdotal explanations rather than live data showing comparative performance. This information vacuum prevents data-driven resource allocation and continuous improvement, leaving organizations operating blind and reacting to problems after they occur.
+
+> Clip Observability provides each stakeholder with precisely the information they need to act. Operators see live machine states, key alerts and warnings, and production rates for immediate troubleshooting via 72” floor displays. Supervisors and engineers monitor process and line-level performance with KPIs—utilization, throughput, performance, quality, availability, and error rates—spotting trends and intervening before goals slip. Executives access aggregated OEE, utilization, and throughput across facilities for strategic decision-making and cross-site benchmarking.
+
+> “Operations teams are flying blind—wasting hours chasing scattered data and missing critical issues across their lines. We built Clip Observability to bring actionable visibility to every level of manufacturing operations," said the Clip Automation team.
+
+> Accessible on any device from browser-based dashboards, Clip Observability transforms reactive firefighting into proactive operational management with a unified source of truth for all stakeholders. ‍
+
+## Facts
+
+- **Type:** Product
+- **Company:** Clip Automation
+- **Active:** Jan 08, 2025 – Dec 18, 2025
+- **Tags:** Enterprise, B2B, SaaS, IoT, Manufacturing
+- **Skills:** Product Execution & Delivery, Customer Discovery & Development, Product Strategy & Roadmapping, Cross-functional Coordination & Communication, Product Design, Hardware Engineering
+
+---
+
+Source: https://www.trevillyan.dev/products/propertycareplus
+
+# PropertyCare+
+
+_A property owner’s self-service e-catalog of premium maintenance services_
+
+This product helps property managers build trust with their customers by equipping them with the ability to offer premium maintenance services al-la-carte, such as HVAC inspections, annual water heater flushes, gutter cleanings, and more, through a self-service e-commerce-like catalog within the Meld Owner Hub.
+
+## Highlights
+
+- Led a cross-functional team to design and launch PropertyCare+
+
+- Assisted in raising a Series B of $15 million by crafting a portion of the messaging used to pitch Property Meld's product vision and show how PropertyCare+ fits into our long-term product strategy
+
+- Conducted 10+ customer discovery interviews
+
+## Press Release
+
+> PROPERTY MELD ANNOUNCES PROPERTYCARE+ TO INCREASE PROPERTY OWNER RETENTION FOR SINGLE-FAMILY PROPERTY MANAGEMENT FIRMS.
+
+> _Now, property management firms can increase customer retention and their maintenance profit margins by offering al-la-carte premium maintenance services to property owners with PropertyCare+._
+
+> Rapid City, South Dakota—Q2 2022—Property Meld, the leading maintenance management solution for single-family property management firms, released PropertyCare+ to help them increase customer retention and maintenance profit margins.
+
+> Property owners—a property management firm's customers—are often worried about the health of their properties, unwilling to have faith that their property manager will adequately address routine and recurring maintenance that prevents more significant issues from arising. On the other hand, property managers are often too busy and need more time to ask their owners if they are interested in premium preventative maintenance services. The result is that both parties, property owners and property managers, are hurting. The property owners distrust their property managers, and the property management firm is leaving money on the table by not performing these additional services for their owners.
+
+> "Our customers expect us to help them build trust with property owners, aka their customers... and we make it our mission to ensure that property owners have no room to question their property manager's ability to care for their properties. Thus, we are helping our customers build trust with their customers by easily offering al-la-carte premium maintenance services." - Ray Hespen, Co-founder and CEO at Property Meld.
+
+> PropertyCare+ equips property managers with the ability to offer premium maintenance services al-la-carte to their customers through a self-service e-commerce-like experience within Property Meld's Owner Hub. Additional service offerings can include recurring issues like lawn care, annual preventative maintenance measures like flushing a water heater to increase lifespan, annual HVAC inspections, or seasonal gutter cleanings. If an owner opts into a service, a Meld task is automatically created in Property Meld and assigned to the right team to be addressed.
+
+> With PropertyCare+, property managers increase their profit margins by increasing the maintenance performed per property and decreasing customer churn by helping property owners see that their properties have the best care, both before and after issues arise.
+
+> Learn more at propertymeld.com or contact our team at support@propertymeld.com.
+
+## Facts
+
+- **Type:** Product
+- **Company:** Property Meld
+- **Active:** Dec 01, 2021 – May 01, 2022
+- **Skills:** Cross-functional Coordination & Communication, Customer Discovery & Development, Product Execution & Delivery, Prioritization and Problem Solving, Product Strategy & Roadmapping, Product Launches & Marketing
+
+---
+
+Source: https://www.trevillyan.dev/products/clip-telescript
+
+# Clip TeleScript
+
+_The Industrial Telemetry DSL for Rapid Machine Integration_
+
+A domain-specific language (DSL) that field engineers and technicians use to quickly integrate machines into SCADAs and ingest, parse, validate, audit and aggregate telemetry to derive customer-specific KPIs, alerts and insights
+
+## Highlights
+
+- Delivered 350+ unique KPIs to a Fortune 50 customer by onboarding 100+ machines using 10+ integrations from 6 equipment vendors across 2 facilities
+
+- Reduced equipment integration development time by 10X from 3 months to 3 days by leading a cross-functional team of 5 to deliver Clip Telescript, a domain-specific language for ingesting, parsing, validating and aggregating telemetry to derive customer-specific KPIs, alerts and insights
+
+- Reduced new site deployment time by 3X from 12 months to 4 months by leveraging Clip TeleScript to integrate and onboard 50+ machines into Clip Nexus and Clip360
+
+## Press Release
+
+> CLIP AUTOMATION ANNOUNCES CLIP TELESCRIPT FOR RAPID MACHINE INTEGRATION
+
+> _Now, third-party logistics and manufacturing enterprises that utilize Clip Automation's Industrial Data Platform can connect new machines and calculate KPIs in days instead of months using a domain-specific language built for industrial telemetry._
+
+> **Palo Alto, CA – November 2025**, Clip Automation, the real-time industrial observability platform for manufacturing enterprises, announced Clip TeleScript, a domain-specific language (DSL) that makes machine integration rapid. Technicians and field engineers use TeleScript to define how raw equipment and sensor data is ingested, parsed, validated and aggregated into customer-specific KPIs, alerts and insights—dramatically shortening the path from new equipment or site to live dashboards and actionable intelligence.
+
+> Manufacturing and logistics operations face a dual crisis: integration is too slow, and the data that does make it through is too hard to trust. Bringing a new machine or line online typically requires months of custom code—one-off logic per machine type, protocol and KPI—resulting in brittle pipelines and long development cycles. At the same time, traditional systems struggle with data accuracy. Inconsistent timestamping across mixed protocols, fragmented data silos and non-auditable "black box" KPI calculations—often with mixed units of measure—make it difficult for engineers to trace the origin of critical metrics or validate the integrity of operational data. The result is operational blind spots and a lack of trust in the very KPIs that are supposed to drive decisions, forcing teams to either refrain from acting or spend excessive time in Excel verifying findings before they can move.
+
+> Clip TeleScript addresses both. It replaces custom code with a single, declarative language: teams describe data flows, validation rules and formulas for calculating metrics in a maintainable specification instead of writing and maintaining scattered integration code. Integration timelines shrink from months to days. The language is designed for industrial telemetry from the ground up—supporting the semantics, units and lineage that operations teams need—so pipelines stay accurate and auditable without sacrificing speed. Manufacturing engineers can go from "machine connected" to "KPIs live" in days, not months, with metrics they can trace and verify.
+
+> "This is about making machine integration a matter of configuration, not custom engineering. Teams get rapid integrations and the data quality they need to run their operations," said the Clip Automation team.
+
+> Built as part of Clip Automation's multitenant industrial data platform, TeleScript powers connectivity and KPI calculation across Equipment, Process, Product and Personnel metrics. Enterprises can onboard new lines and sites into their SCADA quickly while maintaining full control over how telemetry is transformed into the KPIs that operations leaders use to drive decisions.
+
+## Facts
+
+- **Type:** Product
+- **Company:** Clip Automation
+- **Active:** Jun 01, 2025 – Dec 05, 2025
+- **Tags:** Enterprise, B2B, SaaS, IoT, Manufacturing, developer tools
+- **Skills:** Cross-functional Coordination & Communication, Product Strategy & Roadmapping, Technical Writing, Product Execution & Delivery
+
+---
+
+Source: https://www.trevillyan.dev/products/owner-hub
+
+# Meld Owner Hub
+
+_The Control Center for a Property Owner’s Maintenance Operations_
+
+This web application equips property owners, whose properties are managed by a property management firm, with the ability to participate in the maintenance process for their properties. With the Owner Hub, property owners can approve or reject maintenance requests from tenants, chat with maintenance coordinators regarding ongoing maintenance activities, and view the historical maintenance records for each of their properties.
+
+## Highlights
+
+- Achieved higher property owner engagement with a 52% increase in owner communication by leading a cross-functional team to design, build, and launch the Owner Hub as a 0-to-1 product initiative
+
+- Achieved 49% adoption from existing property owners, 49% adoption from new customers & 22% adoption from existing customers by coordinating a cross-functional launch of the Meld Owner Hub with marketing, sales, customer success & support teams
+
+- Achieved a 2X increase in design & development velocity by coordinating the construction of a Design System & Component Library
+
+- Achieved a 91% increase in development velocity by coordinating the product team's transition from waterfall to SCRUM Agile Development alongside our VP of Engineering
+
+- Conducted 20+ customer discovery interviews
+
+## Press Release
+
+> PROPERTY MELD ANNOUNCES OWNER HUB TO INCREASE PROPERTY OWNER RETENTION FOR SINGLE-FAMILY PROPERTY MANAGEMENT FIRMS.
+
+> _Now, property management firms that use Property Meld to automate their maintenance operations can increase customer retention by providing their property owners with Owner Hub, empowering them to participate in the maintenance operations of their properties._
+
+> Rapid City, South Dakota—Q1 2021—Property Meld, the leading maintenance management solution for single-family rental property management firms, released Owner Hub to help them increase property owner retention.
+
+> Property owners, especially those with multiple properties, often face confusion and frustration due to overwhelming and unclear maintenance-related communication from their property manager. The result is that owners do not feel confident that their properties' maintenance issues are properly handled, leading them to unexpectedly call their property manager or distrust their property manager and eventually churn.
+
+> "Our customers expect us to help them win in the current competitive landscape… and we make it our mission to keep the gap between them and would-be competitors incredibly wide. Thus, we are helping our customers build trust with their customers with Owner Hub." - Ray Hespen, Co-founder and CEO at Property Meld.
+
+> The Owner Hub is a web application designed specifically for property owners whose properties are managed by a property management firm using Property Meld. With the Owner Hub, property owners can approve or reject maintenance requests from tenants, chat with tenants regarding ongoing maintenance activities, configure their notification settings, and view the historical maintenance records for each property.
+
+> Today's release of Property Meld's Owner Hub is the first step towards building trust between property managers and owners. It is the foundation for our team's engineers to continue adding features that enhance the maintenance experience for both property managers and owners.
+
+> Learn more at propertymeld.com or contact our team at support@propertymeld.com.
+
+## Facts
+
+- **Type:** Product
+- **Company:** Property Meld
+- **Active:** Jul 01, 2020 – Jan 01, 2021
+- **Website:** Help Center Documentation
+- **Tags:** PropTech, B2B, SaaS, Web Application
+- **Skills:** Product Execution & Delivery, Prioritization and Problem Solving, Customer Discovery & Development, Cross-functional Coordination & Communication, Product Launches & Marketing, Data Analysis & SQL, Product Design
+
+---
+
+Source: https://www.trevillyan.dev/products/verbaly-web-app
+
+# Verbaly
+
+_The AI Speech Coach to Replace Toastmasters_
+
+This consumer web application offers a humanized AI speech coach that records, evaluates, and trains its users to communicate effectively during presentations, job interviews, critical workplace conversations, small talk, sales calls, and more.
+
+## Highlights
+
+- Acquired 2300+ users by designing and launching a consumer web app that leveraged Large Language Models (LLMs) and a Retrieval Augmented Generation (RAG) System
+
+- Raised $25K from Jason Calacanis and LAUNCH as a convertible note by pitching to the LAUNCH investment team
+
+- Conducted 70+ customer discovery interviews, competitor analysis, and other key research
+
+- Designed and built the front end of Verbaly’s web app (app.verbaly.ai) using Bubble.io and v1 of Verbaly’s sales website using Squarespace
+
+- Pursued Product-Market-Fit (PMF) by analyzing user behavior through Logrocket screen recordings, 3rd-party event tracking, and customer interviews, resulting in the release of various experimental features: Speech Analysis Engine, AI Speech Coach Chatbot, AI-conducted Mock Interviews, AI-conducted Investor Pitch with Q&A, Mock Small Talk Conversations with an AI
+
+- Acquired 700+ (of 2300+) users by leveraging growth hacking techniques to get unpaid mentions in notable industry newsletters (The Rundown AI, Futurepedia, AI Tools Club, etc.)
+
+- Acquired 600+ (of 2300+) users by conducting digital marketing campaigns on Twitter and LinkedIn
+
+- Established a partnership with StuPo, a student portal provider for universities in India, and released a white-labeled AI Mock Interview tool on their platform for university students at VNIT
+
+## Press Release
+
+> VERBALY ANNOUNCES THE LAUNCH OF ITS AI-POWERED SPEECH COACH.
+
+> _Now, professionals with low confidence and ineffective communication skills can have a personal AI speech coach at their fingertips to help them prepare, practice, and refine their verbal communication skills._
+
+> San Francisco, California—Q3 2023—Verbaly, the AI speech coach to replace Toastmasters, provides real-time feedback to its users so that they can improve their communication skills. As a result, they gain confidence and learn to communicate their ideas, arguments, and questions more effectively.
+
+> Professionals across all industries are afflicted with low confidence and poor communication skills, especially those new to management or non-native English speakers. To stand out in the workforce, these individuals must communicate confidently and effectively during job interviews, conversations with colleagues, negotiations with clients, presentations to their leaders, etc. Minor communication blunders naturally erode the trust between them and their peers over time, resulting in missed opportunities, misalignment on projects, and failure to perform the jobs they were hired for.
+
+> Toastmasters exists to help these professionals learn how to communicate effectively and gain confidence; however, its groups are plagued with sensitive egos, internal drama, and unhelpful politics, hindering its members from accomplishing their career goals.
+
+> “People naturally fear environments where they could encounter shame, which is why less than 5% of first and second-time Toastmasters attendees become members. Unlike many Toastmasters clubs, you won’t see toxic behavior in your AI speech coach.” - Bill Trevillyan, Co-founder and CEO at Verbaly.
+
+> For $20 per month, users can prepare, practice, and refine their verbal communication skills by speaking in a wide variety of environments, such as giving a speech, participating in a mock job interview with an AI-simulated hiring manager, practicing small talk with an AI-simulated colleague or delivering a pitch to an AI-simulated investor.
+
+> As users of Verbaly practice speaking, our communication analysis technology analyzes their speech patterns. As a result, users receive detailed feedback on aspects of their communication, such as filler-word usage, vocab sophistication, pacing, and tone. More importantly, users are evaluated on how effectively they communicate with the help of our proprietary communication framework. With this framework, users are graded by how well they are able to inform, persuade, instruct, motivate, and express themselves to their audience. This novel approach to analyzing a person’s communication helps them understand if they have successfully achieved their goals and effectively communicated what they needed to.
+
+> Learn more at Verbaly.AI or contact our team at info@verably.ai.
+
+## Facts
+
+- **Type:** Product
+- **Company:** Verbaly
+- **Active:** Apr 01, 2023 – Jul 01, 2023
+- **Website:** https://app.verbaly.ai/?utm_source=bills_product_portfolio
+- **Tags:** B2C, Large Language Models, SaaS, Web Application
+- **Skills:** Product Execution & Delivery, Prioritization and Problem Solving, Product Strategy & Roadmapping, Customer Discovery & Development, Product Launches & Marketing
+
+---
+
+Source: https://www.trevillyan.dev/products/incode-analytics
+
+# Incode Analytics
+
+_The Fraud and Conversion Analytics Dashboard for Banking Enterprises_
+
+This web application equips financial enterprises—who use Incode’s biometric identity verification solution to minimize fraud and maximize conversion—to analyze the performance of their digital onboarding experiences through embedded analytics dashboards powered by Tableau.
+
+## Highlights
+
+- Decreased a bank’s time-to-proven value by 50% (~3 months) by leading a cross-functional team to build and launch Incode Analytics, leveraging embedded Tableau dashboards with row-level security
+
+- Coordinated the development and release of user event tracking of our customer’s users and an associated event log UI for our clients to see what actions each of their users were taking during their onboarding journey and diagnose drop off in the conversion funnel
+
+- Led the re-design of Incode's event data architecture related to our clients’ users’ experience after uncovering a serious architecture and definition issue that prevented us from delivering a single instance of an analytics dashboard to all clients
+
+## Press Release
+
+> INCODE ANNOUNCES INCODE ANALYTICS TO EMPOWER BANKING ENTERPRISES TO VISUALIZE THE PERFORMANCE OF THEIR DIGITAL IDENTITY VERIFICATION SOLUTION.
+
+> _Now, financial enterprises that use Incode's biometric identity verification solution can analyze the performance of their digital onboarding experiences with embedded analytics dashboards powered by Tableau._
+
+> San Francisco, California—Q4 2022—Incode, the next-generation identity verification and authentication platform for global enterprises, released Incode Analytics to enable both fraud-prevention and user-growth teams with visibility and insights into their digital identity verification implementation's performance
+
+> Global enterprises use Incode's biometric identity verification services to increase conversion of their new customer digital onboarding funnels, decrease fraud, and achieve KYC and AML compliance. However, without the ability to quickly visualize the performance of their digital onboarding funnels, various stakeholders suffer. Executives are prevented from comprehending the impact of their biometric identity verification solution on digital onboarding conversion and fraud prevention. Analysts are forced to manually conduct timely funnel analyses and prepare confusion matrices to discover simple insights. Fraud prevention teams are prevented from obtaining valuable insights promptly, and the implementation teams miss vital opportunities to improve their onboarding conversion rates.
+
+> Incode Analytics removes this friction by providing an enterprise's various teams and stakeholders with analytics dashboards showing real-time, quantitative insights that are key to understanding the performance of their digital identity verification implementation. Stakeholders ranging from analysts to executives can learn from and quickly make decisions based on KPIs such as onboarding funnel conversion rates, fraud detection rates, and user drop-off rates.
+
+> _"Staying ahead of ever-smarter fraudsters starts with data that can be simply and quickly utilized. Thus, Incode is making a large step towards ensuring that financial enterprises are well equipped to react fast to the ever-changing identity-tech industry."_ - William Trevillyan, Product Manager at Incode.
+
+> With Incode Analytics, users can view a set of embedded Tableau dashboards that show various analyses, such as onboarding funnel analyses, dynamic conversion trends, fraud-focused confusion matrices, and more. Executives can make high-level observations while analysts can dig for deeper insights using 20+ filters.
+
+> To learn more, please contact our team here at Incode.
+
+## Facts
+
+- **Type:** Product
+- **Company:** Incode Technologies
+- **Active:** Sep 01, 2022 – Jan 01, 2023
+- **Skills:** Product Execution & Delivery, Cross-functional Coordination & Communication, Prioritization and Problem Solving, Customer Discovery & Development
+
+---
+
+Source: https://www.trevillyan.dev/products/appfolio-sync
+
+# AppFolio Sync
+
+_A one-way data-sync integration between Appfolio and Property Meld using scheduled CSV reports_
+
+This key product offering uses scheduled CSV reports delivered via email to populate a property manager's maintenance management software with key property data from their accounting software. For property managers using the industry-leading accounting software Appfolio. The Appfolio Sync service automatically populates Property Meld, their maintenance management solution, with data stored in Appfolio. Specifically, all maintenance-related data associated with property owners, properties, units, and tenants are added and kept up-to-date in Property Meld via a daily data-sync service.
+
+## Highlights
+
+- Helped achieve 73% revenue growth and 112% net-revenue-retention in 2021 by removing the Sales Team’s #1 rejection reason and the Customer Success Team’s #1 churn reason: the lack of an AppFolio Integration leads to duplicate data entry and significant discrepancies between each system
+
+- Forced our largest competitor, who historically refused to integrate with us, to provide a 2-way data sync API integration by leading a cross-functional team to design, build, and launch a primitive 1-way data sync leveraging scheduled CSV reports, resulting in overwhelming pressure from their customer base
+
+- Conducted 20+ customer discovery interviews
+
+## Press Release
+
+> PROPERTY MELD ANNOUNCES APPFOLIO SYNC TO SYNC PROPERTY DATA BETWEEN APPFOLIO AND PROPERTY MELD.
+
+> _Now, property management companies that use both Property Meld’s maintenance management system and Appfolio’s accounting software can save hours of time each day by auto-populating their Property Meld account with property information stored in Appfolio._
+
+> Rapid City, South Dakota—Q4 2021—Property Meld, the leading maintenance management solution for single-family property management firms, released Appfolio Sync to help save property management firms hours of their time each day.
+
+> Historically, property management firms using Appfolio, the industry-leading accounting software, were forced to manually duplicate thousands of records from Appfolio into each of their other operations software, including Property Meld. This manual effort would take a property manager multiple hours every day. Due to human error, managers found large discrepancies in data accuracy between the two systems, leading to critical mistakes that cost thousands in maintenance expenses and took tens to hundreds of hours to fix.
+
+> “Property Managers should spend their time and money doing what they do best, caring for properties on behalf of their customers, property owners, and investors. But for years, Meld users have had to manually add data to Property Meld because Appfolio has maintained a closed-off system, refusing to partner or integrate with other software services. We launched Appfolio Sync to end Appfolio’s monopolistic practices.” - John Smith, Product Leader at Property Meld.
+
+> The Appfolio Sync saves property management firms time and money by syncing key data needed for managing maintenance into Property Meld from Appfolio. By scheduling CSV reports to be sent every morning from Appfolio to Property Meld’s designated email addresses, a property manager’s Property Meld account will auto-populate and auto-update owner, property, unit, and tenant details every morning so that operations can move forward without a hitch. If any data-integrity issues arise during a sync, property managers are immediately informed so they can correct the issue in Appfolio.
+
+> Learn more at propertymeld.com or contact our team at support@propertymeld.com.
+
+## Facts
+
+- **Type:** Product
+- **Company:** Property Meld
+- **Active:** Jun 01, 2021 – Oct 01, 2021
+- **Skills:** Customer Discovery & Development, Cross-functional Coordination & Communication, Product Execution & Delivery, Prioritization and Problem Solving, Product Strategy & Roadmapping, Product Launches & Marketing
+
+---
+
+Source: https://www.trevillyan.dev/products/water-monitor
+
+# HomeMetrics Water Monitor
+
+_The Smart Home Water Damage Monitoring Service for Homeowners_
+
+This smart home IoT device monitors the health of a home's plumbing grid to predict and prevent water damage. Once installed, homeowners save money, time, and, most importantly, energy spent worrying about their home's health.
+
+## Highlights
+
+- Ran POCs with 5 homeowners, installing the HomeMetrics devices in 5 homes by leading a cross-functional team to design, build and deliver an IoT sensor network with Android/iOS mobile apps
+
+- Hired and managed a team of 15 engineering interns for a year
+
+- Raised $21,000 from 4 startup pitch competitions for R&D
+
+- Obtained 2 patents on water leak sensing technologies
+
+- Conducted 50+ customer discovery interviews
+
+## Press Release
+
+> HOMEMETRICS ANNOUNCES THE LAUNCH OF THE HOMEMETRICS WATER MONITOR FOR ABSENTEE HOMEOWNERS TO MONITOR AND PROTECT THEIR HOMES FROM WATER DAMAGE.
+
+> _Now, absentee homeowners who own secondary homes, vacation homes, or Airbnb rental properties can save time and money. More importantly, they can avoid worrying about their property's health, knowing that the HomeMetrics Water Monitor protects their homes from any plumbing-related emergency._
+
+> Rapid City, South Dakota—Q3 2020—HomeMetrics, the proactive home health monitoring solution for predicting and preventing property damage, launched the HomeMetrics Water Monitor to provide 24/7 monitoring of a home's plumbing grid in search of leaks, floods, pipe breaks, water heater malfunctions, and more.
+
+> Absentee homeowners lack real-time data about the health of their homes, leading to ill-informed property management decisions and thus costing them time and money. Often, homes will develop small water leaks; although these leaks are cheap to fix, they go unnoticed for months. In a worst-case scenario, the floor and walls near the leak rot with water damage. Often, a homeowner's insurance company denies their claim, choosing not to cover repair costs by pinning the blame on the homeowner's mistakes. In this case, the homeowner would pay for the repair costs and hundreds to thousands of dollars more due to the increased water usage.
+
+> "For every 100 mountain vacation homes, five will have a sewage tank that backs up, flooding into their basements every winter. Unfortunately, the time, stress, and effort spent dealing with these disasters is wasted. Ten years from now, I believe every newly constructed home will have smart home IoT devices installed which monitor both the plumbing and the electrical grids, ensuring the home's health is maintained." - Bill Trevillyan, Co-founder and CEO at HomeMetrics.
+
+> For a one-time cost of $600, homeowners can install the HomeMetrics Water Monitor and have it monitor water pressure, flow rate, temperature, etc. Day or night, the system searches for leaks, floods, pipe breaks, water heater malfunctions, and more. The HomeMetrics mobile app gives homeowners complete visibility into their home's plumbing grid. First, homeowners are alerted to any abnormal behavior, such as constantly running water from a broken toilet seal or a pipe leak. In addition, they can turn the water to their house off when traveling away from home with the tap of a finger. They can even view their daily, weekly, monthly, and annual water usage trends. Finally, they can turn on Eco mode and regulate the water pressure coming into the house, extending the life span of appliances such as water heaters and reducing the home's annual water usage.
+
+> "The MetricsNetwork helps me save up to 3000 gallons of water a year!" - Matt Irwin, a Rapid City, SD homeowner.
+
+> Learn more at HomeMetrics.io or contact our team at info@homemetrics.io.
+
+## Facts
+
+- **Type:** Product
+- **Company:** HomeMetrics
+- **Active:** Apr 01, 2019 – Aug 01, 2020
+- **Website:** Water Module Documentation
+- **Tags:** B2C, Smart Home Tech
+- **Skills:** Product Execution & Delivery, Prioritization and Problem Solving, Customer Discovery & Development, Product Strategy & Roadmapping, Cross-functional Coordination & Communication
+
+---
+
+Source: https://www.trevillyan.dev/products/incode-forms
+
+# Incode Forms
+
+_The No-code Builder for Identity Verification Onboarding Questionnaires_
+
+This product equips financial institutions with the ability to gather essential information from users throughout their onboarding process by utilizing a customizable questionnaire, which can be created effortlessly through a user-friendly, no-code interface.
+
+## Highlights
+
+- Led the discovery, design, and construction of a Figma prototype for Incode Forms
+
+- Closed $7-figure in revenue by demoing the prototype to a large prospect that was about to sign a contract with a competitor, convincing them to choose Incode instead
+
+- Built trust between the Sales, Engineering and Product Teams by delivering a prototype that would satisfy the Sales Team’s needs while finding a solution that wouldn’t require development effort from the Engineering Team until a contract with the prospect had been signed
+
+## Press Release
+
+> INCODE ANNOUNCES INCODE FORMS TO PROVIDE ENTERPRISES WITH CUSTOMIZABLE QUESTIONNAIRES FOR THEIR IDENTITY VERIFICATION EXPERIENCES.
+
+> _Now, enterprises that use Incode's biometric identity verification solutions can present custom questionnaires to their customers during digital onboarding, authentication, and identity verification experiences._
+
+> San Francisco, California—Q1 2023—Incode, the next-generation identity verification and authentication platform for global enterprises, released Incode Forms to provide enterprises with custom questionnaires. Financial institutions, hospitals, gig-economy employers, and more can present custom questions to their customers and retrieve key information related to digital onboarding, authentication, and identity verification experiences.
+
+> A B2C technology company must first maximize the adoption of its technology to effectively deliver value to its users and grow its user base. To maximize adoption, they need to maximize their onboarding conversion rates; however, minimizing fraud while maximizing onboarding conversion is difficult and can cost extensive design and engineering resources. Most companies lack the expertise and the time to solve this problem.
+
+> "B2C technology companies spend too much time designing, implementing, and optimizing onboarding experiences when they could invest their limited engineering resources in their core technologies and solve core customer problems. Thus, we are launching Incode Forms so that these companies can get back to focusing on what they do best, delivering value to their customers." - William Trevillyan, Product Leader at Incode.
+
+> Incode Forms, the no-code builder for onboarding questionnaires, saves B2C technology companies time and engineering resources by allowing them to design a questionnaire that is served to users who undergo onboarding, authentication, or identity verification experiences. With no development effort, they can orchestrate which questions are shown and when. Finally, they can prompt users with single-choice, multi-choice, or short-answer questions such as "What is your household's annual income?" "What city were you born in?" and "What size of loan would you like to request?"
+
+> To learn more, please contact our team here at Incode Technologies.
+
+## Facts
+
+- **Type:** Product
+- **Company:** Incode Technologies
+- **Active:** Oct 01, 2022 – Dec 01, 2022
+- **Skills:** Customer Discovery & Development, Cross-functional Coordination & Communication, Prioritization and Problem Solving, Product Execution & Delivery
+
+---
+
+Source: https://www.trevillyan.dev/products/incode-concierge
+
+# Incode Concierge
+
+_A CCTV facial recognition service that enables hospitality enterprises to provide best-in-class concierge services_
+
+Incode Concierge uses a facility’s CCTV camera system and biometric identity-detection technology to inform businesses when valued customers are present; staff, in turn, can immediately attend to a VIP’s needs, whether they be digital or physical.
+
+## Highlights
+
+- Successfully aligned the CEO and VPs of engineering, machine learning, and hardware on the product vision and requirements for Incode Concierge by writing a 2-page narrative and leading three 30-min. discussions to unblock the engineering team and deliver the product to 2 pre-paid customers
+
+- Proposed and achieved alignment with the company's executives on the key decision that Incode would not provide personal identifiable information (PII) to clients in order to protect our brand as a non-surveillance identity tech company
+
+## Press Release
+
+> INCODE ANNOUNCES INCODE CONCIERGE TO EMPOWER HOSPITALITY ENTERPRISES WITH IDENTITY-DRIVEN VIP CONCIERGE SERVICES.
+
+> _Now, hospitality enterprises that use Incode’s biometric identity verification solutions can provide best-in-class concierge services to their most valued customers._
+
+> San Francisco, California—Q4 2022—Incode, the next-generation identity verification and authentication platform for global enterprises, released Incode Concierge to enable hospitality enterprises with identity-driven concierge services. Hotel chains, casinos, banks, and retail stores can provide their VIPs with immediate and top-tier digital and physical services as soon as VIPs enter their facilities by knowing exactly when they arrive.
+
+> Banks, casinos, hotels, stores, hospitals, and government offices receive many visitors daily. A select few of these visitors are so important that they are added to “VIP” lists. But how does the business know when a VIP arrives at their facility? Often, these VIPs wait in lines, receive cold greetings from staff, and are treated as just another customer. Worst case, they leave irritated and churn.
+
+> “Consumers have grown accustomed to instant gratification through products and services such as Netflix, Doordash, and Amazon. These same consumers have learned to expect immediate top-tier customer service from businesses. Thus, Incode is making a large step towards enabling hospitality enterprises to step up and provide the next level of concierge services.” - John Smith, Product Leader at Incode.
+
+> Incode Concierge uses a facility’s CCTV camera system and biometric identity-detection technology to inform businesses when valued customers are present; staff, in turn, can immediately attend to a VIP’s needs, whether they be digital or physical.
+
+> To learn more, please contact our team here at Incode Technologies.
+
+## Facts
+
+- **Type:** Product
+- **Company:** Incode Technologies
+- **Active:** Oct 01, 2022 – Jan 28, 2023
+- **Skills:** Cross-functional Coordination & Communication, Customer Discovery & Development, Product Strategy & Roadmapping, Prioritization and Problem Solving
+
+---
+
+Source: https://www.trevillyan.dev/products/newsnook
+
+# NewsNook
+
+_The AI-powered newsletter reader for thought leaders and executives_
+
+NewsNook is a novel AI-powered application that helps thought leaders and executives streamline the consumption of their daily and weekly newsletters.
+
+## Highlights
+
+- Acquired the first paying customers and a beta waitlist of 70+ C-suite executives by building a landing page using Webflow and running digital marketing campaigns
+
+- Delivered a beta product to initial customers by building a progressive web app using Dart, Typescript, Javascript, Vercel, NextJS, Supabase DB, Supabase Edge, Trigger.dev, Google APIs, and FlutterFlow
+
+- Conducted customer development interviews and user interviews by building multiple low-fidelity and high-fidelity Figma design prototypes
+
+- Conducted customer discovery interviews with executives and thought leaders who regularly consume newsletters as their primary source of news
+
+## Press Release
+
+> NEWSNOOK ANNOUNCES THE LAUNCH OF ITS AI-POWERED NEWSLETTER READER.
+
+> _Now, thought leaders and executives, no longer bound by the burden of combing through cluttered email inboxes, can liberate their mornings and quickly consume their news in one place with ease._
+
+> San Francisco, California—Q3 2024—NewsNook, the AI-powered newsletter reader for thought leaders and executives, has launched a single app for quickly finding, reading, storing, and managing newsletters and news articles.
+
+> Daily, executives and thought leaders worldwide read news feeds that they have carefully curated for their specific industries, jobs, and current projects. These news feeds, more often than not, are comprised of a multitude of newsletters and blogs that they follow. Most of them spend an hour or more every morning combing through their cluttered email inbox to read the most recent newsletters and blog posts that they have received. Their current process doesn’t only waste valuable time. These avid readers waste effort logging what they have read and learned in various external applications. Typically, these executives follow and read through dozens of newsletters, which often overlap with the information they present, which is inefficient.
+
+> “An executive’s most important job is to determine the direction of their company and communicate their vision to the rest of their organization. The best leaders do this by writing and thinking deeply about their industry, which requires being well-informed and well-organized. NewsNook exists to help executives and thought leaders be intentional and organized when consuming news. The result is these executives save time while delivering higher quality leadership to their companies.” - Bill Trevillyan, Co-founder and CEO at NewsNook.
+
+> For $20 per month, NewsNook users can easily find and consume newsletters and news articles from a personally curated news feed, and have the power to finely control this news feed. For example, users can customize their newsletter “playlist”, controlling which newsletters they read in which order every morning. In addition, the NewsNook AI-assistant helps readers quickly navigate to the most relevant and significant news, avoiding repeat stories and unnecessary filler or fluff. If a reader needs to perform an action while in the middle of reading a piece, they can make a note, highlight a key point, and ask the AI-assistance for a definition or more information from the internet. After a reader finishes a news piece, they tag and archive it, making it easy to reference at a later date.
+
+> Learn more at NewsNook.io or contact our team at info@newsnook.io.
+
+## Facts
+
+- **Type:** Product
+- **Company:** NewsNook
+- **Active:** Feb 01, 2024 – Dec 31, 2024
+- **Website:** https://newsnook.io?utm_source=bills_product_portfolio
+- **Tags:** SaaS, B2C, Mobile App, Web Application
+- **Skills:** Product Launches & Marketing, Customer Discovery & Development, Prioritization and Problem Solving, Product Strategy & Roadmapping
+
+---
+
+Source: https://www.trevillyan.dev/products/speech-analysis-api
+
+# Speech Analysis API
+
+_The Enterprise API for Evaluating Verbal Communication Effectiveness_
+
+This product equips enterprises with a REST-based API where they can send recordings of conversations or speeches. In return, they receive a speech analysis with dozens of quantitative and qualitative metrics.
+
+## Highlights
+
+- Delivered an enterprise speech analysis API MVP as part of a 6-month sales conversation with the Bank of America
+
+- Led sales discussions with 4 prospective clients looking for speech analysis services
+
+## Press Release
+
+> VERBALY ANNOUNCES THE LAUNCH OF ITS ENTERPRISE API FOR SPEECH ANALYSIS
+
+> _Technology enterprises looking to build speech-related products or services can now leverage Verbaly’s API to analyze speech patterns and verbal communication skills._
+
+> San Francisco, California—Q4 2023—Verbaly, the AI speech coach to replace Toastmasters, released the Verbaly Enterprise API to provide technology enterprises with a quick, low-effort solution for objectively analyzing speech patterns and verbal communication skills in real time.
+
+> Over the last year, enterprises have witnessed the rapid disruption of AI technologies. The recruitment industry has specifically noticed new AI-powered tools and applications popping up daily. With this trend, many recruitment technology companies have found a need to quickly implement interview analysis and interview coaching products for their customers, especially for recruitment operations related to non-native English-speaking roles. One of the most significant technical challenges involved in developing interview analysis and coaching technology is building an automated solution to objectively analyze a candidate’s communication skills, producing quantitative and qualitative feedback. This challenge leads technology enterprises to suffer from issues such as slow product development, delayed product launches, high maintenance expenses, and, most importantly, a less enticing value proposition compared to their competitors.
+
+> “In this highly competitive and rapidly changing technology environment, enterprises need to focus their resources on their strengths and expertise while outsourcing all the other aspects of their business to survive. That is why we launched the Verbaly Enterprise API as the all-in-one speech analysis solution for technology enterprises so that they could quickly acquire speech analysis solutions without diverting resources away from their core business.” - Bill Trevillyan, Co-founder and CEO at Verbaly.
+
+> The Verbaly API equips technology enterprises with a REST-based API that offers unparalleled flexibility. They can send a live-stream of audio or a recording of a person or persons speaking, and in return, receive a speech analysis relating to the people’s verbal communication skills. The quantitative metrics and qualitative feedback resulting from each speech analysis can be tuned to various speaking scenarios and environments such as a job interview, a public speaking event, a workplace conversation between colleagues, small talk between neighbors and more. This flexibility ensures the feedback and metrics are accurate, consistent and applicable to the given situation, empowering enterprises to tailor their solutions to their specific needs.
+
+> Learn more at Verbaly.ai/API or contact our team at info@verably.ai.
+
+## Facts
+
+- **Type:** Product
+- **Company:** Verbaly
+- **Active:** Nov 01, 2023 – Apr 01, 2024
+- **Website:** https://www.verbaly.ai/api?utm_source=bills_product_portfolio
+- **Skills:** Customer Discovery & Development, Product Execution & Delivery, Product Strategy & Roadmapping
+
+---
+
+Source: https://www.trevillyan.dev/patents/fluid-detection-fabric-part-a
+
+# Fluid Detection Fabric: Part A
+
+_A method and system for detecting a leak via fluid detection fabric._
+
+A fluid detection system, method, and apparatus are disclosed. A fluid detection fabric includes a top layer, a middle layer, a bottom layer, a fluid detection sensor, and a control hub. The middle layer separates the top layer and bottom layer. The top layer, middle layer, and bottom layer are configured to connect electrically using a liquid pathway when liquid is present.
+
+## Facts
+
+- **Application ID:** US 11,788,918 B2
+- **Google Patents:** https://patents.google.com/patent/US11788918B2/en
+- **Assignee / origin:** Trevillyan Labs
+- **Patented:** Oct 17, 2023
+- **Inventor:** William Trevillyan
+
+---
+
+Source: https://www.trevillyan.dev/patents/fluid-detection-fabric-part-b
+
+# Fluid Detection Fabric: Part B
+
+_The apparatus of fluid detection fabric._
+
+A fluid detection system, method, and apparatus are disclosed. A fluid detection fabric includes a top layer, a middle layer, a bottom layer, a fluid detection sensor, and a control hub. The middle layer separates the top layer and bottom layer. The top layer, middle layer, and bottom layer are configured to connect electrically using a liquid pathway when liquid is present.
+
+## Facts
+
+- **Application ID:** US 12,123,807 B2
+- **Google Patents:** https://patents.google.com/patent/US12123807B2/en
+- **Assignee / origin:** Trevillyan Labs
+- **Patented:** Oct 22, 2024
+- **Inventor:** William Trevillyan

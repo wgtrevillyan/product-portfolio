@@ -9,6 +9,7 @@
  */
 const fs = require('fs');
 const path = require('path');
+const { injectJsonLd, injectNoscript, softwareAppLd, listItems, toText } = require('./lib/seo');
 
 const ROOT = path.resolve(__dirname, '..');
 const BASE_URL = 'https://www.trevillyan.dev';
@@ -163,7 +164,14 @@ async function main() {
     const slug = product.Slug;
     if (!slug) continue;
     const ogImage = await getOgImage(product);
-    const html = injectProductMeta(template, product, ogImage);
+    let html = injectProductMeta(template, product, ogImage);
+    const productUrl = `${BASE_URL}/products/${slug}`;
+    html = injectJsonLd(html, softwareAppLd(product, productUrl, ogImage.url));
+    html = injectNoscript(html, {
+      title: product.Name || slug,
+      description: toText(product['50 Character Description'] || product.Summary || product.Description),
+      highlights: listItems(product.Highlights),
+    });
     fs.writeFileSync(path.join(outDir, `${slug}.html`), html, 'utf8');
     productRewrites.push({
       source: `/products/${slug}`,

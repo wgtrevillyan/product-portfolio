@@ -10,20 +10,39 @@
           "value": "application/xml"
         }
       ]
+    },
+    {
+      "source": "/robots.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/(llms|llms-full).txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/(.*).md",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/markdown; charset=utf-8"
+        }
+      ]
     }
   ],
   "rewrites": [
     {
       "source": "/sitemap.xml",
       "destination": "/sitemap.xml"
-    },
-    {
-      "source": "/companies/:slug",
-      "destination": "/detail_companies.html"
-    },
-    {
-      "source": "/patents/:slug",
-      "destination": "/detail_patents.html"
     },
     {
       "source": "/products/clip-nexus",
@@ -82,8 +101,44 @@
       "destination": "/products.html"
     },
     {
+      "source": "/patents/fluid-detection-fabric-part-a",
+      "destination": "/patent_pages/fluid-detection-fabric-part-a.html"
+    },
+    {
+      "source": "/patents/fluid-detection-fabric-part-b",
+      "destination": "/patent_pages/fluid-detection-fabric-part-b.html"
+    },
+    {
       "source": "/patents",
       "destination": "/patents.html"
+    },
+    {
+      "source": "/companies/clip-automation",
+      "destination": "/company_pages/clip-automation.html"
+    },
+    {
+      "source": "/companies/homemetrics",
+      "destination": "/company_pages/homemetrics.html"
+    },
+    {
+      "source": "/companies/incode-technologies",
+      "destination": "/company_pages/incode-technologies.html"
+    },
+    {
+      "source": "/companies/newsnook",
+      "destination": "/company_pages/newsnook.html"
+    },
+    {
+      "source": "/companies/property-meld",
+      "destination": "/company_pages/property-meld.html"
+    },
+    {
+      "source": "/companies/trevillyan-labs",
+      "destination": "/company_pages/trevillyan-labs.html"
+    },
+    {
+      "source": "/companies/verbaly",
+      "destination": "/company_pages/verbaly.html"
     },
     {
       "source": "/companies",
@@ -127,6 +182,51 @@
     }
   ],
   "redirects": [
+    {
+      "source": "/patents/fluid-detection-fabric-part-a/",
+      "destination": "/patents/fluid-detection-fabric-part-a",
+      "permanent": true
+    },
+    {
+      "source": "/patents/fluid-detection-fabric-part-b/",
+      "destination": "/patents/fluid-detection-fabric-part-b",
+      "permanent": true
+    },
+    {
+      "source": "/companies/clip-automation/",
+      "destination": "/companies/clip-automation",
+      "permanent": true
+    },
+    {
+      "source": "/companies/homemetrics/",
+      "destination": "/companies/homemetrics",
+      "permanent": true
+    },
+    {
+      "source": "/companies/incode-technologies/",
+      "destination": "/companies/incode-technologies",
+      "permanent": true
+    },
+    {
+      "source": "/companies/newsnook/",
+      "destination": "/companies/newsnook",
+      "permanent": true
+    },
+    {
+      "source": "/companies/property-meld/",
+      "destination": "/companies/property-meld",
+      "permanent": true
+    },
+    {
+      "source": "/companies/trevillyan-labs/",
+      "destination": "/companies/trevillyan-labs",
+      "permanent": true
+    },
+    {
+      "source": "/companies/verbaly/",
+      "destination": "/companies/verbaly",
+      "permanent": true
+    },
     {
       "source": "/products/clip-nexus/",
       "destination": "/products/clip-nexus",
