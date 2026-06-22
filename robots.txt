@@ -1,0 +1,69 @@
+# robots.txt — William Trevillyan's Product Portfolio (trevillyan.dev)
+# Policy: welcome classic search + AI ANSWER engines; decline AI TRAINING crawlers.
+# Rationale: this is a personal credibility/portfolio surface — we want to be
+# findable and citable inside live AI answers, without donating the corpus to
+# model training. Tokens below are honor-system; a non-compliant bot is not
+# blocked by this file. See docs/engineering-plans/ai-readable-site.md.
+
+# --- General web + search crawlers (Google, Bing, etc.) ---
+# Allowed: powers normal search, and the AI Overviews / Copilot answers that ride on it.
+User-agent: *
+Allow: /
+
+# --- AI ANSWER ENGINES & user-triggered fetches (ALLOWED) ---
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# --- AI TRAINING / bulk crawlers (DISALLOWED) ---
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+# AI-friendly site overview for LLMs (see https://llmstxt.org):
+#   https://www.trevillyan.dev/llms.txt
+
+Sitemap: https://www.trevillyan.dev/sitemap.xml
