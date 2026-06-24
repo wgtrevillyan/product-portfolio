@@ -119,7 +119,7 @@ For the contact form, set these in the Vercel project (or in `.env.local` when u
 | `SMTP_USER` | Gmail address (e.g. `no-reply@yourdomain.com`) |
 | `SMTP_APP_PASSWORD` | Gmail App Password (not your normal password) |
 | `NEXT_PUBLIC_POSTHOG_TOKEN` | PostHog project API key (public client-side key). Baked into the HTML at build time. Omit to disable PostHog (Mixpanel-only). |
-| `NEXT_PUBLIC_POSTHOG_HOST` | PostHog host. Defaults to `https://us.i.posthog.com`. |
+| `NEXT_PUBLIC_POSTHOG_HOST` | PostHog host. Defaults to `/ingest` — the first-party reverse proxy (see [Analytics](#analytics)). Set to `https://us.i.posthog.com` to bypass the proxy. |
 
 ## Clean URLs
 
@@ -168,6 +168,8 @@ Regenerate just the LLM artifacts with `npm run build:llms`. All of the above ho
 `scripts/inject-analytics.js` injects, into every page, **PostHog** (the going-forward analytics) plus a small **AI-referral** helper that detects visitors arriving from AI answer engines and fires an `ai_referral` event + `ai_source` super-property to **both PostHog and Mixpanel** during the transition. Mixpanel and LogRocket (inline in the page `<head>` from the original export) are being retired — LogRocket first, then Mixpanel once PostHog parity is confirmed.
 
 The PostHog project token is read from `NEXT_PUBLIC_POSTHOG_TOKEN` at build time (a public client-side key, injected rather than committed). With no token (local builds) PostHog is skipped and the helper still fires to Mixpanel — nothing breaks. Crawlers don't run JS, so this measures *humans arriving from AI answers*, not crawl/citation hits — watch Vercel access logs for the AI bot user-agents.
+
+**Reverse proxy (`/ingest`).** PostHog events are sent through a first-party `/ingest` path rather than directly to `*.posthog.com`, so browser ad/tracking blockers can't drop them — important for capturing inbound referral/UTM traffic (e.g. links tagged `?utm_source=trevillyanlabs.io&utm_medium=referral&utm_campaign=studio_site`). `vercel.json` rewrites `/ingest/*` to PostHog's US ingestion and asset hosts; the snippet's `api_host` defaults to `/ingest` (override via `NEXT_PUBLIC_POSTHOG_HOST`). This mirrors the NewsNook marketing-site setup.
 
 ## Content Management
 
